@@ -4,5 +4,5 @@ module.exports = {
         themeConfig: {
         nav: [{ text: 'Home', link: '/' }]
     },
-    dest: 'public'
+    dest: 'dist'
   }
