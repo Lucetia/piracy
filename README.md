@@ -1,4 +1,11 @@
-# Home
+<p align="center">
+  <br>
+  <img width="120" src="/logo.svg" alt="arrrr!">
+  <br>
+  <br>
+</p>
+
+> An awesome list of arrrrr!
 
 ## VPNs
 
