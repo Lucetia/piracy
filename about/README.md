@@ -11,4 +11,4 @@ For discussion, feedback or if you come across dead links please head to [issues
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Maximous Black](https://piracy.now.sh) has waived all copyright and related or neighboring rights to tis project.
+To the extent possible under law, [Maximous Black](https://piracy.now.sh) has waived all copyright and related or neighboring rights to this project.
