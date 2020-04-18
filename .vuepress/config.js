@@ -15,7 +15,7 @@ module.exports = {
         searchPlaceholder: "Search",
         lastUpdated: "Last Updated",
         repo: "maximousblk/piracy",
-        repoLabel: "View on GitHub",
+        repoLabel: "GitHub",
         editLinks: true,
         editLinkText: "Help us improve this page!",
         smoothScroll: true,
