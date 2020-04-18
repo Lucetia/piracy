@@ -1,5 +1,6 @@
 ---
 sidebar: false
+home: true
 ---
 
 # About
