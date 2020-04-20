@@ -1,7 +1,8 @@
 ---
 sidebar: false
-home: true
 ---
+
+# About
 
 This list is an attempt to add structure to the resources you need to get started on your pirate voyage.
 
