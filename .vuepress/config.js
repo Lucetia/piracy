@@ -13,7 +13,7 @@ module.exports = {
         ],
         sidebar: "auto",
         searchPlaceholder: "Search",
-        lastUpdated: "Last Updated",
+        lastUpdated: true,
         repo: "maximousblk/piracy",
         repoLabel: "GitHub",
         editLinks: true,
