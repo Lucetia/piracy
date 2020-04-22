@@ -9,7 +9,7 @@ module.exports = {
         nav: [
             { text: "Home", link: "/" },
             { text: "About", link: "/about/" },
-            { text: "DMCA", link: "/dmca/" }
+            { text: "DMCA", link: "/dmca/" },
         ],
         sidebar: "auto",
         searchPlaceholder: "Search",
@@ -18,6 +18,6 @@ module.exports = {
         repoLabel: "GitHub",
         editLinks: true,
         editLinkText: "Help us improve this page!",
-        smoothScroll: true,
+        smoothScroll: false,
     },
 };

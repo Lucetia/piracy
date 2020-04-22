@@ -5,23 +5,22 @@
     "main": "index.js",
     "scripts": {
         "dev": "vuepress dev",
-        "build": "vuepress build",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "build": "vuepress build"
     },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/maximousblk/piracy.git"
     },
     "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "author": "Maximous Black",
+    "license": "CC0-1.0",
     "bugs": {
         "url": "https://github.com/maximousblk/piracy/issues"
     },
-    "homepage": "https://github.com/maximousblk/piracy#readme",
+    "homepage": "https://piracy.now.sh/",
     "devDependencies": {
         "@vuepress/plugin-back-to-top": "^1.4.1",
-        "@vuepress/plugin-pwa": "^1.4.1",
         "vuepress": "^1.4.1"
-    }
+    },
+    "dependencies": {}
 }
