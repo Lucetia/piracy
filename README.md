@@ -1,5 +1,121 @@
 ---
+title: Home
+metaTitle: Piracy
 ---
+
+## Laws
+
+### Liability for Contents
+
+-   [Burn, drown, or smash your phone: Forensics can extract data anyway](https://www.zdnet.com/article/burn-drown-or-smash-your-phone-forensics-can-extract-data-anyway/)
+-   [A new bill could punish web platforms for using end-to-end encryption](https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption)
+-   [French court rules that Steam’s ban on reselling used games is contrary to European law](https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law)
+-   [MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive)
+-   [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
+-   [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
+-   [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
+-   [IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules](https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/) - ([.PDF](https://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf))
+-   [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/) - ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))
+-   [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)
+-   [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)
+-   [Swiss Copyright Law: Downloading Stays Legal, No Site Blocking](https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/)
+-   [Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)
+-   [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
+-   [Who Watches the Watchmen: Exploring Complaints on the Web](https://arxiv.org/abs/1902.05796)
+
+### Internet Service Providers
+
+-   [Major US ISPs Refuse to Discuss Repeat Infringer Policies](https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/)
+-   [British ISPs throw in the towel, give up sending out toothless copyright infringement warnings](https://www.theregister.co.uk/2019/07/20/creative_content_piracy/)
+
+#### ISPs you should avoid
+
+-   AT&T
+-   CenturyLink
+-   Comcast/Xfinity
+-   Cox Communications
+-   Spectrum/Charter
+-   Telekom
+-   Verizon
+-   Vodafone
+
+### Piracy status among contries
+#### Countries where piracy is "legal"
+
+> for personal use only. Publishing & sharing it is always illegal!
+
+-   Poland
+-   Spain
+-   Switzerland
+-   [Where are torrents permitted?](https://i.imgur.com/3fHyG2S.png) - A world map (picture) which shows where warez torrenting is allowed.
+
+#### Countries where both downloading & sharing is illegal
+
+-   Argentina
+-   Bangladesh
+-   [Brazil](https://g1.globo.com/sp/sao-paulo/noticia/2019/11/01/policia-civil-deflagra-operacao-contra-pirataria-digital-em-sp.ghtml)
+-   Canada
+-   Chile
+-   Columbia
+-   Czech Republic
+-   Denmark
+-   Egypt
+-   Greece
+-   India
+-   Iran
+-   Israel
+-   Malaysia
+-   Mexico
+-   Netherlands
+-   Philippines
+-   Romania
+-   Singapore
+-   Slovakia
+-   Slovenia
+-   South Korea
+-   Uruguay
+
+#### Countries where torrenting copyright material is highly illegal
+
+-   Australia
+-   China
+-   Finland
+-   France
+-   Germany
+-   Itlay
+-   Japan
+-   Korea
+-   Latvia
+-   Portugal
+-   Russia
+-   UAE
+-   UK
+-   US
+
+### GeoIP restricted countries
+
+-   Canada
+-   China
+-   Germany
+-   India
+-   Itlay
+-   Japan
+-   Latvia
+-   Malaysia
+-   Portugal
+-   Russia
+-   Singapore
+-   South Korea
+-   UAE
+-   UK
+-   US
+
+### Public DMCA complaints
+
+-   [Lumendatabase.org](https://www.lumendatabase.org/) - A database e.g. Google uses for their blacklist, it provides hundreds of links with movie and tv shows.
+-   [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) - A incomplete list of websites recently taken down in the UK by the High Court.
+-   [Counterfeit and Piracy Watch List (.PDF)](https://torrentfreak.com/images/tradoc_157564.pdf) - A list from 2018 provided by Europol and others, to watch the current piracy status.
+
 
 ## Protection
 
@@ -11,6 +127,11 @@
 -   [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
 -   [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
 -   [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak Article by Ernesto
+-   [How to start your own ISP](https://startyourownisp.com/) - Start your own ISP, lists tools which you need and lots of background information.
+-   [How to Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) - PDF from weboas.is which shows how you self-host Qquestionable" websites.
+-   Open QB advance settings, and bind the network interface to your VPN network adapter (TAP) - e.g. PIA/Proton [check this example](https://i.imgur.com/pD7atey.jpg).
+-   [ANONYMOUS TORRENTING WITH I2P-SNARK: USING SNARK](https://privacytutorials.wordpress.com/2015/01/05/anonymous-torrenting-with-i2p-snark-using-snark/)
+
 
 ### Email
 
@@ -37,6 +158,24 @@
 -   [Rainloop](https://www.rainloop.net/) - SIMPLE, MODERN & FAST WEB-BASED EMAIL CLIENT.
 -   [Roundcube](https://roundcube.net/) - MIME support, address book, folder manipulation, message searching and spell checking.
 -   [Simple Login](https://github.com/simple-login/app) - Email alias/forwarding and identity provider service.
+
+### Data leak checking
+
+-   [I Got Phished](https://igotphished.abuse.ch/) - Collecting information regarding users that became victims of a phishing attack by entering their password on a phishing website
+-   [Have I been pwned?](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach.
+-   [Firefox Monitor](https://monitor.firefox.com/) - Have your accounts been leaked or stolen in a data breach? Find out at Firefox Monitor.
+-   [LeakCheck](https://leakcheck.net/) - Paid database engine to check if your eMail, online accounts have been compromised.
+-   [Snusbase](https://snusbase.com/) - Paid Database Search Engine to check for latest database breaches.
+-   [GhostProject.fr](https://ghostproject.fr/) - Free Database Lookup of Recent 1.4 billion password breach compilation, GhostProject allows you to Search by email or username.
+
+### Secure Messenger
+
+-   [A comparison of messaging / communication services](Messaging-Services-Comparison)
+-   [Briar](http://briarproject.org/)
+-   [Riot](http://matrix.org/blog/home/)
+-   [Threema](http://threema.ch/en)
+-   [Wire](http://wire.com/)
+-   [Signal](http://signal.org/)
 
 ### Password Managers
 
@@ -67,11 +206,22 @@
 -   [AppliedPrivacy](https://appliedprivacy.net/de/services/dns/) - A privacy conscious DNS service.
 -   [NixNet](https://nixnet.xyz/dns/) - Uncensored DNS that doesn't keep logs.
 
+#### Cloud based
+
+-   [Blockchain-DNS.info](https://blockchain-dns.info/) - First step towards the uncensored Internet
+-   [NextDNS](https://www.nextdns.io/) - Cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet.
+
+
 ### VPN
 
--   [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling
 -   [r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
--   [r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) Helpful FAQ-type resource composed by the folks at /r/VPN
+-   [r/VPN wiki](https://www.removeddit.com/r/VPN/wiki/index) - Helpful Wiki resource written by the community from /r/VPN.
+-   [Choosing the best VPN (for you) - /r/VPN](https://www.removeddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) - That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
+-   [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) - Helpful guide from EFF.org.
+-   [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) - VPN section of "That One Privacy Site" with VPN comparisons.
+-   [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) - ArchWiki page which explains how to achieve a poor man's VPN via SSH tunneling.
+-   [Which VPN Services Keep You Anonymous in 2019?](https://torrentfreak.com/which-vpn-services-keep-you-anonymous-in-2019/) - TorrentFreak article by Ernesto about which VPN you _could_ use.
+-   [How To Set Up an OpenVPN Server on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04) - The guide still works on newer Ubuntu releases without any problems.
 
 #### Services
 
@@ -85,34 +235,48 @@
 
 #### Self-hosted
 
--   [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
--   [PeerVPN](https://peervpn.net/) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
--   [OpenVPN](https://openvpn.net/) OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
--   [Nebula](https://github.com/slackhq/nebula) A scalable overlay networking tool with a focus on performance, simplicity and security
--   [Pritunl](https://pritunl.com/) Enterprise Distributed OpenVPN and IPsec Server
--   [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
--   [sshuttle](https://github.com/sshuttle/sshuttle) Transparent proxy server that works as a poor man's VPN.
 -   [ZeroTier](https://www.zerotier.com) Peer-to-peer multi-platform VPN
--   [Outline by Alphabet](https://www.getoutline.org/) Not exactly a VPN, but is strong in privacy and security. Works with DO, Google Cloud, AWS and more.
--   [Mysterium Network](https://mysterium.network/) Open-source VPN client and server software. It can be used to sell your spare bandwidth for cryptocurrency.
--   [tinc](https://tinc-vpn.org/) Peer-to-peer VPN software with mesh routing.
+-   [algo](https://github.com/trailofbits/algo) - Algo VPN is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN.
+-   [Cloudron](https://cloudron.io/get.html) - A solution that allows anybody to create private clouds instantaneously.
+-   [DSVPN](https://github.com/jedisct1/dsvpn) - `Linux` - DSVPN is a dead simple VPN, designed to address the most common use case for using a VPN.
+-   [Mysterium Network](https://mysterium.network/) - Yet another self-hosted VPN.
+-   [n2n](https://github.com/ntop/n2n) - A Peer-to-peer VPN.
+-   [Nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security.
+-   [ocserv](https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server.
 -   [OpenConnect](https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
+-   [OpenVPN](https://openvpn.net/) - OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
+-   [Outline by Alphabet](https://www.getoutline.org/) - Not a traditional VPN but it might work with Google Cloud, AWS & more.
+-   [PeerVPN](https://peervpn.net/) - PeerVPN is a software that builds virtual ethernet networks between multiple computers.
+-   [Pritunl](https://pritunl.com/) - Enterprise Distributed OpenVPN and IPsec Server.
 -   [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
+-   [SoftEther VPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software.
+-   [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
+-   [Tailscale](https://github.com/tailscale/tailscal) - Tailscale is a mesh VPN that makes it easy to connect your devices, wherever they are. No more fighting configuration or firewall ports.
+-   [tinc](https://tinc-vpn.org/) Peer-to-peer VPN software with mesh routing.
+-   [vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole.
+-   [WireGuard VPN](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
 
 #### Decentralized
 
 -   [radvpn](https://github.com/mehrdadrad/radvpn) - Decentralized VPN
 -   [Mysterium Network](https://mysterium.network/vpn/) - Claims to be world’s 1st decentralized free VPN which uses OpenVPN & WireGuard.
 
-### Decentralised Networks
+### Alternate Networks
 
 -   [Tor](https://www.torproject.org/) Tor is free software and an open network that helps you defend against traffic analysis.
+    -   [Judge Recommends to Deny Summary Judgment Against Tor Exit Node Operator in Piracy Case](https://torrentfreak.com/judge-recommends-to-deny-summary-judgment-against-tor-exit-node-operator-in-piracy-case-190907/) [(.PDF)](https://torrentfreak.com/images/dallashuszar.pdf)
 -   [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
--   [Freenet](https://freenetproject.org) Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
 -   [Zeronet](https://zeronet.io/) Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
 -   [Loki](https://github.com/loki-project/loki-network) Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 -   [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
 -   [Yggdrasil](https://yggdrasil-network.github.io/about.html) Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.
+-   [cjdns](https://github.com/cjdelisle/cjdns) - Cjdns (Caleb James DeLisle's Network Suite) is a networking protocol and reference implementation, founded on the ideology that networks should be easy to set up
+-   [Freenet](https://freenetproject.org/) - Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
+-   [GnUNet](https://gnunet.org/) - GNUnet is a framework for secure peer-to-peer networking that does not use any centralized or otherwise trusted services
+-   [Psiphon](https://www.psiphon.ca/) - Run your own server, invite your friends, build a community, provide free and unfiltered Internet access to the world.
+-   [Scuttlebutt](https://www.scuttlebutt.nz/) - A decentralised secure gossip platform that aims to harmonize four perspectives of life: Environment reflecting Technology reflecting Community reflecting Society.
+-   [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
+-   [kalitorify](https://github.com/brainfucksec/kalitorify) - Transparent proxy through Tor for Kali Linux OS
 
 ### Operating Systems
 
@@ -164,6 +328,11 @@
 -   [Filterlists](https://filterlists.com/) - Provides an overview of Ad blocking filters/projects.
 -   [uBlock origin](https://github.com/gorhill/uBlock) - A fast and efficient Ad Blocker.
 -   [Wikipedia's Website about Ad blocking](https://en.wikipedia.org/wiki/Ad_blocking) - Wikipedia's info page about ad-blockers.
+
+#### DNS based
+
+-   [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - AdGuard Home is a network-wide software for blocking ads & tracking.
+-   [Pi-hole](https://pi-hole.net/) - Pi-Hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole.
 
 ## Cartoons and Anime
 
@@ -425,7 +594,7 @@
 -   [Issuu](https://issuu.com/) - Allows users to upload and distribute their publications worldwide.
 -   [KnowFree](http://knowfree.tradepub.com/) - Access free research, white papers, reports, case studies, magazines, and eBooks.
 -   [LeanPub](https://leanpub.com/) - eBooks on programming languages such as JavaScript, C#, PHP or Ruby and guidebooks.
--   [LibGen](http://gen.lib.rus.ec/) - eBook search. ([Mirror](http://gen.lib.rus.ec/)) - + ([another Mirror](https://libgen.pw/))
+-   [LibGen](http://gen.lib.rus.ec/) + ([Mirror](http://gen.lib.rus.ec/)) + ([another Mirror](https://libgen.pw/)) + [Yet another mirror](http://libgen.is/) - The website has now an app which lets you search their database and download the books via their desktop app.
 -   [LibriVox](https://librivox.org/) - Yet another pplatform that offers a free download of audiobooks all over the world.
 -   [ManyBooks](http://manybooks.net/) - You can conduct an advanced search, type in a title or author, browse categories or select books by language, from Finnish to Bulgarian to Catalan to Swedish.
 -   [Myanonamouse](http://www.myanonamouse.net/login.php?returnto=%2F) - Over 2 million torrents.
@@ -443,6 +612,8 @@
 -   [Twirpx](https://www.twirpx.com/) - (RU) - Fiction/Non-fiction, books in multiple languages.
 -   [BookTracker](https://booktracker.org/) - (RU) - Book collections, discussions and torrents + IRC
 -   [Z-Lib.org](https://z-lib.org/) - Programmig and educational eBooks.
+-   [dlfeb](http://dlfeb.com/) - A website which downloads eBooks from AvaxHome.
+-   [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - A open source google books downloader with proxy support.
 
 ## Textbooks
 
@@ -461,6 +632,15 @@
 -   [How to "rent" your textbooks for free from Amazon](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) "Going to college? Living off top ramen for dinner? Let me show you have to "rent" your textbooks for free & for life!"
 -   [Guide for Finding Textbooks](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) Extensive tutorial by /u/Amosqu
 -   [forcoder](https://forcoder.su/) Ebooks & Elearning For Programming
+
+## Academic Papers
+
+-   [Academic Torrents](http://academictorrents.com/) - A Community-Maintained Distributed Repository for researchers, by researchers.
+-   [BookSC](http://booksc.org/) - The world's largest scientific articles store. 50,000,000+ articles for free.
+-   [GRE Prep](https://www.chegg.com/test-prep/gre) - (**semi free**) - Paid and free (trial) material for school, college and graduate students.
+-   [PDF-Gigant](http://pdf-giant.com/) - Provides a lot of different magazines.
+-   [Sci-Hub](https://sci-hub.tw/) - [Sci-hub btw. automatically uploads articles to libgen](https://engineuring.wordpress.com/2017/07/02/some-facts-on-sci-hub-that-wikipedia-gets-wrong/) and provides public access to tens of millions of research papers.
+
 
 ## Games
 
@@ -492,7 +672,7 @@
 -   [SSElauncher](https://github.com/MAXBURAOT/SmartSteamEmu) - SSELauncher Comfy Edition 2018 By LoodBot/Syahmixp (Steam Emulator).
 -   [Steam Achievement Manager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 
-### PC Games
+### PC
 
 -   [Bzinho Games](https://bzinhoneverdies.blogspot.com/) - Scene releases mirrors.
 -   [CompucaliTV](https://www.compucalitv.com/juegos-pc) - (SP) - Games, Video & more via Mega, OpenLoad, & others).
@@ -531,6 +711,56 @@
 -   [Download Game PS3](https://downloadgameps3.com/) - Download game PS3, PS4, RPCS3, PC for free.
 -   [PS3iso](http://www.ps3iso.net/) - Free PS3 games downloadable via filecrypt.cc.
 -   [Ziperto](https://www.ziperto.com/) - Nintendo, PC, Playstation and Emulator based games via GDrive & other hosters.
+
+#### 3DS
+
+-   [3DS Decrypter utility](https://github.com/matiffeder/stuff) - Decrypt 3DS files.
+-   [3dscia](https://www.3dscia.com/) - Nintendo 3ds CIA files.
+-   [GDrive](https://drive.google.com/drive/folders/1hXkQlsTk5dOAZyHP8WfCLl-adyEK24Dd) - EN/US based ROMs.
+-   [GDrive](https://drive.google.com/drive/folders/1lkJxXiakRmtUASb9fUoWOhuWe7TXUyV5) - All regions collection.
+-   [GDrive](https://drive.google.com/drive/folders/1VsRg8wZ2R_r_lRN89dKopQsTVN6EvRU3)
+-   [MEga.nz](https://mega.nz/#F!33AhDa4T!awOqr7lhZYFgjXoMMu6_8w) - DS Best of Collection
+-   [Mega.nz](https://mega.nz/#F!yLBiwApZ!JlecejkP1KK8jZujzHUbwQ) - 3DS Virtual Console
+-   [ziperto.com](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) - 3DS CIA collection.
+-   [3DS-Paradise](https://3ds-paradise.com/) - (FR) - One of the biggest 3DS forums in france.
+
+#### Mame Games
+
+-   [PleasureDome](http://www.pleasuredome.org.uk/index.php) - Various games for Mame.
+
+#### Nintendo Switch
+
+-   [The Ultimate Noob Guide for Hacking your Nintendo Switch](https://guide.sdsetup.com/) - Want to hack your Nintendo Switch but don’t know where to start? Just follow this guide!
+-   [GDrive (more frequently updated](https://drive.google.com/drive/folders/1VAxbSUcVindLxf9pVWvh64B-0Q8aM6xZ)
+-   [GDrive](https://drive.google.com/drive/folders/168_c19L6oDozFaMIOdf4oiL34y9tQP_J)
+-   [Switch SN Checker](https://akdm.github.io/ssnc/scanner/)
+
+##### Custom Firmware
+
+-   [Atmosphère](https://wiidatabase.de/switch-downloads/custom-firmware/atmosphere/)
+-   [Kosmos](https://github.com/CTCaer/hekate)
+-   [ReiNX](https://github.com/Reisyukaku/ReiNX)
+-   [SX OS](https://sx.xecuter.com/)
+-   [IsMySwitchPatched.com](https://ismyswitchpatched.com/) - Check if your CFW is already patched or not.
+
+#### Game Boy
+
+-   [G-Drive](https://drive.google.com/drive/folders/0B1VEYI5Xz677UjM4bEtTektJRFk) - Includes Game Boy ROM's (together with N64 etc) - and BIOS files.
+-   [GDrive (mirror)](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf) - Password `snahp.it`.
+-   [Mega.nz](https://mega.nz/#!nNoCWbBB!VYNEdwStd12U_aS1qotoo9bz8vky9JnZGrlqAeVKHjA) - Password `snahp.it`.
+-   [GBATemp](https://gbatemp.net/) - GBA news, downloads, info and tutorials.
+
+#### Wii
+
+-   [GDrive](https://drive.google.com/drive/folders/1Jkvx4RGbTF75NLUtYBDJG6FaFhvYw9m-) - EU only games.
+-   [GDrive](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - Wiiware and VC collection
+-   [GDrive](https://drive.google.com/drive/folders/0B7H6hIZDxNXeQW9uODA5UkM0ZG8) - Wii Scrubbed ISOs retail Collection NTSC
+-   [GDrive](https://drive.google.com/drive/folders/1UM6ZIhtWtIuwHo2rJunTTtW6sMxkTSQ0) - Mirror from abolve link.
+
+##### Wii Hacking
+
+-   [r/WiiHacking](https://www.removeddit.com/r/WiiHacking) - Community dedicated for Wii Roms, Firmwares, Discussions and links around the Wii hacking topic.
+-   [Wii Hacking Guide](https://wii.guide/) - Provides hacking guidance for the Wii console.
 
 ### Console Emulators
 
@@ -627,56 +857,6 @@
 
 -   [The Archive](https://blog.archive.org/2019/10/13/2500-more-ms-dos-games-playable-at-the-archive/) - Archive.org provides a legit way to play almost all DOS games for free in your browser.
 
-### 3DS
-
--   [3DS Decrypter utility](https://github.com/matiffeder/stuff) - Decrypt 3DS files.
--   [3dscia](https://www.3dscia.com/) - Nintendo 3ds CIA files.
--   [GDrive](https://drive.google.com/drive/folders/1hXkQlsTk5dOAZyHP8WfCLl-adyEK24Dd) - EN/US based ROMs.
--   [GDrive](https://drive.google.com/drive/folders/1lkJxXiakRmtUASb9fUoWOhuWe7TXUyV5) - All regions collection.
--   [GDrive](https://drive.google.com/drive/folders/1VsRg8wZ2R_r_lRN89dKopQsTVN6EvRU3)
--   [MEga.nz](https://mega.nz/#F!33AhDa4T!awOqr7lhZYFgjXoMMu6_8w) - DS Best of Collection
--   [Mega.nz](https://mega.nz/#F!yLBiwApZ!JlecejkP1KK8jZujzHUbwQ) - 3DS Virtual Console
--   [ziperto.com](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) - 3DS CIA collection.
--   [3DS-Paradise](https://3ds-paradise.com/) - (FR) - One of the biggest 3DS forums in france.
-
-### Mame Games
-
--   [PleasureDome](http://www.pleasuredome.org.uk/index.php) - Various games for Mame.
-
-### Nintendo Switch
-
--   [The Ultimate Noob Guide for Hacking your Nintendo Switch](https://guide.sdsetup.com/) - Want to hack your Nintendo Switch but don’t know where to start? Just follow this guide!
--   [GDrive (more frequently updated](https://drive.google.com/drive/folders/1VAxbSUcVindLxf9pVWvh64B-0Q8aM6xZ)
--   [GDrive](https://drive.google.com/drive/folders/168_c19L6oDozFaMIOdf4oiL34y9tQP_J)
--   [Switch SN Checker](https://akdm.github.io/ssnc/scanner/)
-
-#### Custom Firmware
-
--   [Atmosphère](https://wiidatabase.de/switch-downloads/custom-firmware/atmosphere/)
--   [Kosmos](https://github.com/CTCaer/hekate)
--   [ReiNX](https://github.com/Reisyukaku/ReiNX)
--   [SX OS](https://sx.xecuter.com/)
--   [IsMySwitchPatched.com](https://ismyswitchpatched.com/) - Check if your CFW is already patched or not.
-
-### Game Boy
-
--   [G-Drive](https://drive.google.com/drive/folders/0B1VEYI5Xz677UjM4bEtTektJRFk) - Includes Game Boy ROM's (together with N64 etc) - and BIOS files.
--   [GDrive (mirror)](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf) - Password `snahp.it`.
--   [Mega.nz](https://mega.nz/#!nNoCWbBB!VYNEdwStd12U_aS1qotoo9bz8vky9JnZGrlqAeVKHjA) - Password `snahp.it`.
--   [GBATemp](https://gbatemp.net/) - GBA news, downloads, info and tutorials.
-
-### Wii
-
--   [GDrive](https://drive.google.com/drive/folders/1Jkvx4RGbTF75NLUtYBDJG6FaFhvYw9m-) - EU only games.
--   [GDrive](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - Wiiware and VC collection
--   [GDrive](https://drive.google.com/drive/folders/0B7H6hIZDxNXeQW9uODA5UkM0ZG8) - Wii Scrubbed ISOs retail Collection NTSC
--   [GDrive](https://drive.google.com/drive/folders/1UM6ZIhtWtIuwHo2rJunTTtW6sMxkTSQ0) - Mirror from abolve link.
-
-#### Wii Hacking
-
--   [r/WiiHacking](https://www.removeddit.com/r/WiiHacking) - Community dedicated for Wii Roms, Firmwares, Discussions and links around the Wii hacking topic.
--   [Wii Hacking Guide](https://wii.guide/) - Provides hacking guidance for the Wii console.
-
 ### Repacks
 
 -   [FitGirl Repacks](http://fitgirl-repacks.site/) Popular DDL and torrent site for game repacks
@@ -756,7 +936,7 @@
 -   [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks) A subreddit dedicated to Wii U hacking and homebrew!
 -   [r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) Fairly active community of PS Vita pirates with guides and releases
 
-## Music
+## Music and podcasts
 
 -   [ddl-music.to](http://ddl-music.to/) - (_Cloudflare german IP block/check_) - `Ger` - German music platform to share
 -   [94hiphop](http://94hiphop.com/) - Download Free Hip Hop Albums!
@@ -779,6 +959,8 @@
 -   [streethiphop](https://www.streethiphop.org/) - Download free music.
 -   [wi.to](https://www.wi.to/) - A freemium hoster for music files.
 -   [How to use Chimera multi music downloader](https://anonym.to/https://www.youtube.com/watch?v=5y8rtsLw7Rc)
+-   [PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader) - Simple software for downloading podcasts. Contribute to cnovel/PodcastBulkDownloader development by creating an account on GitHub.
+-   [Podsnatch](https://github.com/robotmlg/podsnatch) - Simple podcast downloader. Contribute to robotmlg/podsnatch development by creating an account on GitHub.
 
 ### Streaming
 
@@ -919,17 +1101,12 @@
 
 ### Userscripts
 
--   [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
 -   [AdsBypasser](https://adsbypasser.github.io/) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
 -   [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) Remove forced download accelerators, managers, and adware on supported websites
 -   [AdGuard Popup Blocker](https://github.com/AdguardTeam/PopupBlocker) Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
 -   [openload](https://greasyfork.org/en/scripts/17665-openload) Remove anti-Adblock, ads, pop-ups, and timer waits, and show direct download link on OpenLoad.
--   [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Add magnet link to torrentz2
--   [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) Direct link functionality for Google Drive
 -   [Bypass Google Sorry (reCAPTCHA)](https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha) Redirect Google reCAPTCHA to a new search window.
--   [Google Image "View Image" button](https://greasyfork.org/en/scripts/38953-google-image-view-image-button) Add "View Image" button.
 -   [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
--   [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) Integrates MyAnimeList into various sites, with auto episode tracking.
 -   [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) Script that automatically hides fake torrents on The Pirate Bay based on conditional logic.
 -   [Get DLC Info from SteamDB](https://cs.rin.ru/forum/viewtopic.php?t=71837) For use with CreamAPI and similar tools.
 -   [The Pirate Bay Cleaner](https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) Auto-sorting, torrentifying, theme-change, search-change, SSL/HTTPS and more.
@@ -939,6 +1116,22 @@
 -   [Emuparadise ROMs:easy download](https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) - Make Emuparadise great again!
 -   [Mouseover Popup Image Viewer](https://greasyfork.org/scripts/404) - Shows images and videos behind links and thumbnails.
 -   [Various torrent links to Episodecalendar](https://greasyfork.org/en/scripts/27367-various-torrent-links-to-episodecalendar) - Adds various torrent links next to every episode in calendar, unwatched and season overview sections.
+-   [[TS] Citrus GFork](https://greasyfork.org/scripts/4336) - Adds bunch of GreasyFork hidden features.
+-   [GBookDown - Download Google Books](https://greasyfork.org/scripts/17113) - Saves all available Preview pages from a Google Book as PNGs.
+-   [GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub.
+-   [Gitlab Mods](https://greasyfork.org/scripts/377122) - Adds colored sections, extra functionality, and avatars to Gitlab.
+-   [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) - Direct link functionality for Google Drive.
+-   [Google Image "View Image" button](https://greasyfork.org/en/scripts/392076-google-images-direct-link-fix) - Add "View Image" button.
+-   [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) - Add links from IMDb pages to torrent sites, easy downloading from IMDb
+-   [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) - Integrates MyAnimeList into various sites, with auto episode tracking.
+-   [RARBG - torrent and magnet links](https://greasyfork.org/scripts/23493) -
+-   [RARBG Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Provides additional filtes for RARBG.
+-   [RYM google current album](https://greasyfork.org/en/scripts/5966-rym-google-current-album) - Places buttons and dropdowns below the album title on a release page that will conduct searches in many warez, torrent, and music info sites.
+-   [Sci-hub button](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Add sci-hub button after article link. Support Google scholar, bing academic and baidu xueshu. Jump CNKI English article to Chinese article.
+-   [Scribd downloader](https://greasyfork.org/scripts/14503) - Downloads from Scribd.
+-   [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) - Add magnet link to torrentz2.
+-   [XZ Pixiv Batch Downloader](https://greasyfork.org/scripts/24252) - Batch download original works of artists such as artists, bookmarks, leaderboards, search pages, etc.; view popular works; create folders; convert moving images...
+-   [Local YouTube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Download YouTube Videos without youtube-dl or external websites/tools.
 
 ## Media Centre Applications
 
@@ -997,33 +1190,36 @@
 
 #### Scripts and Tools
 
--   [plex_top_playlists](https://github.com/pbrink231/plex_top_playlists) A python script to get top weekly or top popular lists and put them in plex as playlists.
--   [JBOPS](https://github.com/blacktwin/JBOPS) Just a Bunch Of Plex Scripts
--   [plex-subtitles-normalizer](https://github.com/caridy/plex-subtitles-normalizer) CLI tool to fix subtitles needed by Plex Media Center
--   [plex_autoscan](https://github.com/l3uddz/plex_autoscan) Script to assist sonarr/radarr with plex imports.
--   [plexupdate](https://github.com/mrworf/plexupdate) script to simplify the life of Linux Plex Media Server users.
--   [plex2netflix](https://github.com/SpaceK33z/plex2netflix) See how much of your media from Plex is available on Netflix.
--   [plexReport](https://github.com/bstascavage/plexReport) Scripts to generate a weekly email of new additions to Plex
--   [plex-sync](https://github.com/jacobwgillespie/plex-sync) A simple command-line utility to synchronize watched/seen status between different Plex Media Servers.
--   [PlexIPTV](https://github.com/xiaodoudou/PlexIPTV) This app simulates a DVR device for Plex by providing a layer to any IPTV provider (that provide an m3u8 playlist)
--   [Plex Media Tagger](https://github.com/ccjensen/PlexMediaTagger) Uses the metadata held in the PlexMediaServer to tag media files
--   [PlexEmail](https://github.com/jakewaldron/PlexEmail) This script aggregates all-new TV, movie and music releases for the past configured time then optionally writes to your web directory and sends out an email.
--   [Transmogrify](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex
--   [PlexAuth](https://github.com/hjone72/PlexAuth) Plex based authentication using PHP
--   [Phlex](https://github.com/d8ahazard/Phlex) A super-sexy voice interface for the Plex HTPC
--   [Plex Redirect](https://github.com/ITRav4/PlexRedirect) a Plex landing page that redirects you to various sites.
--   [Plaxt](https://plaxt.herokuapp.com/) Webhook-based Trakt.tv scrobbling for Plex
 -   [goplaxt](https://github.com/XanderStrike/goplaxt/) Full rewrite of the above, written in Go and deployable with Docker
--   [plxdwnld](https://piplong.run/plxdwnld/) Bookmarklet for downloading original files from the Plex web interface
--   [Kitana](https://github.com/pannal/Kitana) Kitana exposes your Plex plugin interfaces "to the outside world".
--   [Python-PlexLibrary](https://github.com/adamgot/python-plexlibrary) Python command-line utility for creating and maintaining dynamic Plex libraries based on "recipes".
--   [NowShowing](https://github.com/ninthwalker/NowShowing) Generates an email and web page of Plex recently added content
 -   ["My (scripted) solution to having a single Movies library for 4k and non-4k."](https://www.reddit.com/r/PleX/comments/afs8m9/my_scripted_solution_to_having_a_single_movies/) Post by /u/spazatk
--   [PlexMissingEpisodes](https://github.com/MysticRyuujin/PlexMissingEpisodes) Scan Plex library for missing episodes using TheTVDB#
--   [Gaps](https://github.com/JasonHHouse/Gaps) Find the missing movies in your Plex Server
--   [PlexRecs](https://github.com/nwithan8/PlexRecs) A Discord bot that provides movie and TV show recommendations from your Plex library
 -   ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi, and an NVIDIA Shield
 -   [Varken](https://github.com/Boerderij/Varken) Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
+-   ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) - Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi and NVIDIA Shield.
+-   [DocDownloader](https://docdownloader.com/) - Scribd Downloader; Issuu Downloader; Slideshare Downloader; Academia Downloader. Scribd Downloader.
+-   [Gaps](https://github.com/JasonHHouse/Gaps) - Find the missing movies in your Plex Server.
+-   [JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
+-   [killstream](https://github.com/blacktwin/JBOPS/tree/master/killstream) - Killing streams is a Plex Pass only feature. So these scripts will only work for Plex Pass users.
+-   [Kitana](https://github.com/pannal/Kitana) - Kitana exposes your Plex plugin interfaces "to the outside world".
+-   [NowShowing](https://github.com/ninthwalker/NowShowing) - Generates an email and web page of Plex recently added content
+-   [Phlex](https://github.com/d8ahazard/Phlex) - A super-sexy voice interface for the Plex HTPC
+-   [Plaxt](https://plaxt.herokuapp.com/) - Webhook-based Trakt.tv scrobbling for Plex
+-   [Plex Media Tagger](https://github.com/ccjensen/PlexMediaTagger) - Uses the metadata held in the PlexMediaServer to tag media files
+-   [Plex Redirect](https://github.com/ITRav4/PlexRedirect) - a Plex landing page that redirects you to various sites.
+-   [plex_autoscan](https://github.com/l3uddz/plex_autoscan) - Script to assist sonarr/radarr with plex imports.
+-   [plex_top_playlists](https://github.com/pbrink231/plex_top_playlists) - A python script to get top weekly or top popular lists and put them in plex as playlists.
+-   [plex-subtitles-normalizer](https://github.com/caridy/plex-subtitles-normalizer) - CLI tool to fix subtitles needed by Plex Media Center.
+-   [plex-sync](https://github.com/jacobwgillespie/plex-sync) - A simple command-line utility to synchronize watched / seen status between different Plex Media Servers.
+-   [plex2netflix](https://github.com/SpaceK33z/plex2netflix) - See how much of your media from Plex is available on Netflix.
+-   [PlexAuth](https://github.com/hjone72/PlexAuth) - Plex based authentication using PHP.
+-   [PlexEmail](https://github.com/jakewaldron/PlexEmail) - This script aggregates all new TV, movie and music releases for the past configured time then optionally writes to your web directory and sends out an email.
+-   [PlexIPTV](https://github.com/xiaodoudou/PlexIPTV) - This app simulates a DVR device for Plex by providing a layer to any IPTV provider (that provide a m3u8 playlist).
+-   [PlexMissingEpisodes](https://github.com/MysticRyuujin/PlexMissingEpisodes) - Scan Plex library for missing episodes using TheTVDB.
+-   [PlexRecs](https://github.com/nwithan8/PlexRecs) - A Discord bot that provides movie and TV show recommendations from your Plex library.
+-   [plexReport](https://github.com/bstascavage/plexReport) - Scripts to generate a weekly email of new additions to Plex.
+-   [plexupdate](https://github.com/mrworf/plexupdate) - script to simplify the life of Linux Plex Media Server users.
+-   [plxdwnld](https://piplong.run/plxdwnld/) - Bookmarklet for downloading original files from the Plex web interface
+-   [Python-PlexLibrary](https://github.com/adamgot/python-plexlibrary) - Python command line utility for creating and maintaining dynamic Plex libraries based on "recipes".
+-   [Transmogrify](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) - A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex.
 
 #### Sharing
 
@@ -1283,6 +1479,11 @@
 -   [How to add HackYouriPhone Repo in Cydia](http://repo.hackyouriphone.org/add)
 -   [iOS: How to crack your apps (IPA) and share it with people! (Working versions past iOS 9!)](https://www.removeddit.com/r/Piracy/comments/e6r80n/ios_how_to_crack_your_apps_ipa_and_share_it_with/)
 -   [Beta Profiles](https://betaprofiles.com/) - Download Apple Beta Software without an account or developer ID.
+-   Secure Enclave key for iPhone and iPad
+
+```
+iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347bc1897bdd66b11815f036e94c951250c4dda916c00
+```
 
 ### JailBreak
 
@@ -1295,12 +1496,6 @@
 -   [ipwndfu](https://github.com/axi0mX/ipwndfu) - Open-source jailbreaking tool for many iOS devices.
 -   [s0meiyoshino](https://github.com/dora2-iOS/s0meiyoshino) - This tool enables exploit of iBoot.
 -   [Unc0ver](https://unc0ver.dev/) - The most advanced jail-break tool.
-
-### Secure Enclave key for iPhone and iPad
-
-```
-iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347bc1897bdd66b11815f036e94c951250c4dda916c00
-```
 
 ### Apps
 

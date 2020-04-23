@@ -1136,11 +1136,6 @@
 
 -   [Sigil](https://github.com/Sigil-Ebook) - [Sigil](https://sigil-ebook.com/) is a multi-platform EPUB ebook editor
 
-# eBook Downloader
-
--   [dlfeb](http://dlfeb.com/) - A website which downloads eBooks from AvaxHome.
--   [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - A open source google books downloader with proxy support.
--   [LibGen](http://libgen.is/) - The website has now an app which lets you search their database and download the books via their desktop app.
 
 # Manga reader
 
@@ -1167,14 +1162,6 @@
 -   [OpenVAS](http://www.openvas.org/) - Free software implementation of the popular Nessus vulnerability assessment system.
 -   [Vuls](http://github.com/future-architect/vuls) - Agentless vulnerability scanner for GNU/Linux and FreeBSD, written in Go.
 
-# Secure Messenger
-
--   [A comparison of messaging / communication services](Messaging-Services-Comparison)
--   [Briar](http://briarproject.org/)
--   [Riot](http://matrix.org/blog/home/)
--   [Threema](http://threema.ch/en)
--   [Wire](http://wire.com/)
--   [Signal](http://signal.org/)
 
 # Collaborative Editors
 
@@ -1469,27 +1456,6 @@ Overall strategy:
 
 -   [Media Reaper - Privacy 1st, Audio & Video Download](https://sasrip.cf/) + ([addon](https://addons.mozilla.org/en-US/firefox/addon/media-reaper/))
 
-# Website "Enhancer" Userscripts
-
--   [[TS] Citrus GFork](https://greasyfork.org/scripts/4336) - Adds bunch of GreasyFork hidden features.
--   [GBookDown - Download Google Books](https://greasyfork.org/scripts/17113) - Saves all available Preview pages from a Google Book as PNGs.
--   [GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub.
--   [Gitlab Mods](https://greasyfork.org/scripts/377122) - Adds colored sections, extra functionality, and avatars to Gitlab.
--   [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) - Direct link functionality for Google Drive.
--   [Google Image "View Image" button](https://greasyfork.org/en/scripts/392076-google-images-direct-link-fix) - Add "View Image" button.
--   [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) - Add links from IMDb pages to torrent sites, easy downloading from IMDb
--   [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) - Integrates MyAnimeList into various sites, with auto episode tracking.
--   [RARBG - torrent and magnet links](https://greasyfork.org/scripts/23493) -
--   [RARBG Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Provides additional filtes for RARBG.
--   [RYM google current album](https://greasyfork.org/en/scripts/5966-rym-google-current-album) - Places buttons and dropdowns below the album title on a release page that will conduct searches in many warez, torrent, and music info sites.
--   [Sci-hub button](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Add sci-hub button after article link. Support Google scholar, bing academic and baidu xueshu. Jump CNKI English article to Chinese article.
--   [Scribd downloader](https://greasyfork.org/scripts/14503) - Downloads from Scribd.
--   [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) - Add magnet link to torrentz2.
--   [XZ Pixiv Batch Downloader](https://greasyfork.org/scripts/24252) - Batch download original works of artists such as artists, bookmarks, leaderboards, search pages, etc.; view popular works; create folders; convert moving images...
-
-# YouTube Downloader Scripts
-
--   [Local YouTube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Download YouTube Videos without youtube-dl or external websites/tools.
 
 # Google Drive Downloader
 
@@ -1563,34 +1529,6 @@ Overall strategy:
 -   [Netflix Party](hhttps://www.netflixparty.com/) - Netflix Party synchronizes video playback and adds group chat to your favorite Netflix shows.
 -   [Discord Go Live](https://support.discordapp.com/hc/en-us/articles/360040816151-Share-your-screen-with-Go-Live-Screen-Share) - Share your screen with Go Live directly in Discord (up to 50 people).
 
-# Plex Scripts & Tools
-
--   ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) - Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi and NVIDIA Shield.
--   [DocDownloader](https://docdownloader.com/) - Scribd Downloader; Issuu Downloader; Slideshare Downloader; Academia Downloader. Scribd Downloader.
--   [Gaps](https://github.com/JasonHHouse/Gaps) - Find the missing movies in your Plex Server.
--   [JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
--   [killstream](https://github.com/blacktwin/JBOPS/tree/master/killstream) - Killing streams is a Plex Pass only feature. So these scripts will only work for Plex Pass users.
--   [Kitana](https://github.com/pannal/Kitana) - Kitana exposes your Plex plugin interfaces "to the outside world".
--   [NowShowing](https://github.com/ninthwalker/NowShowing) - Generates an email and web page of Plex recently added content
--   [Phlex](https://github.com/d8ahazard/Phlex) - A super-sexy voice interface for the Plex HTPC
--   [Plaxt](https://plaxt.herokuapp.com/) - Webhook-based Trakt.tv scrobbling for Plex
--   [Plex Media Tagger](https://github.com/ccjensen/PlexMediaTagger) - Uses the metadata held in the PlexMediaServer to tag media files
--   [Plex Redirect](https://github.com/ITRav4/PlexRedirect) - a Plex landing page that redirects you to various sites.
--   [plex_autoscan](https://github.com/l3uddz/plex_autoscan) - Script to assist sonarr/radarr with plex imports.
--   [plex_top_playlists](https://github.com/pbrink231/plex_top_playlists) - A python script to get top weekly or top popular lists and put them in plex as playlists.
--   [plex-subtitles-normalizer](https://github.com/caridy/plex-subtitles-normalizer) - CLI tool to fix subtitles needed by Plex Media Center.
--   [plex-sync](https://github.com/jacobwgillespie/plex-sync) - A simple command-line utility to synchronize watched / seen status between different Plex Media Servers.
--   [plex2netflix](https://github.com/SpaceK33z/plex2netflix) - See how much of your media from Plex is available on Netflix.
--   [PlexAuth](https://github.com/hjone72/PlexAuth) - Plex based authentication using PHP.
--   [PlexEmail](https://github.com/jakewaldron/PlexEmail) - This script aggregates all new TV, movie and music releases for the past configured time then optionally writes to your web directory and sends out an email.
--   [PlexIPTV](https://github.com/xiaodoudou/PlexIPTV) - This app simulates a DVR device for Plex by providing a layer to any IPTV provider (that provide a m3u8 playlist).
--   [PlexMissingEpisodes](https://github.com/MysticRyuujin/PlexMissingEpisodes) - Scan Plex library for missing episodes using TheTVDB.
--   [PlexRecs](https://github.com/nwithan8/PlexRecs) - A Discord bot that provides movie and TV show recommendations from your Plex library.
--   [plexReport](https://github.com/bstascavage/plexReport) - Scripts to generate a weekly email of new additions to Plex.
--   [plexupdate](https://github.com/mrworf/plexupdate) - script to simplify the life of Linux Plex Media Server users.
--   [plxdwnld](https://piplong.run/plxdwnld/) - Bookmarklet for downloading original files from the Plex web interface
--   [Python-PlexLibrary](https://github.com/adamgot/python-plexlibrary) - Python command line utility for creating and maintaining dynamic Plex libraries based on "recipes".
--   [Transmogrify](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) - A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex.
 
 # MagisK Modules
 
@@ -1690,35 +1628,12 @@ There is a universal rule for Android:
 
 -   [How to bypass Mega Quota limit via JDownloader 2](https://github.com/CHEF-KOCH/JDownloader-2-Mega-Quota-Bypass)
 
-# Kindle eBook
-
--   [Guide to Copy Kindle Content to PDF using Calibre](https://www.removeddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/)
--   [The idiot-proof guide to downloading ebooks off IRC](https://www.removeddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)
-
-# VPN Guides & Tutorials
-
--   [r/VPN wiki](https://www.removeddit.com/r/VPN/wiki/index) - Helpful Wiki resource written by the community from /r/VPN.
--   [Choosing the best VPN (for you) - /r/VPN](https://www.removeddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) - That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
--   [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) - Helpful guide from EFF.org.
--   [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) - VPN section of "That One Privacy Site" with VPN comparisons.
--   [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) - ArchWiki page which explains how to achieve a poor man's VPN via SSH tunneling.
--   [Which VPN Services Keep You Anonymous in 2019?](https://torrentfreak.com/which-vpn-services-keep-you-anonymous-in-2019/) - TorrentFreak article by Ernesto about which VPN you _could_ use.
--   [How To Set Up an OpenVPN Server on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04) - The guide still works on newer Ubuntu releases without any problems.
-
 # Software Piracy explained
 
 -   [MIC028_Piracy Guide.indd - Microsoft (.PDF)](http://download.microsoft.com/documents/australia/PIRACY/PiracyGuide.pdf) - Microsoft's anti software piracy guide.
 -   [What are the risks of using pirated Windows 10?](https://windowsreport.com/pirated-windows-10-risks/)
 -   [Unofficial Reddit Guides to software piracy](https://reddit.guide/r/Piracy/) - A list with subreddits connected to software piracy, it also lists which community was banned from Reddit.
 -   [How to download snahp zippy files without using your computer space and bandwidth!!!](https://telegra.ph/How-to-download-snahp-zippy-files-without-using-your-computer-space-and-bandwidth-08-25)
-
-# ISP
-
--   [How to start your own ISP](https://startyourownisp.com/) - Start your own ISP, lists tools which you need and lots of background information.
-
-# Self-hosting
-
--   [How to Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) - PDF from weboas.is which shows how you self-host Qquestionable" websites.
 
 # eMule
 
@@ -1729,11 +1644,6 @@ There is a universal rule for Android:
 -   [Exploit Writing Tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) - Tutorials on how to develop exploits.
 -   [Shellcode Examples](http://shell-storm.org/shellcode/) - A big shellcodes database.
 -   [Shellcode Tutorial](http://www.vividmachines.com/shellcode/shellcode.html) - Tutorial on how to write shellcode.
-
-# Torrent DMCA prevention
-
--   Open QB advance settings, and bind the network interface to your VPN network adapter (TAP) - e.g. PIA/Proton [check this example](https://i.imgur.com/pD7atey.jpg).
--   [ANONYMOUS TORRENTING WITH I2P-SNARK: USING SNARK](https://privacytutorials.wordpress.com/2015/01/05/anonymous-torrenting-with-i2p-snark-using-snark/)
 
 # Seedbox Setup Tools and Guides
 
@@ -2090,49 +2000,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 -   [@Protectron](https://www.protectronbot.com/) - Telegram anti-spam and group management bot.
 -   [@Shieldy](https://t.me/shieldy_bot) - A zero-config Telegram bot that fights spam in chats.
 
-# Liability for Contents
-
--   [Burn, drown, or smash your phone: Forensics can extract data anyway](https://www.zdnet.com/article/burn-drown-or-smash-your-phone-forensics-can-extract-data-anyway/)
--   [A new bill could punish web platforms for using end-to-end encryption](https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption)
--   [French court rules that Steam’s ban on reselling used games is contrary to European law](https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law)
--   [MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive)
--   [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
--   [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
--   [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
--   [IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules](https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/) - ([.PDF](https://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf))
--   [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/) - ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))
--   [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)
--   [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)
--   [Swiss Copyright Law: Downloading Stays Legal, No Site Blocking](https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/)
--   [Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)
--   [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
--   [Who Watches the Watchmen: Exploring Complaints on the Web](https://arxiv.org/abs/1902.05796)
-
-# ISP Info
-
--   [Major US ISPs Refuse to Discuss Repeat Infringer Policies](https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/)
--   [British ISPs throw in the towel, give up sending out toothless copyright infringement warnings](https://www.theregister.co.uk/2019/07/20/creative_content_piracy/)
-
-# Tor Info
-
--   [Judge Recommends to Deny Summary Judgment Against Tor Exit Node Operator in Piracy Case](https://torrentfreak.com/judge-recommends-to-deny-summary-judgment-against-tor-exit-node-operator-in-piracy-case-190907/) [(.PDF)](https://torrentfreak.com/images/dallashuszar.pdf)
-
-# ISPs you should avoid!
-
--   AT&T
--   CenturyLink
--   Comcast/Xfinity
--   Cox Communications
--   Spectrum/Charter
--   Telekom
--   Verizon
--   Vodafone
-
-# Public DMCA complaints
-
--   [Lumendatabase.org](https://www.lumendatabase.org/) - A database e.g. Google uses for their blacklist, it provides hundreds of links with movie and tv shows.
--   [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) - A incomplete list of websites recently taken down in the UK by the High Court.
--   [Counterfeit and Piracy Watch List (.PDF)](https://torrentfreak.com/images/tradoc_157564.pdf) - A list from 2018 provided by Europol and others, to watch the current piracy status.
 
 # Team Drives
 
@@ -2170,14 +2037,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 -   [Stream.io](https://Stream.io) - Tries to combine all social networks into one place (_currently beta_).
 -   [Shodan.io](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
 
-# Data leak checking (eMail, Accounts, etc)
-
--   [I Got Phished](https://igotphished.abuse.ch/) - Collecting information regarding users that became victims of a phishing attack by entering their password on a phishing website
--   [Have I been pwned?](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach.
--   [Firefox Monitor](https://monitor.firefox.com/) - Have your accounts been leaked or stolen in a data breach? Find out at Firefox Monitor.
--   [LeakCheck](https://leakcheck.net/) - Paid database engine to check if your eMail, online accounts have been compromised.
--   [Snusbase](https://snusbase.com/) - Paid Database Search Engine to check for latest database breaches.
--   [GhostProject.fr](https://ghostproject.fr/) - Free Database Lookup of Recent 1.4 billion password breach compilation, GhostProject allows you to Search by email or username.
 
 # Penetration Testing Distributions
 
@@ -2254,27 +2113,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 -   [WSC-Scriptz](https://support.wsc-scriptz.org) - (Ger) - Sometimes online, mostly blocked by ISP, provides a lot info around the nulled scene.
 -   [XenFiles.co](https://xenfiles.co) - (Ger) - Yet another german forum for nulled scripts.
 
-# Self-hosted VPNs
-
--   [algo](https://github.com/trailofbits/algo) - Algo VPN is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN.
--   [Cloudron](https://cloudron.io/get.html) - A solution that allows anybody to create private clouds instantaneously.
--   [DSVPN](https://github.com/jedisct1/dsvpn) - `Linux` - DSVPN is a dead simple VPN, designed to address the most common use case for using a VPN.
--   [Mysterium Network](https://mysterium.network/) - Yet another self-hosted VPN.
--   [n2n](https://github.com/ntop/n2n) - A Peer-to-peer VPN.
--   [Nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security.
--   [ocserv](https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server.
--   [OpenConnect](https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
--   [OpenVPN](https://openvpn.net/) - OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
--   [Outline by Alphabet](https://www.getoutline.org/) - Not a traditional VPN but it might work with Google Cloud, AWS & more.
--   [PeerVPN](https://peervpn.net/) - PeerVPN is a software that builds virtual ethernet networks between multiple computers.
--   [Pritunl](https://pritunl.com/) - Enterprise Distributed OpenVPN and IPsec Server.
--   [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
--   [SoftEther VPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software.
--   [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
--   [Tailscale](https://github.com/tailscale/tailscal) - Tailscale is a mesh VPN that makes it easy to connect your devices, wherever they are. No more fighting configuration or firewall ports.
--   [tinc](https://tinc-vpn.org/) Peer-to-peer VPN software with mesh routing.
--   [vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole.
--   [WireGuard VPN](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
 
 # Piracy archives
 
@@ -2354,74 +2192,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 -   [Domainr](https://domainr.com/) - Domainr allows you to find domain names and short URLs. Instantly check availability and register for all top-level domains.
 -   [Njalla](https://njal.la/) - A privacy-aware domain registration service.
 -   [xip.io](http://xip.io/) - Magic domain name that provides wildcard DNS for any IP address.
-
-# Countries where downloading copyright content is legal (for personal use only). Publishing it & sharing it - is still illegal (!)
-
--   Poland
--   Spain
--   Switzerland
--   -   [Where are torrents permitted?](https://i.imgur.com/3fHyG2S.png) - A world map (picture) which shows where warez torrenting is allowed.
-
-# Countries where both downloading & sharing is illegal
-
--   Argentina
--   Bangladesh
--   [Brazil](https://g1.globo.com/sp/sao-paulo/noticia/2019/11/01/policia-civil-deflagra-operacao-contra-pirataria-digital-em-sp.ghtml)
--   Canada
--   Chile
--   Columbia
--   Czech Republic
--   Denmark
--   Egypt
--   Greece
--   India
--   Iran
--   Israel
--   Malaysia
--   Mexico
--   Netherlands
--   Philippines
--   Romania
--   Singapore
--   Slovakia
--   Slovenia
--   South Korea
--   Uruguay
-
-# Countries where torrenting copyright material is highly illegal
-
--   Australia
--   China
--   Finland
--   France
--   Germany
--   Itlay
--   Japan
--   Korea
--   Latvia
--   Portugal
--   Russia
--   UAE
--   UK
--   US
-
-# Countries with GeoIP block restrictions
-
--   Canada
--   China
--   Germany
--   India
--   Itlay
--   Japan
--   Latvia
--   Malaysia
--   Portugal
--   Russia
--   Singapore
--   South Korea
--   UAE
--   UK
--   US
 
 # Pirate News, Blogs & Discussion Forums
 
@@ -2763,11 +2533,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 -   [monkrus](http://w13.monkrus.ws) - (RU) - Russian repacker website by monkrus.
 -   [Diakov](https://diakov.net/) - (RU) - Russian repacker for Adobe and other applications.
 
-# PodCast Downloader
-
--   [PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader) - Simple software for downloading podcasts. Contribute to cnovel/PodcastBulkDownloader development by creating an account on GitHub.
--   [Podsnatch](https://github.com/robotmlg/podsnatch) - Simple podcast downloader. Contribute to robotmlg/podsnatch development by creating an account on GitHub.
-
 # Custom "Google" Search Engines
 
 -   [FileChef](http://filechef.com/) - Get direct download links for almost anything!
@@ -2814,14 +2579,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 -   [ololo](https://ololo.to/) - ololo is a video streaming link search engine.
 -   [Orion](https://orionoid.com/) - Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
 -   [VideoSpider](https://videospider.in/) - VideoSpider crawls various websites and search engines to find movie and TV episode streaming links.
-
-# GoG Repack & Releases + Retro Games
-
--   [Free GOG PC Games](http://freegogpcgames.com/) - Yet another GOG alternative.
--   [Good-Old-Downloads/gg](https://github.com/MachineGunnur/GOG-Games) - A fork of Good Old Downloads' "GOG Games" hosted on Tor.
--   [Good-Old-Downloads (GitHub source code)](https://github.com/Good-Old-Downloads) - - Good-Old-Downloads is shooting down, see [here](https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) - why. There is a full encrypted dump avbl. [here](https://mega.nz/#!UccmySQK!N099Mjn9pe7PNYKJDOTdAAOSHpV1ZwpA8CT_wp2CNbw), make sure you read the integrated readme file!
--   [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) - Source Code & Tor Mirror (goggamespc7v6z5e.onion or goggamespc7v6z5e.onion.ws) for GOG Games.
--   [Torminatorr.com](http://www.forum.torrminatorr.com/viewforum.php?f=13) - Good-Old-Downloads mirror page.
 
 # DDL Link Sites
 
@@ -3147,14 +2904,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 -   [Removeddit](https://www.removeddit.com/about/) - Display removed (by mods) and deleted (by users) comments/threads from Reddit.
 
-# Academic Papers (White papers, GRE, etc.)
-
--   [Academic Torrents](http://academictorrents.com/) - A Community-Maintained Distributed Repository for researchers, by researchers.
--   [BookSC](http://booksc.org/) - The world's largest scientific articles store. 50,000,000+ articles for free.
--   [GRE Prep](https://www.chegg.com/test-prep/gre) - (**semi free**) - Paid and free (trial) material for school, college and graduate students.
--   [PDF-Gigant](http://pdf-giant.com/) - Provides a lot of different magazines.
--   [Sci-Hub](https://sci-hub.tw/) - [Sci-hub btw. automatically uploads articles to libgen](https://engineuring.wordpress.com/2017/07/02/some-facts-on-sci-hub-that-wikipedia-gets-wrong/) and provides public access to tens of millions of research papers.
-
 # Direct Download Streaming
 
 -   [Catchvideo.net](https://catchvideo.net/) - Catchvideo.net is a free online website, which allows you to download a video url from YouTube, Facebook, Dailymotion, Vimeo and more.
@@ -3178,10 +2927,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 -   [ThePirateBay](https://www.thepiratebay.org/browse/102) - ThePirateBay's collection of AudioBooks.
 -   [Tokybook](https://tokybook.com/) - Yet another free audiobook streaming site.
 -   [ZLibrary](https://b-ok.org/) - Part of Z-Library project. The world's largest ebook library.
-
-# Science Books
-
--   [BookSC](https://booksc.org/) - Part of Z-Library project. The world's largest scientific articles store. 70,000,000+ articles for free.
 
 # Documentaries
 
@@ -3639,16 +3384,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 -   [netflix-proxy](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to unblock Netflix streams.
 -   [k8s-usenet](https://github.com/aldoborrero/k8s-usenet) - Helm (Kubernetes based) collection of charts related to different Usenet services (sabnzbd, radarr, sonarr etc).
 
-# Proxies & alternative (secure) Protocols/Networks
-
--   [cjdns](https://github.com/cjdelisle/cjdns) - Cjdns (Caleb James DeLisle's Network Suite) is a networking protocol and reference implementation, founded on the ideology that networks should be easy to set up
--   [Freenet](https://freenetproject.org/) - Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
--   [GnUNet](https://gnunet.org/) - GNUnet is a framework for secure peer-to-peer networking that does not use any centralized or otherwise trusted services
--   [Psiphon](https://www.psiphon.ca/) - Run your own server, invite your friends, build a community, provide free and unfiltered Internet access to the world.
--   [Scuttlebutt](https://www.scuttlebutt.nz/) - A decentralised secure gossip platform that aims to harmonize four perspectives of life: Environment reflecting Technology reflecting Community reflecting Society.
--   [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
--   [kalitorify](https://github.com/brainfucksec/kalitorify) - Transparent proxy through Tor for Kali Linux OS
-
 # Stream Synchronisation
 
 -   [r/Movie_Club](https://www.removeddit.com/r/Movie_Club) - Where you can get together with strangers and watch a great movie every week!
@@ -3668,11 +3403,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 # Google sheets "Create a copy" bypass
 
 -   [MATLAB](https://de.mathworks.com/matlabcentral/fileexchange/39915-getgooglespreadsheet)
-
-# DNS based Ad-Blockers
-
--   [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - AdGuard Home is a network-wide software for blocking ads & tracking.
--   [Pi-hole](https://pi-hole.net/) - Pi-Hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole.
 
 # URL Shortener
 
@@ -3855,10 +3585,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 -   [DroidIris+](https://apkpure.com/en/droidiris-image-search/org.droidiris) - (Android) - Search and browse thousands of images online with this superb and smooth 3D gallery.
 -   [Tomato.to](https://tomato.to/) - A website who downloads images from various known image providers, such as FLickr, 500px.com, WireImage and many more.
 
-# Cloud based DNS Alternatives
-
--   [Blockchain-DNS.info](https://blockchain-dns.info/) - First step towards the uncensored Internet
--   [NextDNS](https://www.nextdns.io/) - Cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet.
 
 # Fake Data Generators
 
