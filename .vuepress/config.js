@@ -7,6 +7,7 @@ module.exports = {
         logo: "/logo.svg",
         nav: [
             { text: "Home", link: "/" },
+            { text: "Guides", link: "/guides/" },
             { text: "About", link: "/about/" },
             { text: "DMCA", link: "/dmca/" },
         ],
