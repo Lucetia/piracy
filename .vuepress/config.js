@@ -2,9 +2,8 @@ module.exports = {
     title: "Piracy",
     description: "A curated list of aarrrr!",
     dest: "dist",
-    plugins: ["@vuepress/back-to-top"],
+    head: [["link", { rel: "icon", href: "/favicon.ico" }]],
     themeConfig: {
-        head: [["link", { rel: "icon", href: "/favicon.ico" }]],
         logo: "/logo.svg",
         nav: [
             { text: "Home", link: "/" },
@@ -20,4 +19,5 @@ module.exports = {
         editLinkText: "Help us improve this page!",
         smoothScroll: false,
     },
+    plugins: ["@vuepress/back-to-top"],
 };
