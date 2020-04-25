@@ -3,378 +3,30 @@ title: Home
 metaTitle: Piracy
 ---
 
-## Laws
-
-### Liability for Contents
-
--   [Burn, drown, or smash your phone: Forensics can extract data anyway](https://www.zdnet.com/article/burn-drown-or-smash-your-phone-forensics-can-extract-data-anyway/)
--   [A new bill could punish web platforms for using end-to-end encryption](https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption)
--   [French court rules that Steam’s ban on reselling used games is contrary to European law](https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law)
--   [MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive)
--   [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
--   [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
--   [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
--   [IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules](https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/) - ([.PDF](https://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf))
--   [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/) - ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))
--   [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)
--   [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)
--   [Swiss Copyright Law: Downloading Stays Legal, No Site Blocking](https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/)
--   [Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)
--   [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
--   [Who Watches the Watchmen: Exploring Complaints on the Web](https://arxiv.org/abs/1902.05796)
-
-### Internet Service Providers
-
--   [Major US ISPs Refuse to Discuss Repeat Infringer Policies](https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/)
--   [British ISPs throw in the towel, give up sending out toothless copyright infringement warnings](https://www.theregister.co.uk/2019/07/20/creative_content_piracy/)
-
-#### ISPs you should avoid
-
--   AT&T
--   CenturyLink
--   Comcast/Xfinity
--   Cox Communications
--   Spectrum/Charter
--   Telekom
--   Verizon
--   Vodafone
-
-### Piracy status among contries
-
-#### Countries where piracy is "legal"
-
-> for personal use only. Publishing & sharing it is always illegal!
-
--   Poland
--   Spain
--   Switzerland
--   [Where are torrents permitted?](https://i.imgur.com/3fHyG2S.png) - A world map (picture) which shows where warez torrenting is allowed.
-
-#### Countries where both downloading & sharing is illegal
-
--   Argentina
--   Bangladesh
--   [Brazil](https://g1.globo.com/sp/sao-paulo/noticia/2019/11/01/policia-civil-deflagra-operacao-contra-pirataria-digital-em-sp.ghtml)
--   Canada
--   Chile
--   Columbia
--   Czech Republic
--   Denmark
--   Egypt
--   Greece
--   India
--   Iran
--   Israel
--   Malaysia
--   Mexico
--   Netherlands
--   Philippines
--   Romania
--   Singapore
--   Slovakia
--   Slovenia
--   South Korea
--   Uruguay
-
-#### Countries where torrenting copyright material is highly illegal
-
--   Australia
--   China
--   Finland
--   France
--   Germany
--   Itlay
--   Japan
--   Korea
--   Latvia
--   Portugal
--   Russia
--   UAE
--   UK
--   US
-
-### GeoIP restricted countries
-
--   Canada
--   China
--   Germany
--   India
--   Itlay
--   Japan
--   Latvia
--   Malaysia
--   Portugal
--   Russia
--   Singapore
--   South Korea
--   UAE
--   UK
--   US
-
-### Public DMCA complaints
-
--   [Lumendatabase.org](https://www.lumendatabase.org/) - A database e.g. Google uses for their blacklist, it provides hundreds of links with movie and tv shows.
--   [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) - A incomplete list of websites recently taken down in the UK by the High Court.
--   [Counterfeit and Piracy Watch List (.PDF)](https://torrentfreak.com/images/tradoc_157564.pdf) - A list from 2018 provided by Europol and others, to watch the current piracy status.
-
-## Security
-
--   [That One Privacy Site](https://thatoneprivacysite.net/) - VPN and email service comparisons
--   [privacytools.io](https://www.privacytools.io/) - "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
--   [Prism Break](https://prism-break.org/en/) - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
--   [r/privacy](https://www.reddit.com/r/privacy/) - The intersection of technology, privacy, and freedom in a digital world.
--   [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - A privacy-focused keyboard
-
-### Email
-
--   [ProtonMail](https://protonmail.com/) - Secure Email Based in Switzerland
--   [Cock.li](https://cock.li/) - Yeah it's mail with cocks
--   [Tutanota](https://tutanota.com/) - Secure, open source email service
--   [Mailbox](https://mailbox.org/en/) - Mailbox.org fights for privacy eMails since years and is a big player when it comes to eMail.
--   [Posteo](https://posteo.de/) - Email green, secure, simple and ad-free!
--   [EmailDrop](https://www.emaildrop.io/) - Emaildrop is a free disposable email provider
-
-#### Temporary
-
--   [10 Minute Mail](https://10minutemail.net/) - Disposable, private mailboxes
--   [Disposable](https://github.com/0x19/disposable) - Disposable is a robust disposable email (burner emails) - API designed to help you verify whenever email address is coming from disposable service.
--   [Nada](https://getnada.com/) - Fast & free.
--   [s.MailPro](https://smailpro.com/) - Offering Temporary Email Service
--   [Temp Mail](https://temp-mail.org/en/) - Keep spam out of your mail and stay safe - just use a disposable temporary email address!
--   [Tempr eMail](https://tempr.email/fr/) - Similar service like Temp Mail, it's from the same provider.
-
-#### self hosted
-
--   [docker-mailserver](https://github.com/tomav/docker-mailserver) - A fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.
--   [FastMail](https://www.fastmail.com/?STKI=16785160) - Email, calendars and contacts done right.
--   [Rainloop](https://www.rainloop.net/) - SIMPLE, MODERN & FAST WEB-BASED EMAIL CLIENT.
--   [Roundcube](https://roundcube.net/) - MIME support, address book, folder manipulation, message searching and spell checking.
--   [Simple Login](https://github.com/simple-login/app) - Email alias/forwarding and identity provider service.
-
-### Data leak checking
-
--   [I Got Phished](https://igotphished.abuse.ch/) - Collecting information regarding users that became victims of a phishing attack by entering their password on a phishing website
--   [Have I been pwned?](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach.
--   [Firefox Monitor](https://monitor.firefox.com/) - Have your accounts been leaked or stolen in a data breach? Find out at Firefox Monitor.
--   [LeakCheck](https://leakcheck.net/) - Paid database engine to check if your eMail, online accounts have been compromised.
--   [Snusbase](https://snusbase.com/) - Paid Database Search Engine to check for latest database breaches.
--   [GhostProject.fr](https://ghostproject.fr/) - Free Database Lookup of Recent 1.4 billion password breach compilation, GhostProject allows you to Search by email or username.
-
-### Secure Messenger
-
--   [Briar](http://briarproject.org/)
--   [Riot](http://matrix.org/blog/home/)
--   [Threema](http://threema.ch/en)
--   [Wire](http://wire.com/)
--   [Signal](http://signal.org/)
-
-### Password Managers
-
-::: warning
-[LastPass security issues](https://en.wikipedia.org/wiki/LastPass#Security_issues) - Wikipedia
-:::
-
--   [Wikipedia's list of Password Managers](http://en.wikipedia.org/wiki/List_of_password_managers) - Overview of all password manager utilities.
--   [BitWarden](https://bitwarden.com/) Open source password management solution, can be self-hosted
--   [KeePassXC](https://keepassxc.org/) KeePassXC is a community fork of KeePassX, a native cross-platform port of KeePass Password Safe.
--   [LessPass](https://lesspass.com/) Stateless open source password manager
--   [1Password](https://1password.com/) Popular cloud-hosted password manager
--   [KeePass](https://keepass.info/) Free, open source, light-weight, and easy-to-use password manager.
-    -   [Plugins](https://keepass.info/plugins.html) : A list of third-party plugins for KeePass
-    -   [Keepass2Android](https://github.com/PhilippC/keepass2android) A Password manager app for Android based on Keepass
-    -   [KeePassium](https://keepassium.com/) - KeePassium combines the security of KeePass with a clean intuitive design.
--   [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass
--   [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
--   [Dashlane](https://www.dashlane.com/) An intuitive password manager with over with over 8 million users worldwide.
--   [Passbolt](https://www.passbolt.com/) Free, open source, self-hosted, extensible, OpenPGP based.
--   [Psono](https://psono.com/) Open source and self-hosted password manager for teams
--   [Buttercup](https://buttercup.pw/) Another open source password manager with desktop, mobile, and browser clients.
--   [MiniKeePass](https://minikeepass.github.io/) - iOS version of KeePass (_unofficial_).
--   [KeeVault](http://keevault.pm/) - Secure, Open Source Password Management.
--   [LastPass (Last Choice)](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
-
-### DNS
-
--   [AdGuard](https://adguard.com/en/adguard-dns/overview.html) - AdGuard DNS is a foolproof way to block ads that does not require installing any applications.
--   [Snopyta](https://snopyta.org/service/dns/) - Finland based non-profit DNS that doesn't keep.
--   [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/) - An uncensored alternative to the internet providers filtered DNS servers.
--   [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/dns) - another uncensored DNS servers.
--   [AppliedPrivacy](https://appliedprivacy.net/de/services/dns/) - A privacy conscious DNS service.
--   [NixNet](https://nixnet.xyz/dns/) - Uncensored DNS that doesn't keep logs.
-
-#### Cloud based
-
--   [Blockchain-DNS.info](https://blockchain-dns.info/) - First step towards the uncensored Internet
--   [NextDNS](https://www.nextdns.io/) - Cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet.
-
-### VPN
-
--   [r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
--   [r/VPN wiki](https://www.removeddit.com/r/VPN/wiki/index) - Helpful Wiki resource written by the community from /r/VPN.
--   [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) - VPN section of "That One Privacy Site" with VPN comparisons.
-
-#### Services
-
--   [Mullvad](https://mullvad.net/en/) A Bitcoin-friendly, privacy-first VPN.
--   [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
--   [IVPN](https://www.ivpn.net/) Based in Gibraltar and offers a 3 day free trial.
--   [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
--   [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
--   [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10gb/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
--   [Private Internet Access](https://www.privateinternetaccess.com/) Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
-
-#### Self-hosted
-
--   [ZeroTier](https://www.zerotier.com) Peer-to-peer multi-platform VPN
--   [algo](https://github.com/trailofbits/algo) - Algo VPN is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN.
--   [Cloudron](https://cloudron.io/get.html) - A solution that allows anybody to create private clouds instantaneously.
--   [DSVPN](https://github.com/jedisct1/dsvpn) - `Linux` - DSVPN is a dead simple VPN, designed to address the most common use case for using a VPN.
--   [Mysterium Network](https://mysterium.network/) - Yet another self-hosted VPN.
--   [n2n](https://github.com/ntop/n2n) - A Peer-to-peer VPN.
--   [Nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security.
--   [ocserv](https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server.
--   [OpenConnect](https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
--   [OpenVPN](https://openvpn.net/) - OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
--   [Outline by Alphabet](https://www.getoutline.org/) - Not a traditional VPN but it might work with Google Cloud, AWS & more.
--   [PeerVPN](https://peervpn.net/) - PeerVPN is a software that builds virtual ethernet networks between multiple computers.
--   [Pritunl](https://pritunl.com/) - Enterprise Distributed OpenVPN and IPsec Server.
--   [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
--   [SoftEther VPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software.
--   [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
--   [Tailscale](https://github.com/tailscale/tailscal) - Tailscale is a mesh VPN that makes it easy to connect your devices, wherever they are. No more fighting configuration or firewall ports.
--   [tinc](https://tinc-vpn.org/) Peer-to-peer VPN software with mesh routing.
--   [vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole.
--   [WireGuard VPN](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
-
-#### Decentralized
-
--   [radvpn](https://github.com/mehrdadrad/radvpn) - Decentralized VPN
--   [Mysterium Network](https://mysterium.network/vpn/) - Claims to be world’s 1st decentralized free VPN which uses OpenVPN & WireGuard.
-
-### Alternate Networks
-
--   [Tor](https://www.torproject.org/) Tor is free software and an open network that helps you defend against traffic analysis.
-    -   [Judge Recommends to Deny Summary Judgment Against Tor Exit Node Operator in Piracy Case](https://torrentfreak.com/judge-recommends-to-deny-summary-judgment-against-tor-exit-node-operator-in-piracy-case-190907/) [(.PDF)](https://torrentfreak.com/images/dallashuszar.pdf)
--   [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
--   [Zeronet](https://zeronet.io/) Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
--   [Loki](https://github.com/loki-project/loki-network) Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
--   [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
--   [Yggdrasil](https://yggdrasil-network.github.io/about.html) Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.
--   [cjdns](https://github.com/cjdelisle/cjdns) - Cjdns (Caleb James DeLisle's Network Suite) is a networking protocol and reference implementation, founded on the ideology that networks should be easy to set up
--   [Freenet](https://freenetproject.org/) - Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
--   [GnUNet](https://gnunet.org/) - GNUnet is a framework for secure peer-to-peer networking that does not use any centralized or otherwise trusted services
--   [Psiphon](https://www.psiphon.ca/) - Run your own server, invite your friends, build a community, provide free and unfiltered Internet access to the world.
--   [Scuttlebutt](https://www.scuttlebutt.nz/) - A decentralised secure gossip platform that aims to harmonize four perspectives of life: Environment reflecting Technology reflecting Community reflecting Society.
--   [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
--   [kalitorify](https://github.com/brainfucksec/kalitorify) - Transparent proxy through Tor for Kali Linux OS
-
-### Operating Systems
-
-#### Linux
-
--   [Qubes OS](https://www.qubes-os.org/) Qubes OS is a security-oriented operating system
--   [Tails](https://tails.boum.org/) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
--   [Fedora Workstation](https://getfedora.org/) - Fedora Workstation is a secure, reliable, and user-friendly Linux distribution developed by the Fedora Project.
-
-#### Windows 10
-
-::: warning
-"[Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)" - Privacy tools
-:::
-
--   [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
--   [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) an In-depth guide on purging Windows 10 of Microsoft's attempts to track you
--   [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io
--   [WPD](https://wpd.app/) The real privacy dashboard for Windows
--   [Destroy-Windows-10-Spying](http://m.majorgeeks.com/files/details/destroy_windows_10_spying.html) Destroy Windows Spying tool
--   [Tron](https://www.reddit.com/r/TronScript) Tron, an automated PC cleanup script
--   [Tallow](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
-
-#### Android
-
--   [Intra](https://getintra.org/) - Intra gives you safer, more open internet access.
--   [DNSFilter](https://f-droid.org/en/packages/dnsfilter.android/) - No-root ad-blocker and DNS changer.
--   [Nebulo DNS](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen) - DNS Changer for DNS over HTTPS/TLS
--   [AdAway](https://adaway.org/) An open-source ad blocker for Android using the hosts file. needs ROOT access
-
-### Domain Names
-
--   [Njalla](https://njal.la/) a privacy-aware domain registration service
--   [xip.io](http://xip.io/) magic domain name that provides wildcard DNS
-    for any IP address.
--   [Domainr](https://domainr.com/) Domainr finds domain names and short URLs. Instantly check availability and register for all top-level domains.
-
-### Antivirus
-
--   [MalwareBytes](https://www.malwarebytes.com/) "crushes malware so you are protected and your machine keeps running smoothly."
--   [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
--   [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
--   [Avast Antivirus](https://www.avast.com) Avast Antivirus is a multi-platform antivirus application with a free tier. Be sure to opt-out of sending anonymous usage statistics.
-
-### Virtualisation
-
--   [FireJail](http://firejail.wordpress.com/download-2/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
--   [FlatPak](http://flatpak.org/getting) - Standalone apps for Linux are here!
--   [KVM](http://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
--   [Sandboxie](http://www.sandboxie.com/) - Install and run programs in a virtual sandbox (software based) environment without writing to the hard drive itself.
--   [Virtualbox](http://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
--   [VMWare](https://www.vmware.com/en.html) - (paid) - Closed source, but maybe the most reliable and used program for creating/booting up a virtual machine.
-
-### Ad-Blocking
-
--   [AdBlock Radio](https://github.com/adblockradio/adblockradio) - Block ads on live radio streams and podcasts. Machine learning meets Shazam!
--   [AdGuard](https://adguard.com/en/welcome.html) - Claims to be the worlds most advance ad-blocker.
--   [Filterlists](https://filterlists.com/) - Provides an overview of Ad blocking filters/projects.
--   [uBlock origin](https://github.com/gorhill/uBlock) - A fast and efficient Ad Blocker.
-
-#### DNS based
-
--   [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - AdGuard Home is a network-wide software for blocking ads & tracking.
--   [Pi-hole](https://pi-hole.net/) - Pi-Hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole.
-
 ## Cartoons and Anime
 
--   [Crunchyroll Downloader/Scraper (Windows/Linux)](https://github.com/ThePBone/CrunchyrollDownloader#crunchyroll-scraper) - Crunchyroll Downloader written (from scratch) in C++ for Windows and Linux, it uses FFmpeg to download/convert MP4 files and a US proxy to bypass GeoIP blocks.
--   [AnYme](https://github.com/zunjae/anYme) - Unofficial Anime App for MyAnimeList.
--   [AniméGlare](https://animeglare.xyz/) - watch ANIME not ADVERTISEMENTS
--   [AniméVibe](http://animevibe.tv/) - Watch Anime Online Stream Ad-Free
--   [Nyaa](https://nyaa.si/) BitTorrent software for cats
--   [Hi10 Anime](https://hi10anime.com/) High-Quality 10-bit Anime Encodes
--   [Anime Kaizoku](https://animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
--   [Anime Kayo](https://animekayo.com/) Up to 1080p DDL links, mostly Google Drive
 -   [r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
--   [r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
--   [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
--   [GoGo Anime](https://www3.gogoanime.in/) Popular website for watching anime
--   [AniLinkz](https://anilinkz.to/) Large database of streaming anime episodes.
--   [NyaaPantsu](https://nyaa.pantsu.cat/) Primarily Anime torrents but includes an open directory of DDL links too.
+    -   [r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
+    -   [The r/AnimePiracy Index](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/A1) - A Google Docs sheet for Anime websites including background information if page x contains ads, anti-adblock & more.
+-   [AnYme](https://github.com/zunjae/anYme) - Unofficial Anime App for MyAnimeList.
 -   [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
+-   [r/KissCommunitySupport](https://old.reddit.com/r/KissCommunitySupport) - Official Kiss Community subreddit.
+-   [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac](https://kissanime.ac/) Large cartoon collection that uses RapidVideo/Openload
+-   [KissAnime.nz](http://kissanime.nz/) - One of the best places for Animes.
+-   [KissAsian](http://kissasian.ch/) - Yet another website for Animes.
+-   [KissAnime.ru](http://kissanime.ru/) - (`RU`) - Official russian KissAnime community.
 -   [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
 -   [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
--   [animeEncodes](https://www.animencodes.com/) - High-Quality Anime Encodes
--   [HorribleSubs](https://horriblesubs.info/) Download anime via torrent files, magnet links, XDCC, and premium link hosts.
--   [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
--   [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
--   [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac](https://kissanime.ac/) Large cartoon collection that uses RapidVideo/Openload
--   [4anime](https://4anime.to/) A relatively new site, clean interface, Subs and dubs, many ads, many player alternatives.
--   [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
--   [watchcartoononline.com](https://www.watchcartoononline.com/) Cartoons, dubbed/subbed anime streaming site
--   [watchcartoononline.io](https://www.watchcartoononline.io/) Large DDL site for cartoons as well as anime and movies
--   [animetoon](http://www.animetoon.org/) Lots of streaming via premium hosts for cartoons
--   [Toonova](http://www.toonova.net/) Another site for streaming cartoons
--   [KimCartoon](https://kimcartoon.to/) Large cartoon collection, primarily Openload
 -   [r/AnimePiracy BCSE Search](https://ui.customsearch.ai/hosted-page?customconfig=12619b8a-0cac-4a38-b20b-04c79ddb616d&version=latest&market=en-US&q=) - A custom search engine for Anime content.
--   [All-animes](https://all-animes.com) - Watch Online Anime in HD, English, subbed and dubbed.
 -   [Anime Kisa](https://animekisa.tv/) - Subs and dubs, no ads, funded by donations, self-hosted.
 -   [Anime Simple](https://ww1.animesimple.com/) - Subs and dubs, banner ads, multiple sources.
 -   [Anime Streams](https://www.anime2you.de/streams/) - Sub and dub, banner ads.
 -   [Anime Take](https://animetake.tv/) - Subs and sometimes dubs, banner and pre-roll ads, one source.
--   [Anime8](https://anime8.me/) - Watch & download online in high quality.
--   [AnimeBam](https://www.animebam.net/) - Subs only, banner ads, only one source.
--   [animebam](https://www.animebam.se/) - Subs only, banner ads, only one source.
+-   [AnimeBam.net](https://www.animebam.net/) - Subs only, banner ads, only one source.
+-   [animebam.se](https://www.animebam.se/) - Subs only, banner ads, only one source.
 -   [AnimeBorn](http://www.animereborn.io/) - Subs only, banner ads, pop-ins, pop-ups, videos hosted by Google (proxy), only 1 source, downloadable.
 -   [AnimeBoys](https://animeboys.net/) - Sometimes offline - Subs and sometimes dubs, banner and pre-roll ads, one source.
--   [Animeboys](https://www.kaze-online.de/) - (Ger) - Subs and dubs, banner and pop-up ads, multiple sources.
+-   [Kaze Online](https://www.kaze-online.de/) - (Ger) - Subs and dubs, banner and pop-up ads, multiple sources.
 -   [AnimeDao](https://animedao.com/) - No ads, subs only, multiple sources, videos hosted by Google.
 -   [Animefever](https://www.animefever.tv/) - Subs only, multilingual, banner ads, self-hosted.
 -   [AnimeFlix](https://animeflix.io/nimeflix.io) - Zero ads, streams, background info.
@@ -383,15 +35,11 @@ metaTitle: Piracy
 -   [AnimeHub](https://animehub.ac/) - Sub and dub, banner ads.
 -   [AnimeKisa](https://animekisa.com/) - Subs and dubs, no ads, funded by donations, self-hosted.
 -   [Animelon](https://animelon.com/) - Subs only, multilingual, no ads, funded by donations, only one source, videos hosted by Google, aimed for Japanese learners.
--   [AnimePahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
--   [AnimeRam](https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
 -   [AnimeRush](https://www.animerush.tv/genres/) - Subs only, pop-ins, one source.
--   [AnimeSeries](https://animeseries.co/) - Yet another anime streaming provider website.
 -   [AnimeTV](https://animetv.ge/) - Subs and dubs, banner ads, many player alternatives.
 -   [AnimeTV](https://www3.animeseries.io/) - Subs and dubs, banner ads, many player alternatives.
 -   [animeultima](https://animeultima.eu/) - Subs and dubs, banner and pop-up ads, multiple sources.
 -   [animeultima](https://twitter.com/animeultimav2?lang=en) - Subs and dubs, banner and pop-up ads, multiple sources.
--   [AnimeVibe](https://animevibe.xyz/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
 -   [AnimeWatch](https://aniwatch.me/) - We are Aniwatch and here you will find an anime haven, including the best user experience you will ever have.
 -   [AnimeWorldBD](https://animeworldbd.com/) - Banner ads, some videos can only be downloaded, small list.
 -   [Aniwatcher](https://aniwatcher.com/) - Subs and dubs, pop-up ads on video player, downloadable, multiple sources.
@@ -419,38 +67,58 @@ metaTitle: Piracy
 -   [RyuAnime](https://www4.ryuanime.com/) - Dubbed animes.
 -   [Serienjunkies](http://serienjunkies.org/) - (GER) - Provides german tv episodes.
 -   [SGAnime](https://sganime.org/) - Subs only, no ads, few sources.
--   [The r/AnimePiracy Index](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/A1) - A Google Docs sheet for Anime websites including background information if page x contains ads, anti-adblock & more.
 -   [TVBox](https://tvbox.unblocked.gdn/)
 -   [TVRaven](https://www.onetvraven.pro/)
--   [WatchAnime.info](https://www9.watchanime.info/) - Subs and dubs, banner and pop-up ads, multiple sources.
--   [WatchCartoonsOnline](https://watchcartoonsonline.la/)
--   [WatchSeries 2.0](https://watch-series.io/)
 -   [Your-Anime](https://www.your-anime.com/) - (`AR`) - Arabish animes dubbed.
 -   [YMP4](https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.
--   [KissAnime.nz](http://kissanime.nz/) - One of the best places for Animes.
 -   [animeultima](https://www1.animeultima.to/) - Yet another good place for Animes.
--   [r/KissCommunitySupport](https://old.reddit.com/r/KissCommunitySupport) - Official Kiss Community subreddit.
--   [KissAnime.ru](http://kissanime.ru/) - (`RU`) - Official russian KissAnime community.
--   [KissAsian](http://kissasian.ch/) - Yet another website for Animes.
--   [KissManga](http://kissmanga.com/)
--   [KissComic](http://readcomiconline.to/)
 -   [NovelPlanet](http://novelplanet.com/)
--   [fmovies](https://fmovies.wtf/) - Alternative to KissCartoon and also includes TV shows and movies.
--   [Nyaa.si](https://nyaa.si/) - Anime torrent search engine with many fansub/fandub groups actively sharing torrents. No ads, no malware, nothing but clean.
--   [AniDex](https://anidex.info/) - Another anime torrent search engine. No ads/popups.
 -   [Tokyo Tosho](https://www.tokyotosho.info/) - Referral banner ads.
 -   [Nyaa Pantsu](https://nyaa.net/) - No ads. Very similar to nyaa website.
 -   [animetosho](https://animetosho.org/) - AnimeTosho (AT) is an automated service that mirrors torrents posted on Tokyo Tosho and Nyaa Torrents AniDex onto various file hosting services.
 -   [Hi10Anime](https://hi10anime.com/) - High Quality 10-bit Animes.
 -   [Anime Kaizoku](https://animekaizoku.com/) - Onclick pop-up ads (NSFW), banner ads, no torrents, GDrive as download source (encodes for donators), has torrent version on nyaa.si tagged as `[AnimeKaizoku]`.
 -   [Shana Project](https://www.anirena.com/) - Anime torrent side, no ads.
--   [animetoon](http://www.animetoon.org/) - Lots of streaming via premium hosts for cartoons.
 -   [iHaveNoTv](https://ihavenotv.com/) - Community managed documentary collection
 -   [KimCartoon](https://kimcartoon.co/) - Large cartoon collection, primarily Openload.
--   [Toonova](http://www.toonova.net/) - Another site for streaming cartoons.
--   [WatchCartoon](https://www.watchcartoononline.io/) Outdated site layout, still active and Openload.
--   [watchcartoononline.com](https://www.watchcartoononline.com/) + ([Mirror](https://www.watchcartoononline.io)) - Cartoons, dubbed/subbed anime streaming site.
+
+### Cantoons and Anime streaming
+
+-   [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
+-   [GoGo Anime](https://www3.gogoanime.in/) Popular website for watching anime
+-   [AniLinkz](https://anilinkz.to/) Large database of streaming anime episodes.
 -   [KissCartoon.info](https://kisscartoon.info) - Another site for streaming cartoons with a huge catalog
+-   [KissCartoon.ac](https://kisscartoon.ac/) Popular cartoon streaming site
+-   [watchcartoononline.com](https://www.watchcartoononline.com/) + ([Mirror](https://www.watchcartoononline.io)) - Cartoons, dubbed/subbed anime streaming site.
+-   [watchcartoononline.io](https://www.watchcartoononline.io/) Outdated site layout, still active and Openload.
+-   [WatchCartoonsOnline.la](https://watchcartoonsonline.la/)
+-   [Toonova](http://www.toonova.net/) - Another site for streaming cartoons.
+-   [AnimePahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
+-   [AnimeRam](https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
+-   [AnimeSeries](https://animeseries.co/) - Yet another anime streaming provider website.
+-   [AniméGlare](https://animeglare.xyz/) - watch ANIME not ADVERTISEMENTS
+-   [AniméVibe](http://animevibe.tv/) - Watch Anime Online Stream Ad-Free
+-   [4anime](https://4anime.to/) A relatively new site, clean interface, Subs and dubs, many ads, many player alternatives.
+-   [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
+-   [animetoon](http://www.animetoon.org/) - Lots of streaming via premium hosts for cartoons.
+-   [Anime8](https://anime8.me/) - Watch & download online in high quality.
+-   [WatchAnime.info](https://www9.watchanime.info/) - Subs and dubs, banner and pop-up ads, multiple sources.
+-   [WatchSeries 2.0](https://watch-series.io/)
+
+### Cantoons and Anime downloading
+
+-   [Crunchyroll Downloader/Scraper (Windows/Linux)](https://github.com/ThePBone/CrunchyrollDownloader#crunchyroll-scraper) - Crunchyroll Downloader written (from scratch) in C++ for Windows and Linux, it uses FFmpeg to download/convert MP4 files and a US proxy to bypass GeoIP blocks.
+-   [Nyaa.si](https://nyaa.si/) - Anime torrent search engine with many fansub/fandub groups actively sharing torrents. No ads, no malware, nothing but clean.
+-   [Hi10 Anime](https://hi10anime.com/) High-Quality 10-bit Anime Encodes
+-   [Anime Kaizoku](https://animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
+-   [Anime Kayo](https://animekayo.com/) Up to 1080p DDL links, mostly Google Drive
+-   [NyaaPantsu](https://nyaa.pantsu.cat/) Primarily Anime torrents but includes an open directory of DDL links too.
+-   [animeEncodes](https://www.animencodes.com/) - High-Quality Anime Encodes
+-   [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
+-   [watchcartoononline.io](https://www.watchcartoononline.io/) Large DDL site for cartoons as well as anime and movies
+-   [HorribleSubs](https://horriblesubs.info/) Download anime via torrent files, magnet links, XDCC, and premium link hosts.
+-   [AniDex](https://anidex.info/) - Another anime torrent search engine. No ads/popups.
+-   [AnimeVibe](https://animevibe.xyz/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
 
 ## Comics, Manga and Light novels
 
@@ -521,6 +189,8 @@ metaTitle: Piracy
 -   [AnimeVibe Lite v3](https://animevibe.tv/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
 -   [GoGo Anime](https://gogoanimes.co/) - Subs and dubs, many ads, many player alternatives.
 -   [Kissasian](http://kissasian.sh) - Provides HQ animes and material around animes (subs/dubs etc).
+-   [KissManga](http://kissmanga.com/)
+-   [KissComic](http://readcomiconline.to/)
 
 ## Books and Magazines
 
@@ -658,13 +328,15 @@ metaTitle: Piracy
 -   [ScanLibs](https://scanlibs.com/) - Provides Android, Assembler, Books, C & other courses.
 -   [The Online Books Page](http://digital.library.upenn.edu/books/) - You'll be able to access over 35,000 free ebooks from this site, powered by the University of Pennsylvania.
 -   [TutsGalaxy](https://tutsgalaxy.com/) - Free Courses & Tutorials.
+-   [udemy-dl](https://github.com/r0oth3x49/udemy-dl) - Udemy course downloader script.
 
 ## Documentaries
 
--   [r/Documentaries](https://www.reddit.com/r/documentaries) Popular documentaries subreddit
--   [My big list of documentary sites (streaming and download)](https://www.reddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) An old post by /u/whatwhat888 that may still be useful
--   [DocuWiki.net](http://docuwiki.net/index.php?title=Main_Page) DocuWiki.net serves as an index of documentary films on the Edonkey Network.
--   [MVGroup](http://forums.mvgroup.org/) Forum for documentary torrent and ED2K downloads. Sign-up required.
+-   [r/Documentaries](https://www.removeddit.com/r/documentaries) - Popular documentaries subreddit.
+-   [Documentary.su](http://documentary.su/) - International board for audiobooks & documentaries.
+-   [DocuWiki-net](http://docuwiki.net/index.php?title=Main_Page) - DocuWiki.net serves as an index of documentary films on the Edonkey Network.
+-   [MVGroup](http://forums.mvgroup.org/) - A forum which shares documentaries via P2P.
+-   [whatwhat888 big list of documentary sites (streaming and download)](https://www.removeddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) - An old post by /u/whatwhat888 that may still be useful.
 
 ## Audiobooks
 
@@ -827,6 +499,13 @@ metaTitle: Piracy
     -   [r/fullmoviesonyoutube](https://www.removeddit.com/r/fullmoviesonyoutube/)
     -   [r/fulltvshowsonvimeo](https://www.removeddit.com/r/fulltvshowsonvimeo/)
     -   [r/fulltvshowsonyoutube](https://www.removeddit.com/r/fulltvshowsonyoutube/)
+-   [at.my TV](http://at-my.tv/) - TV Calendar, TV Episode Guide, TV Show Listings.
+-   [DuckieTV](http://schizoduckie.github.io/DuckieTV/?from=duckie.tv&/) - A personalized calendar that tracks the shows you like/fav.
+-   [Ustvgo](https://ustvgo.tv/) - Watch CBS, Comedy, Disney, Fox, HBO and many more online for free
+-   [Stagedork](http://stagedork.com/) - Boradway popular channels like Fox, HBO, Comedy ...
+-   [Script Download Links](https://gointothestory.blcklst.com/script-download-links-9313356d361c?gi=3903aa2fdebf) - 100+ scripts made available by studios and production companies.
+-   [Script Slug](https://www.scriptslug.com/) - Browse hundreds of screenplays.
+-   [Springfield! Springfield!](https://www.springfieldspringfield.co.uk/) - Movie Transcript Database for iOS and Android.
 
 ### Content Discovery
 
@@ -845,6 +524,9 @@ metaTitle: Piracy
 -   [TVmaze](https://www.tvmaze.com/) - TVmaze is a community of TV lovers and dedicated contributors that discuss and help maintain TV information on the web.
 -   [What is my movie?](https://www.whatismymovie.com/) - AI-powered movie search. "Use your own words, or search with titles, actors, directors, genres etc. We find movies for you to watch."
 -   [WhereYouWatch](https://whereyouwatch.com/latest-reports/) - Follow upcoming movies and receive email alerts when they are out online as a download or stream – pirated or via retail.
+-   [Flickmetrix](https://flickmetrix.com/) Movie database search engine with disc/Netflix/Prime filtering
+-   [dvdsreleasedates.com](https://www.dvdsreleasedates.com/) The latest info on new Blu-ray and DVD releases
+-   [Simkl](https://simkl.com/) Movie and TV show scrobbler similar to Trakt.tv
 
 ### Streaming
 
@@ -1108,6 +790,38 @@ metaTitle: Piracy
 -   [Videoneat](https://videoneat.com/) - Documentaries/Science Movies
 -   [WTvF!](https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) - Youtube Grindhouse
 
+### Third Party Hosts
+
+-   [MovieZion](https://www.nicemoviezion.pro/) Openload
+-   [Vmovee](https://vmovee.me/) Openload (Many outdated/removed links, not updated)
+-   [MovieJagg](https://www.coolmoviejagg.pro/) Openload
+-   [IWannaWatch](https://www.iwannawatch.is/) Openload, Streamango
+-   [UWatchFree](https://www.uwatchfree.tv/) VidPlayer, ViDeoZa
+-   [Oakmovies](http://oakmovies.com/) Openload, NT, NY, NW
+-   [Vexmovies](http://vexmovies.org/) Openload, NY, NW, MC-2
+-   [Openloadmovie](https://openloadmovie.ws/) Openload (some outdated links)
+-   [cine.to](https://cine.to/) Openload, Vivo, Streamcloud, Flashx, Streamango
+-   [cinebloom](https://www2.cinebloom.com) Openload, Streamango
+-   [HDEUROPIX](https://topeuropix.net/) Openload, Rapidvideo
+-   [openloadmovies.net](https://openloadmovies.net/) OpenLoad
+-   [HD MOVIES](https://hdm.to/) OpenLoad, Streamango, Streamcherry
+-   [VodLocker](https://vodlocker.tv/) Openload, Streamango
+-   [StreamCouch](https://www2.streamcouch.com/) Openload, Streamango
+-   [Qwemovies](https://www3.qwemovies.com/) OpenLoad
+-   [movies2k](http://www.movie2k.st) Openload, Streamango, Streamcloud, Rapidvideo, Upvid
+-   [xPau.se](http://xpau.se/) Googledrive
+-   [Flixanity](https://flixanity.xyz/) Openload, Streamango, hls.22x.cartoonhd.pw (subtitles)
+-   [MegaShare](http://megashare9.su) Openload
+-   [XMovies8](https://xmovies8.ru/) Openload, FServer, PTServer
+-   [IceFilms](http://www.icefilms.info/) Openload, FileUpload
+-   [FilmXY](https://www.filmxy.nl/) RapidVideo, Vidoza, Uptostream (offers download links)
+-   [1Movies](http://1movies.nl) Openload, FServer
+-   [WatchFullMovie](http://watchfullmovie.co) Openload
+-   [FMOVIES](https://www3.fmovies.to/) Openload, MyCloud, RapidVideo, Streamango
+-   [WatchFree](https://watchfree.at/) Openload, FServer
+-   [pahe.in](https://pahe.in/) Uptostream, Google Drive, Openload, Mega
+-   [megaDDL](https://megaddl.co/) Mega, Go4up, 1Fichier, NitroFlare, Openload
+
 ### Subtitles
 
 -   [ASS / SSA to SRT Subtitles Converter](https://sorz.github.io/asstosrt-wasm/) - Encode ASS/SRT files
@@ -1116,6 +830,17 @@ metaTitle: Piracy
 -   [RenameThemSubs](https://github.com/Eshaan7/RenameThemSubs) - Rename subtitles files according to TV show names found in a directory.
 -   [Subscene](https://subscene.com/) - Quality Subtitles for Movies.
 -   [WonderfulSubs](https://www.wonderfulsubs.com/) - The best place on the web for all things Anime!
+
+### Ripping, Transcoding, Converting, Encoding
+
+-   [DVD Decrypter](http://dvddecrypter.org.uk/) The original unofficial DVD Decrypter mirror since June 7th, 2005.
+-   [Automatic Ripping Machine](https://b3n.org/automatic-ripping-machine/) - The A.R.M. (Automatic Ripping Machine) - detects the insertion of an optical disc, identifies the type of media and autonomously performs the appropriate action
+-   [DVDFab](https://www.dvdfab.cn/) - DVD/Blu-ray ripping tool, alternative use AnyDVD HD.
+-   [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
+-   [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+-   [MakeMKV](https://www.makemkv.com/) - MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere.
+-   [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library.
+-   [The Encoding Guide](https://encoding-guide.neocities.org/) - An in-depth guide on video encoding.
 
 ## Sports
 
@@ -1292,6 +1017,11 @@ metaTitle: Piracy
 -   [Mega.nz](https://mega.nz/#!nNoCWbBB!VYNEdwStd12U_aS1qotoo9bz8vky9JnZGrlqAeVKHjA) - Password `snahp.it`.
 -   [GBATemp](https://gbatemp.net/) - GBA news, downloads, info and tutorials.
 
+#### GameCube
+
+-   [Archive.org](https://archive.org/details/NCubeJ) - Gamecube NTSC-J: Your gonna need an account with archive.org but it should work, speeds are decent.
+-   [GDrive](https://drive.google.com/drive/folders/13qVydg48SNv1aosx3mdnJmSwUXXvrbHR)
+
 #### Wii
 
 -   [GDrive](https://drive.google.com/drive/folders/1Jkvx4RGbTF75NLUtYBDJG6FaFhvYw9m-) - EU only games.
@@ -1306,94 +1036,89 @@ metaTitle: Piracy
 
 ### Console Emulators
 
--   Multi-system emulators
+-   **Multi-system emulators**
 
     -   [higan](http://higan.byuu.org/) - Originally called "bsnes", the emulator supports Mega Drive, SNES, GBC & other systems.
     -   [RetroArch](http://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API (supports multiple cores/systems).
 
--   Amiga
+-   **Amiga**
 
     -   [E-UAE](http://amiga.technology/) - Computer emulator which emulates the hardware of Commodore International's Amiga.
 
--   Arcade
+-   **Arcade**
 
     -   [MAME](http://github.com/mamedev/mame) - Multiple Arcade Machine Emulator (MAME) is a free and open-source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.
 
--   Atari
+-   **Atari**
 
     -   [Stella](http://stella-emu.github.io/) - Atari 2600 game console emulator.
 
--   xBox 360
+-   **xBox 360**
 
     -   [Xenia](http://github.com/xenia-project/xenia) - Xbox 360 emulator.
 
--   SNES
+-   **SNES**
 
     -   [Mesen](http://github.com/SourMesen/Mesen-S) - Mesen-S is a cross-platform (Windows & Linux) SNES emulator built in C++ and C#. Mesen claims to be the most accurate SNES emulator.
     -   [Snes9x](http://github.com/snes9xgit/snes9x) - SNES emulator written in C++ with official ports for DOS, Linux, Microsoft Windows, AmigaOS 4, macOS, MorphOS, Xbox, PSP, PS3, Nintendo GameCube, Nintendo Wii, iOS, and Android.[
 
--   NES (Super NES/Famicom)
+-   **NES (Super NES/Famicom)**
 
     -   [fceux](http://github.com/TASVideos/fceux) - FCEUX, a NES Emulator
     -   [nes](http://github.com/fogleman/nes) - NES emulator written in Go.
     -   [JsNES](http://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
 
--   Nintendo 64
+-   **Nintendo 64**
 
     -   [1964](http://github.com/schibo/1964js) - One of the oldest and most popular N64 emulators written in C++.
     -   [Mupen64Plus (Mupen64-64bit/Mupen64-amd64)](http://mupen64plus.org/) - Written in C, C++, allows users to play Nintendo 64 games on a computer by reading ROM images.
     -   [parallel-n64](https://github.com/libretro/parallel-n64) - Optimized/rewritten Nintendo 64 emulator made specifically for Libretro. Originally based on Mupen64 Plus.
 
--   GameCube/Wii
+-   **GameCube/Wii**
 
     -   [Dolphin](http://github.com/dolphin-emu/dolphin) - Supports Windows, Linux, macOS and Android.
 
--   Wii U
+-   **Wii U**
 
     -   [Cemu](http://cemu.info/) - Closed source Wii U video game console emulator.
 
--   Game Boy
+-   **Game Boy**
 
     -   [Wzonka-Lad](http://www.villehelin.com/wzonka-lad.html) - Well known emulator for amiga series of home computers.
 
--   Game Boy Advance
+-   **Game Boy Advance**
 
     -   [VBA](http://sourceforge.net/projects/vba/) - VisualBoyAdvance supports Game Boy, Game Boy Color, and Game Boy Advance handheld game consoles.
 
--   Nintendo 3DS
+-   **Nintendo 3DS**
 
     -   [Citra](http://citra-emu.org/) - C++ developed for Nintendo 3DS and is the first of his kind. Citra does not work very well with older PCs and needs a x64 CPU.
 
--   Nintendo Switch
+-   **Nintendo Switch**
 
     -   [Yuzu](http://yuzu-emu.org/) - The first and (only) C++ emulator for Nintendo Switch. From the developer(s) of Citra.
 
--   Neo Geo CD
+-   **Neo Geo CD**
 
     -   [NeoCD](http://pacifi3d.retrogames.com/neocdsdl/) - Supports of Red Book (audio CD standard).
 
--   PlayStation
+-   **PlayStation**
 
     -   [PSEmu Pro](http://web.archive.org/web/19990428033703/http://www.psemu.com/index.html) - It has been discontinued since 1999 but still works on older systems perfectly fine.
 
--   PlayStation 2
+-   **PlayStation 2**
 
     -   [PCSX2](http://pcsx2.net/) - Open-source PlayStation 2 emulator for Windows, Linux, and macOS.
 
--   PlayStation 3
+-   **PlayStation 3**
 
     -   [RPCS3](http://github.com/rpcs3/rpcs3/) - Video game console emulator and debugger for the Sony PlayStation 3 written in C++.
 
--   PlayStation Portable
+-   **PlayStation Portable**
 
     -   [PPSSPP](http://github.com/hrydgard/ppsspp/) - Free and open-source PSP emulator for Windows, macOS, Linux, iOS, Android, BlackBerry 10 and SymbianOS.
     -   [PCSX-Reloaded](http://github.com/iCatButler/pcsxr) - Supports Microsoft Windows, OS X and Linux.
     -   [ePSXe](http://www.epsxe.com/) - PlayStation video game console emulator for x86-based PC hardware with Microsoft Windows or Linux.
-
--   GameCube Games
-
-    -   [Archive.org](https://archive.org/details/NCubeJ) - Gamecube NTSC-J: Your gonna need an account with archive.org but it should work, speeds are decent.
-    -   [GDrive](https://drive.google.com/drive/folders/13qVydg48SNv1aosx3mdnJmSwUXXvrbHR)
 
 ### DOS games
 
@@ -1523,6 +1248,11 @@ metaTitle: Piracy
 -   [Punsh](https://punsh.at.ua/) - (`RU`) - Russian repacker, similar like PoorShock and M0nkrus.
 -   [Soft4PC](https://s0ft4pc.com/) - Yet another website for cracked software repacks.
 -   [SCloud](https://scloud.ws/) - Provides site several years repacks for popular software like Adobe & Windows.
+-   [FoxxApp PAF Portables](https://foxxapp-paf.blogspot.com) - Windows Software repacks & portables.
+-   [LR Repacks](https://lrepacks.ru/) - (RU) - Yet another Russian portal, for ELCHUPACABRA repacks & more.
+-   [PiratedHub](https://piratedhub.com/) - Internation Repack website.
+-   [RePack Club](https://repacks.club/) - (RU) - Russian repack portal.
+-   [Repacks.NET](https://repacks.net/) - A well-known repack website mostly for Windows software.
 
 ### Keygens & Serials
 
@@ -1531,6 +1261,80 @@ metaTitle: Piracy
 -   [Serials](http://serialz.cracks.me.uk) - (insecue) - Yet another serials page.
 -   [SerialShack](http://www.serialshack.com) - One of the oldest serial websites which are still online.
 -   [Smart Serials](https://www.smartserials.com) - (needs VPN) - Forum + serials.
+
+### Adobe CC
+
+-   [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-Crack-Adobe-CC-2019-2020-GenP-v2-4) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
+-   [Adobe Master Collector](https://saidit.net/s/sjain_guides/wiki/downloads#wiki_adobe_master_collector.3A) This tool downloads pre-activated Adobe applications released by m0nkrus, ranging from CS6 to CC 2020.
+-   [Adobe CC 2018](https://saidit.net/s/sjain_guides/comments/9oz/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
+-   [Adobe Zii 4.0.3](https://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) Tool for patching and cracking Adobe CC applications.
+-   [Adobe Acrobat Pro DC](https://saidit.net/s/sjain_guides/comments/9p5/adobe_acrobat_pro_dc_full_indepth_guide_to/) Full in-depth guide to downloading, installing, activating and optimising.
+
+## Fonts, Graphics & sounds
+
+-   [Get the Font](https://www.getthefont.com/) - Searches through GitHub for free fonts.
+-   [GFxtra](https://www.gfxtra.com/) - DDL-links for graphics, icons, 3D models, and more!
+-   [GraphicEx](https://graphicex.com/) - Stock/vector graphics, PhotoShop/InDesign resources, fonts, and more.
+-   [How to download paid Fonts for free](https://old.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) - Post by /u/Bebhio on how to use clever Google searches to find fonts online.
+-   [Tomato.to](https://tomato.to/) - Supports Shutterstock, Gettyimages, Adobestock, Fotolia, Vectorstock, iStockphoto, PNGTree & PicFair.
+-   [Web4Sync](https://web4sync.com/) - Forum with DDL links catering to web development, graphics design, 3D animation, and photography.
+-   [Sonniss Monthly game audio](https://sonniss.com/gameaudiomonthly/)
+    -   [Game Audio 2016](https://sonniss.com/gameaudiogdc2016/)
+    -   [Game Audio 2017](https://sonniss.com/gameaudiogdc2017/)
+    -   [Game Audio 2018](https://sonniss.com/gameaudiogdc18/)
+    -   [Game Audio 2019](https://sonniss.com/gameaudiogdc19/)
+-   [CGPeers](https://www.cgpeers.com) - (needs login) - A big platform for not only graphics.
+-   [PixelPro.io](https://pixelpro.io/) - Provides free (and paid) graphics for streamers.
+-   [GFXDomain](http://forum.gfxdomain.net/) Forum for graphic design resources and software
+-   [gallery-dl](https://github.com/mikf/gallery-dl) Command-line program to download image-galleries and -collections from several image hosting sites
+
+## Nulled Scripts
+
+-   [AIW.BZ](https://aiw.bz) - (Ger) - German forum for nulled scripts.
+-   [BoardScriptz](https://boardscriptz.to/board) - (Ger) - One of the oldest boards around nulled forum scripts.
+-   [Cracked-Scriptz](https://forum.cracked-scriptz.r) - (needs VPN) - A Blog which is not always online, it provides info around nulled scripts.
+-   [EScripts](https://www.escripts.club) - (anti-ad-blocker detection) - English forum for nulled forum software.
+-   [Nulled.to](https://www.nulled.to) - The most popular forum around nulled scripts.
+-   [ScriptZSector](https://scriptzsector.com) - One of the newcomer, but fast growing forum.
+-   [ToolBase](https://www.toolbase.me/board) - (Ger) - Tools, scripts and forum discussions around nulled software.
+-   [WSC-Scriptz](https://support.wsc-scriptz.org) - (Ger) - Sometimes online, mostly blocked by ISP, provides a lot info around the nulled scene.
+-   [XenFiles.co](https://xenfiles.co) - (Ger) - Yet another german forum for nulled scripts.
+
+## Automation
+
+-   [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
+-   [Pulsarr](https://github.com/roboticsound/Pulsarr) Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
+-   [Bonarr](https://github.com/klassicstudios/Bonarr) A fork of Radarr to work with porn.
+-   [traktarr](https://github.com/l3uddz/traktarr) Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
+-   [Mylar](https://github.com/evilhero/mylar) An automated Comic Book Downloader (cbr/cbz) for use with SABnzbd, NZBGet, and torrents
+-   [LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
+-   [CloudBox](https://cloudbox.works/) An All-In-One, Cloud-Centric, Media Server Solution
+-   [Piracy and automation, an overview](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit) Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools
+-   [Nefarious](https://lardbit.github.io/nefarious/) Nefarious is a web application that helps you download movies and TV shows.
+
+#### TV Automation
+
+-   [Sonarr](https://github.com/Sonarr/Sonarr) Smart PVR for newsgroup and BitTorrent users.
+-   [SickRage](https://github.com/SiCKRAGE/SiCKRAGE) Automatic Video Library Manager for TV Shows.
+-   [SickChill](https://sickchill.github.io/) an automatic Video Library Manager for TV Shows.
+-   [SickBeard](http://sickbeard.com/) The ultimate PVR application that searches for and manages your TV shows
+-   [SickGear](https://github.com/SickGear/SickGear) SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
+-   [Medusa](https://pymedusa.com/) Automatic Video Library Manager for TV Shows.
+
+#### Movie Automation
+
+-   [Radarr](https://radarr.video/) A fork of Sonarr to work with movies à la Couchpotato.
+-   [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) Syncs two Radarr servers through web API.
+-   [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) Automatic Movie Downloading via NZBs & Torrents
+-   [Watcher](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
+
+#### Subtitles Automation
+
+-   [Bazarr](https://github.com/morpheus65535/bazarr) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
+-   [autosub](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file using speech recognition
+-   [nzb-subliminal](https://github.com/caronc/nzb-subliminal) Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
+-   [subsync](https://github.com/smacke/subsync) Automagically synchronize subtitles with the video.
+-   [vlsub](https://github.com/exebetche/vlsub) VLC extension to download subtitles from opensubtitles.org
 
 ## Browser Extensions
 
@@ -1570,14 +1374,9 @@ metaTitle: Piracy
 -   [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) - Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 -   [Buster](https://github.com/dessant/buster) - Captcha solver extension for humans.
 
-## Userscript Managers
+## Userscripts
 
--   [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Can handle both user Scripts and user CSS.
--   [Greasemonkey](https://www.greasespot.net/) - Greasemonkey is a Firefox extension that allows you to customize the way webpages look and function.
--   [Violentmonkey](https://violentmonkey.github.io/) - An open source userscript manager for Chrome, Firefox, Opera etc.
-
-### Userscripts
-
+-   [www.icourse163.org Downloader](https://greasyfork.org/en/scripts/389496-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6mooc%E6%85%95%E8%AF%BE-www-icourse163-org-%E4%B8%8B%E8%BD%BD%E5%99%A8) - Add download button on www.icourse163.org to download videos
 -   [AdsBypasser](https://adsbypasser.github.io/) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
 -   [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) Remove forced download accelerators, managers, and adware on supported websites
 -   [AdGuard Popup Blocker](https://github.com/AdguardTeam/PopupBlocker) Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
@@ -1586,7 +1385,7 @@ metaTitle: Piracy
 -   [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 -   [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) Script that automatically hides fake torrents on The Pirate Bay based on conditional logic.
 -   [Get DLC Info from SteamDB](https://cs.rin.ru/forum/viewtopic.php?t=71837) For use with CreamAPI and similar tools.
--   [The Pirate Bay Cleaner](https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) Auto-sorting, torrentifying, theme-change, search-change, SSL/HTTPS and more.
+-   [The Pirate Bay Cleaner](https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) - Auto Sorting, Torrentifying, Theme Change, Search Change, SSL/HTTPS and more...
 -   [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Some websites prevent you from copying text, this script bypasses it.
 -   [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
 -   [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
@@ -1605,10 +1404,19 @@ metaTitle: Piracy
 -   [RARBG Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Provides additional filtes for RARBG.
 -   [RYM google current album](https://greasyfork.org/en/scripts/5966-rym-google-current-album) - Places buttons and dropdowns below the album title on a release page that will conduct searches in many warez, torrent, and music info sites.
 -   [Sci-hub button](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Add sci-hub button after article link. Support Google scholar, bing academic and baidu xueshu. Jump CNKI English article to Chinese article.
+-   [Sci-Hub downloader](https://greasyfork.org/de/scripts/398689-sci-hub-downloader) - This script automatically detects if the current page is an article downloadable from Sci-Hub and display a banner at the top of the website to download it from Sci-Hub.
 -   [Scribd downloader](https://greasyfork.org/scripts/14503) - Downloads from Scribd.
 -   [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) - Add magnet link to torrentz2.
 -   [XZ Pixiv Batch Downloader](https://greasyfork.org/scripts/24252) - Batch download original works of artists such as artists, bookmarks, leaderboards, search pages, etc.; view popular works; create folders; convert moving images...
 -   [Local YouTube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Download YouTube Videos without youtube-dl or external websites/tools.
+-   [Encrypt Discord Token](https://greasyfork.org/en/scripts/370576-encrypt-discord-token) - Encrypts your Discord token to prevent trojans from reading your localStorage files and finding your token. However, there are no guarantees that your account cannot get hacked.
+-   [Get Discord Token](https://greasyfork.org/en/scripts/395741-get-discord-token) - Allows you to retrieve your user token for reference.
+
+### Userscript Managers
+
+-   [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Can handle both user Scripts and user CSS.
+-   [Greasemonkey](https://www.greasespot.net/) - Greasemonkey is a Firefox extension that allows you to customize the way webpages look and function.
+-   [Violentmonkey](https://violentmonkey.github.io/) - An open source userscript manager for Chrome, Firefox, Opera etc.
 
 ## Media Centre Applications
 
@@ -1781,10 +1589,10 @@ metaTitle: Piracy
 
 ### Acestreams
 
--   [acestream.org](http://acestream.org/) Ace Stream is a peer-to-peer streaming application that lets you stream live sports and other content
--   [AceStreamSearch](https://acestreamsearch.com/en/) Ace Stream Broadcasts Search
--   [aceproxy](https://github.com/ValdikSS/aceproxy) Ace Stream HTTP Proxy. (abandonware)
--   [iktason/aceproxy](https://hub.docker.com/r/ikatson/aceproxy/) A docker image to run aceengine + aceproxy, e.g. to watch Torrent-TV.ru.
+-   [aceproxy](https://github.com/ValdikSS/aceproxy) - Ace Stream HTTP Proxy. (abandonware)
+-   [acestream.org](http://acestream.org/) - Ace Stream is a peer-to-peer streaming application that lets you stream live sports and other content
+-   [AceStreamSearch](https://acestreamsearch.com/en/) - Ace Stream Broadcasts Search
+-   [iktason/aceproxy](https://hub.docker.com/r/ikatson/aceproxy/) - A docker image to run aceengine + aceproxy, e.g. to watch Torrent-TV.ru.
 
 ## Android
 
@@ -1986,94 +1794,94 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 
 #### Store Repos
 
-| name                | URL                                        |
-| ------------------- | ------------------------------------------ |
-| Ahmedbafkir.Yourepo | https://ahmedbafkir.yourepo.com/           |
-| Akusio              | https://akusio.github.io/                  |
-| Alfhaily            | https://apt.alfhaily.me/                   |
-| Appcake             | https://www.iphonecake.com                 |
-| Appdb               | https://appdb.to                           |
-| C1d3r               | https://c1d3r.com/repo/                    |
-| Carsuki             | https://repo.carsuki.club/                 |
-| Cemck               | https://cemck.github.io/repo/              |
-| Chariz              | https://repo.chariz.io/                    |
-| Chimera             | https://repo.chimera.sh/                   |
-| Classicxiirepo      | https://classicxiirepo.github.io/          |
-| Conorthedev Repo    | https://repo.conorthedev.com/              |
-| Creaturecoding      | https://creaturecoding.com/repo/           |
-| Creaturesurvive     | https://creaturesurvive.github.io/         |
-| Cydia Akemi         | https://cydia.akemi.ai/                    |
-| Cydiageek           | https://cydiageek.yourepo.com/             |
-| Daus                | https://repo.daus.ch/                      |
-| Dpkg9510            | https://dpkg9510.github.io/                |
-| Dubailive           | https://dubailive.github.io/               |
-| Dunkston            | https://dunkston.github.io/repo/           |
-| Esquillidev         | https://esquillidev.github.io/             |
-| Evynw               | https://evynw.github.io                    |
-| Exqusic             | https://exqusic.github.io/                 |
-| Geometricsoftware   | https://apt.geometricsoftware.se/          |
-| Get Delta           | https://getdelta.co/                       |
-| Gmoran              | https://gmoran.me/repo/                    |
-| HackYouriPhone      | https://repo.hackyouriphone.org/           |
-| Hacx                | https://hacx.org/repo/                     |
-| Henrikssonbrothers  | https://henrikssonbrothers.com/cydia/repo/ |
-| hydridev            | https://hydridev.github.io/repo/           |
-| IB-Soft.net         | https://ib-soft.net/cydia/                 |
-| iDevice Hacked      | https://idevicehacked.com/                 |
-| Incendo             | https://repo.incendo.ws/                   |
-| Ipodhacks142        | https://repo.ipodhacks142.com/             |
-| Jakeashacks         | https://jakeashacks.ga/cydia/              |
-| Jjolano             | https://ios.jjolano.me/                    |
-| Jukben              | https://cydia.jukben.cz                    |
-| Julioverne          | https://julioverne.github.io/              |
-| Junesiphone         | https://junesiphone.com/supersecret/       |
-| Kingmehu Yourepo    | https://kingmehu.yourepo.com/              |
-| Kurrt               | https://kurrt.com/repo/                    |
-| LimneOS             | https://limneos.net/repo/                  |
-| Lonestarx           | https://repo.lonestarx.net/                |
-| Lumartti            | https://lumartti.github.io/                |
-| Manolzrepo          | https://manolzrepo.github.io/              |
-| MCapollo            | https://mcapollo.github.io/Public/         |
-| Midnightchips       | https://repo.midnightchips.me/             |
-| Ndoizo              | https://ndoizo.ca/                         |
-| Nepeta              | https://repo.nepeta.me/                    |
-| Nexusrepo           | https://nexusrepo.kro.kr/                  |
-| Noisyflake          | https://apt.noisyflake.com/                |
-| OceanTweak          | https://oceantweak.tk/repo/                |
-| Opa334              | https://opa334.github.io/                  |
-| Packix              | https://repo.packix.com/                   |
-| Parrotgeek          | https://parrotgeek.com/repo/               |
-| PikabuCydia         | https://PikabuCydia.github.io/             |
-| Poomsmart           | https://poomsmart.github.io/repo/          |
-| Pulandres           | https://pulandres.rejail.ru/               |
-| Qwert yui op 1379   | https://qwertyuiop1379.github.io/          |
-| R0wdrunner          | https://r0wdrunner.github.io/repo/         |
-| Rejail              | https://rejail.ru/                         |
-| Repounclutter       | https://repounclutter.coolstar.org/        |
-| Restiveconch        | https://restiveconch.yourepo.com/          |
-| rob311              | https://cydia.rob311.com/repo/             |
-| Rpetri              | https://rpetri.ch/repo/                    |
-| Ruler225            | https://ruler225.github.io/                |
-| Ryleyangus          | https://ryleyangus.com/repo/               |
-| Securarepo          | https://apt.securarepo.io/                 |
-| Shiftcmdk           | https://shiftcmdk.github.io/repo/          |
-| Shuga               | https://repo.shuga.co/                     |
-| Skitty              | https://skitty.xyz/repo/                   |
-| Skylerk99           | https://skylerk99.github.io/               |
-| Sparkdev            | https://sparkdev.me/                       |
-| Spicat              | https://spicat.github.io/                  |
-| Subdiox             | https://subdiox.com/cydia/                 |
-| Tateu               | https://tateu.net/repo                     |
-| Tdmd                | https://tdmd.github.io/                    |
-| The Swedish Prxck   | https://theswedishprxck.yourepo.com/       |
-| Thireus             | https://repo.thireus.com/                  |
-| Tie1r               | https://tie1r.xyz/repo/                    |
-| Unlimapps           | https://beta.unlimapps.com/                |
-| Webjungle           | https://ocean.webjungle.ch/                |
-| Wizages             | https://wizages.com/cydia/                 |
-| Xarold              | https://repo.xarold.com/                   |
-| Yaypixxo            | https://yaypixxo.com                       |
-| Ziph0n              | https://repo.ziph0n.com/                   |
+| name                | URL                                                                                        |
+| ------------------- | ------------------------------------------------------------------------------------------ |
+| Ahmedbafkir.Yourepo | [`https://ahmedbafkir.yourepo.com/`](https://ahmedbafkir.yourepo.com/)                     |
+| Akusio              | [`https://akusio.github.io/`](https://akusio.github.io/)                                   |
+| Alfhaily            | [`https://apt.alfhaily.me/`](https://apt.alfhaily.me/)                                     |
+| Appcake             | [`https://www.iphonecake.com`](https://www.iphonecake.com)                                 |
+| Appdb               | [`https://appdb.to`](https://appdb.to)                                                     |
+| C1d3r               | [`https://c1d3r.com/repo/`](https://c1d3r.com/repo/)                                       |
+| Carsuki             | [`https://repo.carsuki.club/`](https://repo.carsuki.club/)                                 |
+| Cemck               | [`https://cemck.github.io/repo/`](https://cemck.github.io/repo/)                           |
+| Chariz              | [`https://repo.chariz.io/`](https://repo.chariz.io/)                                       |
+| Chimera             | [`https://repo.chimera.sh/`](https://repo.chimera.sh/)                                     |
+| Classicxiirepo      | [`https://classicxiirepo.github.io/`](https://classicxiirepo.github.io/)                   |
+| Conorthedev Repo    | [`https://repo.conorthedev.com/`](https://repo.conorthedev.com/)                           |
+| Creaturecoding      | [`https://creaturecoding.com/repo/`](https://creaturecoding.com/repo/)                     |
+| Creaturesurvive     | [`https://creaturesurvive.github.io/`](https://creaturesurvive.github.io/)                 |
+| Cydia Akemi         | [`https://cydia.akemi.ai/`](https://cydia.akemi.ai/)                                       |
+| Cydiageek           | [`https://cydiageek.yourepo.com/`](https://cydiageek.yourepo.com/)                         |
+| Daus                | [`https://repo.daus.ch/`](https://repo.daus.ch/)                                           |
+| Dpkg9510            | [`https://dpkg9510.github.io/`](https://dpkg9510.github.io/)                               |
+| Dubailive           | [`https://dubailive.github.io/`](https://dubailive.github.io/)                             |
+| Dunkston            | [`https://dunkston.github.io/repo/`](https://dunkston.github.io/repo/)                     |
+| Esquillidev         | [`https://esquillidev.github.io/`](https://esquillidev.github.io/)                         |
+| Evynw               | [`https://evynw.github.io`](https://evynw.github.io)                                       |
+| Exqusic             | [`https://exqusic.github.io/`](https://exqusic.github.io/)                                 |
+| Geometricsoftware   | [`https://apt.geometricsoftware.se/`](https://apt.geometricsoftware.se/)                   |
+| Get Delta           | [`https://getdelta.co/`](https://getdelta.co/)                                             |
+| Gmoran              | [`https://gmoran.me/repo/`](https://gmoran.me/repo/)                                       |
+| HackYouriPhone      | [`https://repo.hackyouriphone.org/`](https://repo.hackyouriphone.org/)                     |
+| Hacx                | [`https://hacx.org/repo/`](https://hacx.org/repo/)                                         |
+| Henrikssonbrothers  | [`https://henrikssonbrothers.com/cydia/repo/`](https://henrikssonbrothers.com/cydia/repo/) |
+| hydridev            | [`https://hydridev.github.io/repo/`](https://hydridev.github.io/repo/)                     |
+| IB-Soft.net         | [`https://ib-soft.net/cydia/`](https://ib-soft.net/cydia/)                                 |
+| iDevice Hacked      | [`https://idevicehacked.com/`](https://idevicehacked.com/)                                 |
+| Incendo             | [`https://repo.incendo.ws/`](https://repo.incendo.ws/)                                     |
+| Ipodhacks142        | [`https://repo.ipodhacks142.com/`](https://repo.ipodhacks142.com/)                         |
+| Jakeashacks         | [`https://jakeashacks.ga/cydia/`](https://jakeashacks.ga/cydia/)                           |
+| Jjolano             | [`https://ios.jjolano.me/`](https://ios.jjolano.me/)                                       |
+| Jukben              | [`https://cydia.jukben.cz`](https://cydia.jukben.cz)                                       |
+| Julioverne          | [`https://julioverne.github.io/`](https://julioverne.github.io/)                           |
+| Junesiphone         | [`https://junesiphone.com/supersecret/`](https://junesiphone.com/supersecret/)             |
+| Kingmehu Yourepo    | [`https://kingmehu.yourepo.com/`](https://kingmehu.yourepo.com/)                           |
+| Kurrt               | [`https://kurrt.com/repo/`](https://kurrt.com/repo/)                                       |
+| LimneOS             | [`https://limneos.net/repo/`](https://limneos.net/repo/)                                   |
+| Lonestarx           | [`https://repo.lonestarx.net/`](https://repo.lonestarx.net/)                               |
+| Lumartti            | [`https://lumartti.github.io/`](https://lumartti.github.io/)                               |
+| Manolzrepo          | [`https://manolzrepo.github.io/`](https://manolzrepo.github.io/)                           |
+| MCapollo            | [`https://mcapollo.github.io/Public/`](https://mcapollo.github.io/Public/)                 |
+| Midnightchips       | [`https://repo.midnightchips.me/`](https://repo.midnightchips.me/)                         |
+| Ndoizo              | [`https://ndoizo.ca/`](https://ndoizo.ca/)                                                 |
+| Nepeta              | [`https://repo.nepeta.me/`](https://repo.nepeta.me/)                                       |
+| Nexusrepo           | [`https://nexusrepo.kro.kr/`](https://nexusrepo.kro.kr/)                                   |
+| Noisyflake          | [`https://apt.noisyflake.com/`](https://apt.noisyflake.com/)                               |
+| OceanTweak          | [`https://oceantweak.tk/repo/`](https://oceantweak.tk/repo/)                               |
+| Opa334              | [`https://opa334.github.io/`](https://opa334.github.io/)                                   |
+| Packix              | [`https://repo.packix.com/`](https://repo.packix.com/)                                     |
+| Parrotgeek          | [`https://parrotgeek.com/repo/`](https://parrotgeek.com/repo/)                             |
+| PikabuCydia         | [`https://PikabuCydia.github.io/`](https://PikabuCydia.github.io/)                         |
+| Poomsmart           | [`https://poomsmart.github.io/repo/`](https://poomsmart.github.io/repo/)                   |
+| Pulandres           | [`https://pulandres.rejail.ru/`](https://pulandres.rejail.ru/)                             |
+| Qwert yui op 1379   | [`https://qwertyuiop1379.github.io/`](https://qwertyuiop1379.github.io/)                   |
+| R0wdrunner          | [`https://r0wdrunner.github.io/repo/`](https://r0wdrunner.github.io/repo/)                 |
+| Rejail              | [`https://rejail.ru/`](https://rejail.ru/)                                                 |
+| Repounclutter       | [`https://repounclutter.coolstar.org/`](https://repounclutter.coolstar.org/)               |
+| Restiveconch        | [`https://restiveconch.yourepo.com/`](https://restiveconch.yourepo.com/)                   |
+| rob311              | [`https://cydia.rob311.com/repo/`](https://cydia.rob311.com/repo/)                         |
+| Rpetri              | [`https://rpetri.ch/repo/`](https://rpetri.ch/repo/)                                       |
+| Ruler225            | [`https://ruler225.github.io/`](https://ruler225.github.io/)                               |
+| Ryleyangus          | [`https://ryleyangus.com/repo/`](https://ryleyangus.com/repo/)                             |
+| Securarepo          | [`https://apt.securarepo.io/`](https://apt.securarepo.io/)                                 |
+| Shiftcmdk           | [`https://shiftcmdk.github.io/repo/`](https://shiftcmdk.github.io/repo/)                   |
+| Shuga               | [`https://repo.shuga.co/`](https://repo.shuga.co/)                                         |
+| Skitty              | [`https://skitty.xyz/repo/`](https://skitty.xyz/repo/)                                     |
+| Skylerk99           | [`https://skylerk99.github.io/`](https://skylerk99.github.io/)                             |
+| Sparkdev            | [`https://sparkdev.me/`](https://sparkdev.me/)                                             |
+| Spicat              | [`https://spicat.github.io/`](https://spicat.github.io/)                                   |
+| Subdiox             | [`https://subdiox.com/cydia/`](https://subdiox.com/cydia/)                                 |
+| Tateu               | [`https://tateu.net/repo`](https://tateu.net/repo)                                         |
+| Tdmd                | [`https://tdmd.github.io/`](https://tdmd.github.io/)                                       |
+| The Swedish Prxck   | [`https://theswedishprxck.yourepo.com/`](https://theswedishprxck.yourepo.com/)             |
+| Thireus             | [`https://repo.thireus.com/`](https://repo.thireus.com/)                                   |
+| Tie1r               | [`https://tie1r.xyz/repo/`](https://tie1r.xyz/repo/)                                       |
+| Unlimapps           | [`https://beta.unlimapps.com/`](https://beta.unlimapps.com/)                               |
+| Webjungle           | [`https://ocean.webjungle.ch/`](https://ocean.webjungle.ch/)                               |
+| Wizages             | [`https://wizages.com/cydia/`](https://wizages.com/cydia/)                                 |
+| Xarold              | [`https://repo.xarold.com/`](https://repo.xarold.com/)                                     |
+| Yaypixxo            | [`https://yaypixxo.com`](https://yaypixxo.com)                                             |
+| Ziph0n              | [`https://repo.ziph0n.com/`](https://repo.ziph0n.com/)                                     |
 
 ## Windows
 
@@ -2130,137 +1938,209 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 
 ## Torrents
 
--   [r/torrents](https://www.reddit.com/r/torrents) Questions and discussion about all things torrent-related
--   [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) Wikipedia's article on the BitTorrent file sharing protocol
--   [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
 -   [magent2torrent.me](http://magnet2torrent.me/) Converts magnet links to torrent files
 -   [mgnet.me](http://mgnet.me/) Magnet URI shortener
--   [Torrage](https://torrage.info/) Torrage is a free service for caching torrent files online.
--   [peerflix Google Search](https://www.google.com/search?q=peerflix+site%3Aherokuapp.com) Searches Heroku-deployed instances of Peerflix for streaming torrents
--   [Torznab](https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) Newznab-like API offering a standardized recent/search API for both TV and movies
 -   [xbit](https://xbit.pw) Magnet link repository
--   [torrents.csv](https://gitlab.com/dessalines/torrents.csv) Torrents.csv is a collaborative repository of torrents, consisting of a single, searchable torrents.csv file.
--   [torrents-csv.ml](https://torrents-csv.ml) The above torrents.csv hosted.
+-   [Torrents.csv](https://torrents-csv.ml/) - An [open source](https://gitlab.com/dessalines/torrents.csv) - collaborative repository of torrents, consisting of a single, searchable torrents.csv.
 -   [mktorrent](https://github.com/Rudde/mktorrent) mktorrent is a simple command line utility to create BitTorrent metainfo files.
 -   [qtorrent.in](http://www.qtorrent.in/) A free, fast, powerful and legal Magnet URI indexer.
 -   [Torrent Paradise](https://torrent-paradise.ml/) IPFS-based decentralised torrent search engine.
 -   [torrent.nz](https://torrent.nz/) Torrent.nz is a magnet torrent search engine.
 -   [magnetico](https://github.com/boramalper/magnetico) Autonomous (self-hosted) BitTorrent DHT search engine suite
+-   [r/torrents](https://www.removeddit.com/r/torrents) - Questions and discussion about all things torrent-related.
+-   [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Wikipedia's article on the BitTorrent file sharing protocol.
+-   [Live Tracer](https://trace.corrupt-net.org/live.php) - Pre-time tracer for scene releases.
+-   [peerflix Google Search](https://www.google.com/search?q=peerflix+site%3Aherokuapp.com) - Searches Heroku-deployed instances of Peerflix for streaming torrents.
+-   [RapidBay](https://github.com/hauxir/rapidbay) - Rapid bay is a self hosted video service/torrent client that makes playing videos from torrents easy.
+-   [The Pirate Society](https://thepiratesociety.org/forums/) - A members-only forum for pirates.
+-   [Torrage](https://torrage.info/) - Torrage is a free service for caching torrent files online.
+-   [Torznab](https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) - Newznab-like API offering a standardized recent/search API for both TV and movies.
+-   [ZBIGZ](https://zbigz.com/) - Zbigz is a very good solution if your PC or laptop is locked by your ISP, it allows you to download torrents via Browser.
+-   [Nutbread](https://nutbread.github.io/t2m/) - Open source website to convert .torrent files to magnet URI(s).
+-   [killyourtv](http://mpc73okj7wq2xl6clofl64cn6v7vrvhpmi6d524nrsvbeuvjxalq.b32.i2p/) - I2P torrent tracker for TV Shows.
+-   [BTCloud](https://btcloud.io/) - BTCLoud offer 1 GB of storage space with 1 GB file size limit and 5 torrents stored at a time for its free users.
+-   [Filestream.me](https://filestream.me/) - (needs VPN to visit the page) - Free user of Filestream are being entitled and limited to a maximum of 5 GB file size for each torrent download and the file will stay on the server for 3 days only.
+-   [Furk](https://www.furk.net/) - needs invite - Offers an unlimited storage time for fetched file as long as the file is from a public sources such as the Pirate Bay.
+-   [Seedr](https://seedr.cc/) + ([mirror](https://streamza.com/)) - Essentially a seedbox you can paste torrents into which returns a streamable direct link.
+-   [Streamza](https://streamza.com/)
+-   [ZBIgZ](https://www.zbigz.com/) - ZBIGZ anonymous torrent cloud client #1.
 
-### Trackers
+### Torrent Search Engine
 
--   [r/trackers](https://www.reddit.com/r/trackers) A subreddit for discussing public & private trackers.
--   [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter
--   [Bravo List](http://www.bvlist.com/) Tracker directory
+-   [The Pirate Bay Search](https://thepiratebay1.herokuapp.com/) - Searches the pirate bay (even if the official website is down or under maintainance).
+-   [TParser](http://tparser.org/) Russian torrent sites indexer
+-   [AIO Search](http://www.aiosearch.com/) Torrent search engine
+-   [High Resolution Music](https://highresolutionmusic.com/) - FLAC Music collection.
+-   [rats-search](https://github.com/DEgITx/rats-search) - P2P Bittorrent search engine.
+-   [snowfl](https://snowfl.com/) - Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
+-   [SolidTorrents](https://solidtorrents.net) - A clean, privacy focused torrent search engine.
+-   [Torrents.me](https://torrents.me/) - Torrents.me combines popular torrent sites and specialized private trackers in a torrent multi-search.
+-   [Torrentzeta](https://www.torrentzeta.com/)
+-   [Skyn3t](https://skyn3t.in/srx/)
+-   [Search Torrents](https://search.torrents.io/)
+-   [Toorgle](http://www.toorgle.com/) - `insecure`
+
+### Torrent Trackers
+
+-   [r/trackers](https://www.removeddit.com/r/trackers) - A subreddit for discussing public & private trackers.
+-   [A Simple Guide To A Better Ratio](https://www.removeddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) - A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
+-   [Bravo List](https://www.bvlist.com/) - A public tracker directory.
+-   [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) - List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter.
+-   [Trackers List](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
+-   [Root.yt](https://root.yt/) - Yet [another torrent proxy](https://www.reddit.com/r/Piracy/comments/fcq0v4/i_made_a_proxy_service_for_popular_sites_like_tpb/) who aims to imrpvoe privacy and security by removing blacklisted domains.
 
 #### Private Trackers
 
--   [AlphaRatio ](https://alpharatio.cc) (AR) A good starter tracker with lots of freeleech content.
--   [AnimeBytes](https://animebytes.tv/) (AB) community centralized around Japanese media, including anime, manga, and music
--   [Audionews](https://audionews.org/) (AN) Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps, etc) Open signups on the 1st-2nd every month.
--   [Awesome HD](https://awesome-hd.me/) (AHD) Awesome-HD is a private tracker for quality enthusiasts.
--   [BakaBT](https://bakabt.me/) (BBT) a torrent tracker which specializes in serving anime fans
--   [BeyondHD](https://beyondhd.xyz/) (BHD) BeyondHD is a ratioless torrent tracker dedicated to HD movies and TV shows in High Definition.
--   [Bibliotik](https://bibliotik.me/) (BI) Popular ebooks/audiobooks private tracker
+-   [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) - List of private trackers
+-   [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) - Screenshot of a table from somewhere of private trackers and their sign-up requirements
+-   [AcrossTheTasman](https://acrossthetasman.com/forum.php) - A tracker for movies, games and more.
+-   [AlphaRatio](https://alpharatio.cc) - (AR) - A good starter tracker with lots of freeleech content.
+-   [AvistaZ]() - (EN) - AvistaZ (AsiaTorrents) is a Private Torrent Tracker for ASIAN MOVIES / TV / Docus.
+-   [AnimeBytes](https://animebytes.tv/) - (AB) - community centralized around Japanese media, including anime, manga, and music.
+-   [Audionews](https://audionews.org/) - (AN) - Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps etc) - Open signups on the 1st-2nd every month.
+-   [Awesome HD](https://awesome-hd.me/) - (AHD) - Awesome-HD is a private tracker for quality enthusiasts.
+-   [BakaBT](https://bakabt.me/) - (BBT) - a torrent tracker which specializes in serving anime fans
+-   [BeyondHD](https://beyondhd.xyz/) - (BHD) - BeyondHD is a ratioless torrent tracker dedicated to HD movies and TV shows in High Definition.
+-   [Bibliotik](https://bibliotik.me/) - (BI) - Popular ebooks/audiobooks private tracker
+-   [Blutopia](https://blutopia.xyz) - (BLU) - Blutopia is a private tracker for HD movies (Blu-Ray) and HD TV shows.
+-   [CGPeers](https://www.cgpeers.com/) - (CGP) - CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design, and computer-assisted art.
+-   [Filelist](https://filelist.ro/) - (FL) - Large Romanian general tracker with mostly English content. No RAR files allowed. Scene torrents are unrared, and then allowed.
+-   [GazelleGames](https://gazellegames.net/login.php) - (GGn) - Currently the largest private tracker for games.
+-   [HD-Forever](https://hdf.world/) - (HD-F) - HD-Forever is a French private tracker for HD movies.
+-   [HD-Space](https://hd-space.org/) - (HDS) - HD-Space is a private torrent tracker hosting HD movies, TV shows, and music torrents. A good tracker for beginners.
+-   [HD4Free](https://hd4.xyz) - (HD4F) - HD4Free is a general HD tracker with a good range of content.
+-   [IPTorrents](https://iptorrents.com/) - (IPT) - Private tracker with movies, books, and more.
+-   [JPopsuki](https://jpopsuki.eu/) - (JPop) - JPopsuki is a torrent tracker focused on Asian music.
+-   [Milkie](https://milkie.cc/) - Added another upcoming private tracker site.
+-   [MyAnonaMouse](https://www.myanonamouse.net/) - (MAM) - Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology, and radio.
+-   [Nostalgic Torrents](https://nostalgic.is/) - (NT) - Private tracker for anime, comics/manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
+-   [PassThePopcorn](https://passthepopcorn.me/) - (PTP) - ratio-based torrent tracker for movies (requires login).
+-   [PassThePopCorn (PTP)](https://passthepopcorn.me/) - Blu-Ray rips and other stuff.
+-   [PolishSource](https://polishsource.cz/) - (PS) - PolishSource is a big private Polish ratio-less tracker.
+-   [PolishTracker](https://pte.nu/) - (PT) - PolishTracker is the oldest private Polish tracker.
+-   [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) - V4 of the private tracker flowchart. Somewhat out of date.
+-   [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) - Guide on how to get into (and survive) - the world of private trackers.
+-   [PrivateHD](https://privatehd.to/) - (PHD) - PrivateHD is a private BitTorrent tracker focused on high definition movies and TV show torrents.
+-   [RED Interview Prep](https://interviewfor.red/en/index.html) - This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know in order to pass the RED interview.
+-   [Redacted](https://redacted.ch/) - (CH) - Largest private music tracker at 1.5 million torrents.
+-   [SceneTime](https://www.scenetime.com)
+-   [TheGeeks](https://thegeeks.click/) - (TGBZ) - Private tracker for e-learning
+-   [TorrentLeech](https://torrentleech.org/) - (TL) - Well-known popular private tracker
+-   [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) - Comprehensive spreadsheet of private trackers (somewhat out of date).
+-   [TVChaos UK](https://www.tvchaosuk.com/) - (TVCUK) - Private tracker for British television
+-   [UHDBits](https://uhdbits.org/) - (UHD) - UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
+-   [WorldOfP2P](https://worldofp2p.net) - (WOP) - Private tracker for Movies, TV and general P2P stuff.
 -   [Bitspyder](http://bitspyder.net/) (BS) Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses, and audiobooks.
--   [Blutopia](https://blutopia.xyz) (BLU) Blutopia is a private tracker for HD movies and HD TV shows.
--   [CGPeers](https://www.cgpeers.com/) (CGP) CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design, and computer-assisted art.
--   [Filelist](https://filelist.ro/) (FL) Large Romanian general tracker with mostly English content. No RAR files allowed. (Scene torrents are unrared, and then allowed.)
--   [GazelleGames](https://gazellegames.net/login.php) (GGn) Currently the largest private tracker for games.
--   [HD4Free](https://hd4.xyz) (HD4F) HD4Free is a general HD tracker with a good range of content. It is a ratioless tracker so it is great for beginners. Note that any adult content/porn is strictly prohibited there.
--   [HD-Forever](https://hdf.world/) (HD-F) HD-Forever is a French private tracker for HD movies.
--   [HD-Space](https://hd-space.org/) (HDS) HD-Space is a private torrent tracker hosting HD movies, TV shows, and music torrents. Good tracker for beginners.
--   [IPTorrents](https://iptorrents.com/) (IPT) Private tracker with movies, books, and more.
--   [JPopsuki](https://jpopsuki.eu/) (JPop) JPopsuki is a torrent tracker focused on Asian music.
--   [MyAnonaMouse](https://www.myanonamouse.net/) (MAM) Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology, and radio.
 -   [MySpleen](http://www.myspleen.org/login.php) (MS) MySpleen is a private tracker which specialises in comedy, animation, and TV series.
--   [Nostalgic Torrents](https://nostalgic.is/) (NT) Private tracker for anime, comics/manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
--   [PassThePopcorn](https://passthepopcorn.me/) (PTP) ratio-based torrent tracker for movies
--   [PolishTracker](https://pte.nu/) (PT) PolishTracker is the oldest private Polish tracker existing to this day
--   [PolishSource](https://polishsource.cz/) (PS) PolishSource is a big private Polish ratio-less tracker
--   [PrivateHD](https://privatehd.to/) (PhD) PrivateHD is a private BitTorrent tracker focused on high definition movies and TV show torrents.
--   [Redacted](https://redacted.ch/) (RED) Largest private music tracker at 1.5 million torrents.
--   [TheGeeks](https://thegeeks.click/) (TGBZ) Private tracker for e-learning
--   [TorrentLeech](https://torrentleech.org/) (TL) Well-known popular private tracker
--   [TVChaos UK](https://www.tvchaosuk.com/) (TVCUK) Private tracker for British television
--   [UHDBits](https://uhdbits.org/) (UHD) UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
--   [WorldOfP2P](https://worldofp2p.net) (WOP) Private tracker for Movies, TV, and General.
--   [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) List of private trackers
--   [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
--   [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flowchart. Somewhat out of date.
--   [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
--   [RED Interview Prep](https://interviewfor.red/en/index.html) This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know to pass the RED interview.
--   [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date)
 
 #### Semi-Private Trackers
 
--   [ruTracker](https://rutracker.org/forum/index.php) RuTracker is a huge Russian torrent site with a thriving file-sharing community.
--   [Zamunda.net](http://zamunda.net) A Bulgarian tracker with English and Russian translations available.
--   [ArenaBG](https://arenabg.com/) A Bulgarian tracker with an English translation available.
--   [NoNaMe Club](https://nnmclub.to/) Russian semi-private tracker and forum
--   [MetalArea](https://metalarea.org/) Russian (someplaces english) tracker for obscure metal and dungeon synth.
+-   [ArenaBG](https://arenabg.com/) - A Bulgarian tracker with an English translation available.
+-   [NoNaMe Club](https://nnmclub.to/) - Russian semi-private tracker and forum.
+-   [ruTracker](https://rutracker.org/forum/index.php) - RuTracker is a huge Russian torrent site with a thriving file-sharing community.
+-   [MetalArea](https://metalarea.org/) - Russian tracker for obscure metal and dungeon synth.
+-   [Zamunda.net](https://zamunda.net/) - A Bulgarian tracker with English and Russian translations available.
 
 #### Public Trackers
 
 -   [1337x](https://1337x.to/) 1337x is a torrent site that offers verified torrent downloads.
--   [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents.
+    -   [1337](https://1337.root.yt/) - Ad-Free and clean version of 1337x.
+-   [7torrents](https://www.7torrents.cc/) - Privacy-focused DHT search engine without any ads.
+-   [Bthub.Me](https://www.bthub.me/) - (CN) - Movies, Docus & more for your chinese friends.
+-   [BTDB](https://btdb.to/) - Large BitTorrent DHT search engine.
+-   [CGPeers](https://www.cgpeers.to/) - CGPeers is a well known trusted tracker (registration every 15th and 1st of the month).
+-   [dlb.to](https://dlb.to/) - Indexer for various Warez websites and material.
+-   [Darli](http://tracker.darli.net) - (HDS) - Our open torrent tracker is available for everyone. Use where necessary.
+-   [DIGBT](https://www.digbt.org/) - DIGBT is a DHT torrent search engine.
+-   [ETTV](https://www.ettvdl.com/) - ETTV is a torrent site specific for movie torrents.
+-   [g4u](https://g4u.me/) - (Ger) - Movies, TV Shows & Games.
+-   [GaOQing](https://gaoqing.fm/) - (CN _insecure_) - Porn, movies, tv-shows, documentations, you name it!
+-   [Games4theworld](https://games4theworld.org) - Torrents and magnet links for games.
+-   [GloTorrents](https://glodls.to/) - Download Movies, TV, Games and Other Torrents Free.
+-   [HDCenter](https://hdcenter.cc/login.php) - (NL) - Games, Movies, eBooks & more.
+-   [Idope (Clone)](https://idope.top/) - iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
+-   [Isohunt2](https://isohunt2.net/) - Clone of the original ISOHunt torrent index and repository.
+-   [KickAss Torrents](https://katcr.co/) - Community-made reincarnation launched in 2016.
+-   [LBRY](https://beta.lbry.tv/) & [source code](https://github.com/lbryio/lbrytv) - Search engine for games, videos, music & more.
+-   [LimeTorrents](https://www.limetorrents.info/) - LimeTorrents has been around for more than half a decade.
+-   [MagnetDL](https://anonym.to/https://www.magnetdl.com) - Find your download by searching thousands of magnet links using our search engine.
+-   [Monitor Shodan](https://monitor.shodan.io/) - Keep track of the devices that you have exposed to the Internet. Setup notifications, launch scans and gain complete visibility into what you have connected.
+-   [MKVCage](https://www.mkvcage.nl/) - (warning) - Rebooted (unofficial) MKVCage website. It's not in any relationship with the original _project_.
+-   [Mp4ba.cc](http://mp4ba.cc/) - (CN _insecure_) - Videos, TV series and animes.
+-   [Movcr](https://movcr.tv/) - Download Movies Torrent Online Free.
+-   [OTorrents](https://otorrents.com/) - Yet another public torrent tracker.
+-   [Pirateiro](https://pirateiro.unblocked.gdn/) - Pirateiro is a torrent index for Brazilian and Portuguese torrents.
+-   [RARBG](https://rarbg.to/) - Public tracker with its own release group, RARBG was founded in 2008 and specializes in high quality video releases.
+-   [RARBG Index page](https://rarbgprx.org/) - Web Analysis and indexer for Rarbgprx.
+-   [Saavn](https://saavn.tomato.to/) - A search engine designed to find old and new music releases.
+-   [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
+-   [Shaanig](https://shaanig.se/) - Small-size HD TV episodes & movies.
+-   [SkyTorrents](https://www.skytorrents.lol/) - Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer.
+-   [Streams.Now.SH](https://streams.now.sh/) - Similar quality & size like RARBG & [YTS](https://yts.mx).
+-   [The Pirate Bay](https://thepiratebay.org/) - A well-known torrent site which is somehow still running, blocked in most places. (**Be warned**: It mines coins in the background!) + Onion `piratebayztemzmv.onion`
+    -   [The Proxy Bay](https://proxybay.bz/) - Can't access The Pirate Bay? Try one of these proxy sites.
+-   [Tor Lock](https://torlock.com/) - TorLock is a torrent site that offers verified torrent downloads.
+-   [Torrent9](https://www.torrent9.ph/) - French torrent search engine.
+-   [TorrentFunk](https://www.torrentfunk.com/) - TorrentFunk is a torrent site providing verified torrents for all kinds of content.
+-   [TorrentGalaxy](https://torrentgalaxy.org/) - Public tracker with a clean UI.
+-   [TorrentInvites](http://torrentinvites.org) - #1 to buy, trade, sell or find free Tracker Invites!
+-   [TorrentKing](https://torrentking.io/) - Torrentking is a popular movie torrent site.
+-   [Torrentz2](https://torrentz2.is/) - [(mirror)](https://torrentz2.eu/) - A good replacement of the defunct Torrentz.eu.
+-   [Torrents-csv.ml](https://torrents-csv.ml) - An open-source torrent search engine tracker for all sorts of torrents.
+-   [Trackers list](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers which you can add in e.g. QB.
+-   [WebOas](https://weboas.is/) - A search engine designed to find warez, music and other stuff in public dirs.
+-   [xbit.pw](http://xbit.pw/) - A Magnet site search engine.
+-   [YggTorrent](https://yggtorrent.ws/) - French tracker and search engine (has a download/upload ratio limitation).
+-   [Xiepp](https://www.xiepp.com/) (CN _insecure_) - Chinese movies, TV-Shows and other torrents.
+-   [Zonatorrent](https://zonatorrent.tv/) - Spanish tracker.
+-   [Zooqle](https://zooqle.com/) - Zooqle is a relatively new torrent index providing a huge database of verified torrents.
+-   [monova.to](https://monova.to/)
+-   [PaHe.me](https://pahe.me/) - HQ Movies at Affordable Size.
+-   [rutor.info](http://rutor.info/) - (`RU`) - Largest Russian language torrent website.
+-   [torrentgalaxy.io](http://torrentgalaxy.io/) - (`GeoIP block, ISP Block`) - TorrentGalaxy is a popular torrent directory.
+-   [ilcorsaronero.info](https://ilcorsaronero.xyz/) (`It`) - Popular Italian torrent directory.
+-   [yggtorrent.se](https://yggtorrent.se/) - (`FR`) - Popular French torrent directory.
+-   [Torrents9](https://vww.torrentz9.fr/) - (`FR`) - Yet another popular French torrent directory.
+-   [Zone Annuaire](http://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
 -   [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
--   [Isohunt2](https://isohunt2.net/) Clone of the original isoHunt torrent index and repository
--   [KickAss Torrents](https://katcr.co/) Community-made reincarnation launched in 2016
--   [RARBG](https://rarbg.to/) Public tracker with its own release group
 -   [YTS](https://yts.am/) Small-size HD movies from YIFY
--   [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places but can be [accessed](https://piratebayblocked.com/) [via](https://cruzing.xyz/) [numerous](https://thepiratebay.vin/) [proxy](https://pirateproxy.life/) [sites](https://tpbproxy.online/)
--   [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
--   [Torrentz2](https://torrentz2.eu/) A good replacement of the defunct Torrentz.eu
--   [Idope (Clone)](https://idope.top/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
--   [Zooqle](https://zooqle.com/) Zooqle is a relatively new torrent index providing a huge database of verified torrents.
--   [rutor](http://rutor.info/) Russian tracker
--   [GloTorrents](https://glodls.to/) Download Movies, TV, Games and Other Torrents Free
--   [BTDB](https://btdb.to/) Large BitTorrent DHT search engine
 -   [trackerslist](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
--   [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
--   [TorrentGalaxy](https://torrentgalaxy.org/) Public tracker with a clean UI which now supports embedded streaming for internal uploads
--   [Games4theworld](https://games4theworld.org) Torrents and magnet links for games
 -   [metal-tracker.com](http://en.metal-tracker.com/) Heavy metal music tracker
--   [SkyTorrents](https://www.skytorrents.lol/) Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer
--   [Pirateiro](http://pirateiro.com/) Pirateiro is a torrent index for Brazilian and Portuguese torrents.
--   [TorrentKing](https://torrentking.io/) Torrentking is a popular movie torrent site.
 -   [moviemagnet](http://moviemagnet.co/) Verified torrents for movies.
--   [Zonatorrent](https://zonatorrent.tv/) Spanish tracker
--   [TorrentFunk](https://www.torrentfunk.com/) TorrentFunk is a torrent site providing verified torrents for all kinds of content.
 -   [HDSector](http://udush.com/) Bollywood / Hindi / Hollywood HD Movies
--   [OTorrents](https://otorrents.com/) Yet another public torrent tracker
 -   [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
--   [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
--   [Torrent9](https://www.torrent9.ph/) French torrent search engine
--   [YggTorrent](https://yggtorrent.se/) French tracker and search engine (have a download/upload ratio limitation)
 -   [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI
 -   [Rock Box](https://rawkbawx.rocks/) Metal music tracker
 -   [Music Torrent](http://music-torrent.net) General music tracker
--   [7torrents](https://www.7torrents.cc/) Fast, clean, ad-free, privacy-focused DHT search engine
-
-### Tracker Aggregators
-
--   [snowfl](https://snowfl.com/) snowfl is a torrent aggregator which searches various public torrent indexes in real-time
--   [TParser](http://tparser.org/) Russian torrent sites indexer
--   [Torrents.me](https://torrents.me/) Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
--   [rats-search](https://github.com/DEgITx/rats-search) P2P Bittorrent search engine
--   [AIO Search](http://www.aiosearch.com/) Torrent search engine
--   [SolidTorrents](https://solidtorrents.net) A clean, privacy focused torrent search engine.
 
 ### Tracker Proxies
 
--   [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
--   [Cardigann](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage, and other media managers
--   [nzbhydra2](https://github.com/theotherp/nzbhydra2/) Primarily a Usenet metasearch engine but also supports Torznab
+-   [Cardigann](https://github.com/cardigann/cardigann) - A proxy server for adding new indexers to Sonarr, SickRage, and other media managers.
+-   [CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents.
+-   [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers, it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar, DuckieTV, qBittorrent, etc) - into tracker-site-specific http queries, parses the html response, then sends results back to the requesting software.
+-   [nzbhydra2](https://github.com/theotherp/nzbhydra2/) - Primarily a Usenet meta search engine but also supports Torznab.
+-   [Radarr](https://github.com/Radarr/Radarr) - (make sure you [turn click-tracking off](https://i.imgur.com/QpP1M6Q.png)) - A fork of Sonarr to work with movies à la Couchpotato.
+-   [SickRage](https://git.sickrage.ca/SiCKRAGE/sickrage) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
+-   [Sonarr](https://github.com/Sonarr/Sonarr) - (make sure you [turn click-tracking off](https://i.imgur.com/QpP1M6Q.png)) - Smart PVR for newsgroup and Bittorrent users.
+-   [Bitport](https://bitport.io/welcome) - Download files to a secured cloud. Anonymously. Fast. Online.
+
+### Tracker Frameworks
+
+-   [opentracker](https://erdgeist.org/arts/software/opentracker/) Opentracker is an open and free BitTorrent tracker project.
+-   [Gazelle](https://whatcd.github.io/Gazelle/) - A web framework geared towards private torrent trackers with a focus on music.
+-   [meanTorrent](https://github.com/taobataoma/meanTorrent) - A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, CloudFlare support.
+-   [NexusPHP](https://github.com/ZJUT/NexusPHP) - BitTorrent private tracker scripts written in PHP.
+-   [OpenTracker](https://erdgeist.org/arts/software/opentracker/) - OpenTracker is an open and free BitTorrent tracker project.
+-   [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) - A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages.
+-   [UNIT3D](https://github.com/HDInnovations/UNIT3D) - The Nex-Gen Private Torrent Tracker (Movies/TV Episodes).
 
 ### Tracker Invites
 
--   [r/OpenSignups](https://www.reddit.com/r/opensignups) Open Signups - When Private Trackers Open Their Doors To The Public
--   [r/Invites](https://www.reddit.com/r/invites) Post wanted ads for private tracker invites here
--   [Open sign-ups thread](https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/) /r/trackers thread for posting trackers that are currently open for registration.
--   [Opentrackers.org](https://opentrackers.org/) Private Torrent Trackers & File Sharing
--   [getting_into_private_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) Helpful resource from the /r/trackers wiki
+-   [r/Invites](https://www.removeddit.com/r/invites) - Post wanted ads for private tracker invites here.
+-   [r/OpenSignups](https://www.removeddit.com/r/opensignups) - Open Signups - When Private Trackers Open Their Doors To The Public.
+-   [getting_into_private_trackers](https://www.removeddit.com/r/trackers/wiki/getting_into_private_trackers) - Helpful resource from the /r/trackers Wiki.
+-   [Open sign-ups thread](https://www.removeddit.com/r/trackers/comments/7ildxx/open_signups_thread/) - /r/trackers thread for posting trackers that are currently open for registration.
+-   [Opentrackers.org](https://opentrackers.org/) - Private Torrent Trackers & File Sharing.
 
 ### Torrent Clients
 
@@ -2277,6 +2157,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [TorrDroid](http://play.google.com/store/apps/details?id=intelligems.torrdroid&hl=en) - TorrDroid is a Android torrent client cum search engine that features a hassle free way of searching and downloading torrents.
 -   [Tornado](http://tornado-torrent.gitlab.io/) - Tornado is a modern web-first BitTorrent client designed with usability in mind.
 -   [Tribler](https://www.tribler.org/) - Tribler is a Bittorrent client with an integrated DHT and search engine. Tor-like onion routing and end-to-end encryption can be enabled to allow for anonymous downloads.
+-   [Auto unRar](https://old.reddit.com/r/Piracy/comments/byemt3/auto_unrar_qbittorrent/) or via [script](https://github.com/arfoll/unrarall)
 
 #### qBittorrent
 
@@ -2295,37 +2176,39 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 
 #### rTorrent
 
--   [rTorrent](https://rakshasa.github.io/rtorrent/) rTorrent is a text-based ncurses BitTorrent client written in C++
+-   [rTorrent](https://rakshasa.github.io/rtorrent/) - rTorrent is a text-based ncurses BitTorrent client written in C++.
+-   [ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent.
+    -   [rutorrent-all-seeders](http://github.com/AkdM/rutorrent-all-seeders) - This ruTorrent plugin adds the columns 'All Seeders' the torrents list.
+    -   [rutorrent-themes](https://github.com/InAnimaTe/rutorrent-themes) - A collection of default and new, original themes for ruTorrent.
 -   [rTorrent Community wiki](https://github.com/rtorrent-community/rtorrent-community.github.io/wiki) GitHub wiki for rTorrent
 -   [rTorrent Docs](https://rtorrent-docs.readthedocs.io/en/latest/) Comprehensive manual and user guide for the rTorrent bittorrent client
 -   [flood](https://github.com/jfurrow/flood) A web UI for rTorrent with a Node.js backend and React frontend.
 -   [rTorrent ArchWiki Page](https://wiki.archlinux.org/index.php/RTorrent) Detailed article to answer most common questions about rTorrent
--   [rTorrent Seedbox Guide](https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php) This guide is a single-page, comprehensive guide to take you step-by-step through installation and configuration.
--   [rtorrent-ps](https://github.com/pyroscope/rtorrent-ps) Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
 -   [pyrocore](https://github.com/pyroscope/pyrocore) A collection of tools for the BitTorrent protocol and especially the rTorrent client
 -   [rTorrent research](https://calomel.org/rtorrent_mods.html) security modifications and other hacks for usability
--   [ruTorrent](https://github.com/Novik/ruTorrent) Yet another web front-end for rTorrent
-    -   [rutorrent-all-seeders](http://github.com/AkdM/rutorrent-all-seeders) - This ruTorrent plugin adds the columns 'All Seeders' the torrents list.
-    -   [rutorrent-themes](https://github.com/InAnimaTe/rutorrent-themes) A collection of default and new, original themes for ruTorrent.
+-   [flood](https://github.com/jfurrow/flood) - A web UI for rTorrent with a Node.js backend and React frontend.
+-   [rTorrent Seedbox Guide](https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php) - This guide is a single-page, comprehensive guide to take you step-by-step through installation and configuration.
+-   [rtorrent-ps](https://github.com/pyroscope/rtorrent-ps) - Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
 
 #### WebTorrent Clients
 
--   [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
--   [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
--   [WebTorrent Desktop](https://webtorrent.io/desktop/) WebTorrent Desktop is for streaming torrents.
--   [Instant.io](https://instant.io/) Streaming file transfer over WebTorrent (torrents on the web)
-
-### autodl-irssi
-
--   [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
--   [autodl-curl-sonarr](https://github.com/Zymest/autodl-curl-sonarr) Script to use as upload-command for autodl-irssi to post to Sonarr
--   [mreg](https://github.com/Igglybuff/mreg) Generates a "Match releases" expression for your autodl-irssi filter based on dvdsreleasedates.com's "Most Requested DVD Release Dates" section.
--   [Slack notifications for autodl-irssi](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b) Guide by yours truly on enabling Slack notifications for autodl-irssi
+-   [Instant.io](https://instant.io/) - Streaming file transfer over WebTorrent (torrents on the web).
+-   [magnetoo](https://www.magnetoo.io/) - Fancy new in-browser WebTorrent streaming service.
+-   [WebTorrent Desktop](https://webtorrent.io/desktop/) - WebTorrent Desktop is for streaming torrents.
+-   [βTorrent](https://btorrent.xyz/) - Fully-featured [WebTorrent](https://webtorrent.io/) - browser client written in HTML, JS and CSS.
 
 ### Seedboxes
 
--   [r/seedboxes](https://www.reddit.com/r/seedboxes) A place to discuss seedboxes and everything related to them.
--   [SeedSync](https://github.com/ipsingh06/seedsync) SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
+-   [r/seedboxes](https://www.removeddit.com/r/seedboxes) - A place to discuss seedboxes and everything related to them.
+-   [2Giga.link](https://www.2giga.link/) - Free file hoster, Torrent caching & Premium link generator.
+-   [Bitport.io](https://bitport.io/) - Download torrents in the cloud and stream them online.
+-   [DediSeedBox](https://dediseedbox.com/) - Netherlands located Seeedbox service.
+-   [FileStream.me](https://filestream.me/) - Free subscription offers 200Mb max file size and 200GB storage total.
+-   [Furk.net](https://www.furk.net/) - Free trial offers 1GB per day or 5GB per week if you can get an invite/voucher or use Facebook.
+-   [Put.io automator](https://github.com/datashaman/putio-automator) - A suite of commands for managing torrents, transfers and files on Put.io.
+-   [Seedbox.io](https://seedbox.io/) - Provides 99,9% uptime, cheap and claims to have a good support.
+-   [SeedSync](https://github.com/ipsingh06/seedsync) - SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
+-   [UltraSeedbox](https://ultraseedbox.com/) - Cheap Seedbox, fast and reliable.
 
 #### Web-based Cloud Seedboxes
 
@@ -2343,22 +2226,23 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 
 #### Seedbox Hosting Providers
 
+-   [/u/Andy10gbit](https://www.removeddit.com/r/seedboxes/comments/9iu7o8/andy10gbit_server_and_seedbox_list/) - Reddit user with good deals on servers and seedboxes.
+-   [Bytesized Hosting](https://bytesized-hosting.com/) - "The best Plex server hosting in town".
+-   [Chmuranet](https://www.chmuranet.com/) - Chmuranet is a small private boutique seedbox provider.
+-   [FeralHosting](https://www.feralhosting.com/pricing) - Shared seedbox hosting provider.
+-   [Hetzner](https://hetzner.co.za/) - Reliable and affordable server host.
+-   [Kimsufi](https://www.kimsufi.com/uk/) - Affordable dedicated servers.
+-   [NZB Monkey](https://nzblnk.info/nzb-monkey/) - NZB download helper utility.
+-   [Online.net](https://www.online.net/en) - Seedbox-friendly, affordable, dedicated server host.
+-   [OVH](https://www.ovh.com/world/) - Large cloud server provider.
+-   [Seedboxes.cc](<https://[seedboxes.cc](https://www.seedboxes.cc)/>) - Reliable and affordable web hosting, with the power of your friendly monsters!
+-   [SeedHost](https://www.seedhost.eu/seedboxes.php) - "Seedhost.eu is the oldest continuously operating seedbox hosting provider on the internet."
+-   [SoYouStart](https://www.soyoustart.com/us/) - Another dedicated server host.
+-   [UltraSeedbox](https://www.ultraseedbox.com/) - "Plex optimized" servers to rent.
+-   [Whatbox](https://whatbox.ca/) - Whatbox is a BitTorrent CDN.
+-   [Xirvik](https://www.xirvik.com/) - Preconfigured seedbox servers.
 -   [novaDedi](https://novadedi.net/index.php) novaDedi formerly known as metaDedi was created to help to find you the cheapest dedicated server for your intended use case.
 -   [CheckServers.OVH](https://checkservers.ovh/) Checks the availability of OVH servers.
--   [Kimsufi](https://www.kimsufi.com/uk/) Affordable dedicated servers
--   [Online.net](https://www.online.net/en) Seedbox-friendly, affordable, dedicated server host
--   [Hetzner](https://hetzner.co.za/) Reliable and affordable server host
--   [/u/Andy10gbit](https://www.reddit.com/r/seedboxes/comments/9iu7o8/andy10gbit_server_and_seedbox_list/) Reddit user with good deals on servers and seedboxes
--   [Bytesized Hosting](https://bytesized-hosting.com/) "The best Plex server hosting in town"
--   [FeralHosting](https://www.feralhosting.com/pricing) Shared seedbox hosting provider
--   [Whatbox](https://whatbox.ca/) Whatbox is a BitTorrent CDN
--   [Seedboxes.cc](https://seedboxes.cc/) Reliable and affordable web hosting, with the power of your friendly monsters!
--   [UltraSeedbox](https://www.ultraseedbox.com/) "Plex optimized" servers to rent
--   [SeedHost](https://www.seedhost.eu/seedboxes.php) "Seedhost.eu is the oldest continuously operating seedbox hosting provider on the internet."
--   [Chmuranet](https://www.chmuranet.com/) Chmuranet is a small private boutique seedbox provider.
--   [Xirvik](https://www.xirvik.com/) Preconfigured seedbox servers
--   [OVH](https://www.ovh.com/world/) Large cloud server provider
--   [SoYouStart](https://www.soyoustart.com/us/) Another dedicated server host
 -   [PulsedMedia](https://pulsedmedia.com/) Inexpensive seedbox provider
 -   [Cloudboxes.io](https://cloudboxes.io/) Seedboxes with impressive 20Gbps uplinks
 -   [Seedbox.io](https://seedbox.io/) Shared and dedicated slots with 1Gbps+ uplinks
@@ -2375,15 +2259,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) DockSTARTer helps you get started with home server apps running in Docker.
 -   [OpenFLIXR](http://www.openflixr.com/) OpenFLIXR Media Server is an all-in-one media server for automated downloading and serving media.
 
-### Tracker Frameworks
-
--   [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
--   [UNIT3D](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
--   [meanTorrent](https://github.com/taobataoma/meanTorrent) A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, Cloudflare support.
--   [NexusPHP](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
--   [Gazelle](https://whatcd.github.io/Gazelle/) web framework geared towards private torrent trackers with a focus on music
--   [opentracker](https://erdgeist.org/arts/software/opentracker/) Opentracker is an open and free BitTorrent tracker project.
-
 ## Usenet
 
 -   [Usenet](https://en.wikipedia.org/wiki/Usenet) Usenet is a worldwide distributed discussion system available on computers.
@@ -2397,44 +2272,64 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [SABconnect++](https://github.com/gboudreau/sabconnectplusplus) Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
 -   [ngPost](https://github.com/mbruel/ngPost) - Command Line (or minimalist GUI) usenet poster for binaries developped in C++/QT.
 
-### Providers
+### Usenet Forums
 
--   [Usenet Providers and Backbones](https://upload.wikimedia.org/wikipedia/commons/7/7d/Usenet_Providers_and_Backbones.svg) This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
--   [A Quick Guide to Choosing a Usenet Provider](https://www.reddit.com/r/usenet/comments/a7ffm7/a_quick_guide_to_choosing_a_usenet_provider/) Reddit post by /u/FlickFreak
--   [Eweka](https://www.eweka.nl/) Netherlands-based Usenet provider
--   [Newsdemon](https://www.newsdemon.com/) Cheap and cheerful Usenet provider with frequent discounts
--   [Newsgroup Ninja](https://www.newsgroup.ninja/en) Popular Usenet provider with a competitive subscription fee
+-   [Revenge of Usenet](https://revenge-of-usenet.com) - (Ger) - Forum for usenet related news, and download discussions.
+-   [Brothers of Usenet](https://www.brothers-of-usenet.net) - The original board went down, so this is a mirror for the well known forum which discusses stuff around the scene.
+-   [Fileleechers](https://fileleechers.info) - (Ger) - A young forum around Usenet.
+-   [House of Usenet](https://house-of-usenet.com) - New provider, new url, a reboot of the well known forum.
+-   [omgwtfnzbs](https://omgwtfnzbs.me) - (paid) - A paid usenet indexer.
+-   [SceneNzb.com](https://scenenzb.com) - (paid) - 3 NZD files per day are free.
+-   [Sky of Usenet](https://sky-of-use.net) - (Ger) - Yet another german usenet forum.
+
+### Usenet Providers
+
 -   [Usenet Express](http://usenetexpress.com/) UsenetExpress is a powerful new tier-1 Usenet provider that offers strong security, a 10GB uplink per server and up to 150 streams for an excellent price.
--   [Usenet.Farm](https://usenet.farm/) Usenet reseller with 1000+ days retention.
+-   [Eweka News](https://www.eweka.nl/) - Netherlands-based Usenet provider.
+-   [Newsdemon](https://www.newsdemon.com/) - Cheap and cheerful Usenet provider with frequent discounts.
+-   [Newsgroup Ninja](https://www.newsgroup.ninja/en) - \$7.99 per month, SSL encryption, Unmetered usage, Unlimited speeds.
+-   [Premiumizer](https://github.com/piejanssens/premiumizer) - A download management tool for premiumize.me cloud downloads.
+-   [Tweaknews](https://www.tweaknews.eu/en/landing/best-deal?a_aid=greycoder) - Dutch Usenet provider that offers a [Highwinds](https://highwinds.com/) news feed.
+-   [Usenet Crawler](www.usenet-crawler.com) - Movies, eBooks, TV Series, Anime & more.
+-   [Usenet Providers and Backbones](https://commons.wikimedia.org/wiki/File:Usenet_Providers_and_Backbones.svg) - This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
+-   [Usenet.Farm](https://usenet.farm/) - Usenet reseller with 1000+ days retention.
+-   [WorldSrc](https://worldsrc.org) - Movies, software, apps, games, music, and images available for fast direct download + torrents.
+-   [XS News](https://greycoder.com/goto/xsnews) - European Usenet feed.
 
-### Indexers
+### Usenet Indexers
 
 -   [r/Usenet wiki: indexers](https://www.reddit.com/r/Usenet/wiki/indexers) Information about /r/Usenet's favourite indexing services
 
-#### Paid Indexers
+#### Paid Usenet Indexers
 
--   [NZBgeek](https://nzbgeek.info/) Affordable Usenet indexer operating since 2014.
--   [NZBFinder](https://nzbfinder.ws/) Usenet indexer and newznab API with a clean UI and 8+ year backlog of NZBs.
--   [DrunkenSlug](https://drunkenslug.com/) Popular NZB indexer with a free tier and decent retention.
--   [NZBCat](https://nzb.cat/) Meow _cough_ nzb-hair-bal.
--   [DOGnzb](https://dognzb.cr/login) Invite-only NZB site.
--   [omgwtfnzbs](https://omgwtfnzbs.me/login) Invite-only NZB indexer with a funny name.
+-   [DOGnzb](https://dognzb.cr/login) - Invite-only NZB site (although they do have a [registration page](https://dognzb.cr/register) - at the moment)
+-   [DrunkenSlug](https://drunkenslug.com/) - Popular NZB indexer with a free tier and decent retention.
+-   [NZBCat](https://nzb.cat/) - NZBCat is an invite-only nZEDb NZB indexer.
+-   [NZBFinder](https://nzbfinder.ws/) - Usenet indexer and newznab API with a clean UI and 8+ year backlog of NZBs.
+-   [NZBgeek](https://nzbgeek.info/) - Affordable Usenet indexer operating since 2014.
+-   [omgwtfnzbs](https://omgwtfnzbs.me/login) - Invite-only NZB indexer with a funny name.
 
-#### Free Indexers
+#### Free Usenet Indexers
 
--   [6box](https://6box.me/) A recently revived free Usenet indexing service with a generous API
--   [Usenet Crawler](https://usenet-crawler.com/) Usenet indexer with API access for registered users
--   [NZBIndex](https://www.nzbindex.com) The first free Usenet indexer you find in your Google search results
--   [Binsearch](https://www.binsearch.info/) With this site you can search and browse binary Usenet newsgroups.
--   [NZBKing](http://nzbking.com/) This service allows you to search and browse binary files that have been posted to Usenet newsgroups.
+-   [6box](https://6box.me/) - A recently revived free Usenet indexing service with a generous API.
+-   [BINZB](https://binzb.com) - Minimalistic indexer.
+-   [Binsearch](https://www.binsearch.info/) - With this site you can search and browse binary Usenet newsgroups.
+-   [FindNZB](https://findnzb.net) - One old indixer, the results are outdated and often offline.
+-   [NZBIndex](https://www.nzbindex.com) - The first free Usenet indexer you find in your Google search results.
+-   [NZBFriends](https://nzbfriends.com) - One of the oldest indexers, sadly the results are often outdated too.
+-   [NZBKing](http://nzbking.com/) - The service allows you to search and browse binary files that have been posted to Usenet newsgroups.
+-   [Usenet Crawler](https://usenet-crawler.com/) - Usenet indexer with API access for registered users.
+-   [NewzLeech](https://www.newzleech.com/) - Newzleech is a Usenet file search engine.
 -   [GingaDADDY](https://www.gingadaddy.com/) Another popular free NZB indexer, requires sign-up
 
-### Indexing Software
+### Usenet Indexing Software
 
--   [nZEDb](https://github.com/nZEDb/nZEDb) a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
--   [newznab-tmux](https://github.com/NNTmux/newznab-tmux) Laravel based usenet indexer
--   [newznab](http://www.newznab.com/) newznab is a usenet indexing application, that makes building a usenet community easy.
--   [nZEDb-deploy](https://github.com/PREngineer/nZEDb-deploy) A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.
+-   [Momentum Plus](https://plus.momentum-client.com/) - Usenet-Newsreader and in the (near future) indexer and collector for usenet files.
+-   [nZEDb-deploy](https://github.com/PREngineer/nZEDb-deploy) - A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.
+-   [nZEDb](https://github.com/nZEDb/nZEDb) - A fork of nnplus(2011) - | NNTP / Usenet / Newsgroup indexer.
+-   [newznab-tmux](https://github.com/NNTmux/newznab-tmux) - Laravel based usenet indexer.
+-   [newznab](http://www.newznab.com/) - Newznab is a usenet indexing application, that makes building a usenet community easy.
+-   [NzBlite](https://www.nzblite.com/) (_nzblite client_) - Open source file format to simplify Usenet uploading and downloading to newsgroups.
 
 ### Usenet Clients
 
@@ -2451,8 +2346,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 
 ## Direct Downloads (DDL)
 
-### Download Managers
-
+-   [Zippyshare.sh](https://github.com/myspaghetti/zippyshare) - Bash script for batch downloading files from Zippyshare.
 -   [JDownloader2](https://jdownloader.org/jdownloader2) JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 -   [Internet Download Manager](https://www.internetdownloadmanager.com/) shareware download manager for Windows
 -   [idm-trial-reset](https://github.com/J2TeaM/idm-trial-reset) Use IDM forever without cracking.
@@ -2489,21 +2383,47 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [FlixGrab](https://www.flixgrab.com/) FlixGrab+ is a unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
 -   [Mega.nz IDM Downloader](https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) Unlimited downloading from Mega.nz with IDM.
 
-### Custom Google Search Engines
+### DDL Search Engines & Crawlers
 
 -   [FileChef](http://filechef.com/) - Get direct download links for almost anything!!
 -   [Strixx](https://strixx.now.sh/) - Open Directory Search Tool
 -   [The Eye CGS Engine](https://cgs.the-eye.eu/)
--   [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/)
--   [lumpySoft.com](https://lumpysoft.com/)
--   [Musgle](http://www.musgle.com/) Searches specifically for music
--   [Jimmyr](http://www.jimmyr.com/mp3_search.php) Also searches for music
+-   [Musgle](http://www.musgle.com/) - Musgle in action just type a song title, or the artist name, or both in a search bar and hit 'Enter' - you will be redirected to the Google page with relevant search results. Click on one of those results, and you will have a chance to directly download the song you are searching for - very smooth!
+-   [Jimmyr](http://www.jimmyr.com/mp3_search.php) - Yet abother Music search engine.
+-   [lumpySoft.com](https://lumpysoft.com/) - A Google index search with predefined tags.
+-   [Mattpalm.com](https://mattpalm.com/search/) - Get direct download links for almost anything.
+-   [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/) - Get direct download links for almost anything.
+-   [wtfnzb](https://wtfnzb.pw/) - Open dir for Software.
+-   [Abifog Open Directory Search Tool](https://opendirsearch.abifog.com/) - An open directory search tool.
+-   [Crawli](https://crawli.net) - Searches for online/offline content.
+-   [DDLSearch](http://ddlsearch.free.fr) - Meta search engine, the results are been displayed via Google search engine.
+-   [filediva](http://www.filediva.com) - Yet another meta search engine.
+-   [FilePursuit](https://filepursuit.com) - Meta search engine for Warez.
+-   [Rapidlinks](https://rapidlinks.org) - (RU) - Russian search engine for various sharehoster.
+-   [Alluc](https://w1.alluc.uno/) - Search engine with over 80 million streaming-links from over 700 VOD services, video hosters and file-hosters.
+-   [IPLIVE](https://iplive.club/) - DDL search engine.
+-   [MegaSearch](http://megasearch.co) - Search engine for finding content hosted on Mega and other premium hosts like OpenLoad.
+-   [ololo](https://ololo.to/) - ololo is a video streaming link search engine.
+-   [Orion](https://orionoid.com/) - Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
+-   [VideoSpider](https://videospider.in/) - VideoSpider crawls various websites and search engines to find movie and TV episode streaming links.
+-   [Anonembed](http://anonembed.xyz/) - Search Engine for Openload,Streamango,Rapidvideo, Google Drive, Google photos, Verystream & more.
+-   [FilesLoop](https://www.filesloop.com/) - Search and download torrents and files from various file hosting like Uploaded etc.
+
+### Direct Download Streaming
+
+-   [Catchvideo.net](https://catchvideo.net/) - Catchvideo.net is a free online website, which allows you to download a video url from YouTube, Facebook, Dailymotion, Vimeo and more.
+-   [HDencode](https://hdencode.com/) - Download Movies and TV Shows - #1 Source for High Definition Releases.
+-   [Movie Files](https://moviefiles.org/) - Download Movies For free.
+-   [Movies "R" Us](https://moviesrus.tk) - The newest movies in 1080p. Available with DDL through MediaFire and streaming through Anonfile.
+-   [DL WarezForums](https://dr.warezforums.com/) - Direct downloads and direct streaming, movies, files & more.
+-   [TTDG](http://185.105.101.95/) - Movies via streaming.
 
 ### FTP Indexers
 
--   [Davos](https://github.com/linuxserver/davos) Web-based FTP automation for Linux servers.
--   [Napalm FTP Indexer](https://www.searchftps.net/) NAPALM FTP Indexer lets you search and download files located on public FTP servers.
--   [Mamont's open FTP Index](http://www.mmnt.net/) Browsable directory listing of publicly available FTP-sites
+-   [Davos](https://github.com/linuxserver/davos) - Web-based FTP automation for Linux servers.
+-   [Mamont's open FTP Index](https://www.mmnt.net/) - Browsable directory listing of publicly available FTP-sites.
+-   [Napalm FTP Indexer](https://www.searchftps.net/) - NAPALM FTP Indexer lets you search and download files located on public FTP servers.
+-   [pftp](https://www.pftp.de/) - pftp means Port-File-Transfer-Program not to muddle up with standard FTP which is quite different, it allows you to send and receive directories recursively and move the dirs.
 
 ### DDL Search Engines and Crawlers
 
@@ -2645,38 +2565,285 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [opendirectories-bot](https://github.com/simon987/opendirectories-bot) - Bot used on /r/opendirectories for analysing the contents of open directories posted on the subreddit.
 -   [The Holy Grail of Indexes](https://www.removeddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) - Posted by /u/shadow_hunter104.
 
-## Automation
+## Discord
 
--   [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
--   [Pulsarr](https://github.com/roboticsound/Pulsarr) Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
--   [Bonarr](https://github.com/klassicstudios/Bonarr) A fork of Radarr to work with porn.
--   [traktarr](https://github.com/l3uddz/traktarr) Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
--   [Mylar](https://github.com/evilhero/mylar) An automated Comic Book Downloader (cbr/cbz) for use with SABnzbd, NZBGet, and torrents
--   [LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
--   [CloudBox](https://cloudbox.works/) An All-In-One, Cloud-Centric, Media Server Solution
--   [Piracy and automation, an overview](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit) Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools
--   [Nefarious](https://lardbit.github.io/nefarious/) Nefarious is a web application that helps you download movies and TV shows.
+-   [Snahp.it](https://discord.gg/ypyKZCj) Official Discord server for snahp.it.
+-   [/f/MEGAlinks (Snahp)](https://discordapp.com/invite/xk7HEE3) - Official /f/MEGAlinks Discord server.
+-   [/hbg/ Homebrew General](https://discord.io/homebrew) A Discord server that shares _newer_ Nintendo Switch Games.
+-   [r/PkgLinks](https://discord.io/PkgLinks) - Reddup game sharing Discord Server.
+-   [r/soccerstreams](https://discord.gg/geyTtth) - Official Discord server for the recently-killed /r/soccerstreams subreddit.
+-   [9YearOldPirates](https://discord.gg/3YCF8u) - Official Discord server for the 9YearOldPirates relaese group.
+-   [AniméGlare](https://discordapp.com/invite/RMjHm4F1) - Official AniméGlare Discord channel.
+-   [AniméVibe](https://discordapp.com/invite/4QGvkw8) - Official AniméVibe Discord channel.
+-   [APK'S 2 Day](https://discord.gg/2qWqzN8) - This is a discord server that acts as a hub for numerous streaming apps.
+-   [ApolloTV](https://discordapp.com/invite/DT9SgYE) - The official ApolloTV Discord server.
+-   [DoujinStyle](https://discord.gg/z2QDFdA) - Discord server with Doujin related materials. Things such as Japanese doujin music & games.
+-   [DreamTV](https://discordapp.com/invite/FQkQz6g) - A Discord server for the official DreamTV Android app.
+-   [legal acquisition club](https://discordapp.com/invite/UmWJVvH) - A piracy server to discuss and share movies, tv and apps.
+-   [Morph TV (Morpheus Fork)](https://discordapp.com/invite/gVxP2Gq) - Morph TV (Morpheus Fork) official Discord channel.
+-   [piratesonline](https://discord.me/piratesonline) - Official piratesonline.us Discord Server.
+-   [PlayStation Homebrew](https://discord.gg/JJnvEN8) - Home of /r/ps3homebrew and /r/ps4homebrew.
+-   [The Eye](https://discordapp.com/invite/py3kX3Z) - Official Discord server for The-Eye.eu.
+-   [The Ratio](https://discordapp.com/invite/wab3Qag) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
+-   [WarezNX](https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
+-   [KissCommunity Discord](https://discordapp.com/invite/eCzUxNB) - Community based Discord channel.
+-   [cache-monkey](https://github.com/jamiepine/cache-monkey) - Cachemonkey, for viewing images stored in the discord cache, works for recovering images that were loaded by the discord client but were deleted. It also has a feature to purge the cache too.
 
-#### TV Automation
+## IRC
 
--   [Sonarr](https://github.com/Sonarr/Sonarr) Smart PVR for newsgroup and BitTorrent users.
--   [SickRage](https://github.com/SiCKRAGE/SiCKRAGE) Automatic Video Library Manager for TV Shows.
--   [SickChill](https://sickchill.github.io/) an automatic Video Library Manager for TV Shows.
--   [SickBeard](http://sickbeard.com/) The ultimate PVR application that searches for and manages your TV shows
--   [SickGear](https://github.com/SickGear/SickGear) SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
--   [Medusa](https://pymedusa.com/) Automatic Video Library Manager for TV Shows.
+-   [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) - autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
+-   [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) - XDCC Downloading For Beginners: Do It Like A Pro!
+-   [XDCC](https://en.wikipedia.org/wiki/XDCC) - XDCC (Xabi DCC or eXtended DCC) - is a computer file sharing method which uses the Internet Relay Chat (IRC) - network as a host service.
+-   [ZNC](https://github.com/znc/znc) - An advanced IRC bouncer.
 
-#### Movie Automation
+### IRC Clients
 
--   [Radarr](https://radarr.video/) A fork of Sonarr to work with movies à la Couchpotato.
--   [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) Syncs two Radarr servers through web API.
--   [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) Automatic Movie Downloading via NZBs & Torrents
--   [Watcher](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
+-   [weechat](https://github.com/weechat/weechat) The extensible chat client.
+-   [irssi](https://irssi.org/) Your text mode chatting application since 1999.
+    -   [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
+    -   [autodl-curl-sonarr](https://github.com/Zymest/autodl-curl-sonarr) Script to use as upload-command for autodl-irssi to post to Sonarr
+    -   [mreg](https://github.com/Igglybuff/mreg) Generates a "Match releases" expression for your autodl-irssi filter based on dvdsreleasedates.com's "Most Requested DVD Release Dates" section.
+-   [HexChat](https://hexchat.github.io/) HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
+-   [KVIrc](https://github.com/kvirc/KVIrc) Graphical IRC client
+-   [mIRC](https://www.mirc.com/) IRC client for Windows
+-   [Shout](https://github.com/erming/shout) The self-hosted web IRC client
+-   [Kiwi IRC](https://kiwiirc.com/) Popular web-based IRC client
+-   [TheLounge](https://hub.docker.com/r/linuxserver/thelounge/) TheLounge (a fork of shoutIRC) is a web IRC client that you host on your own server.
 
-#### Subtitles Automation
+### IRC Networks
 
--   [Bazarr](https://github.com/morpheus65535/bazarr) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
--   [autosub](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file using speech recognition
--   [nzb-subliminal](https://github.com/caronc/nzb-subliminal) Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
--   [subsync](https://github.com/smacke/subsync) Automagically synchronize subtitles with the video.
--   [vlsub](https://github.com/exebetche/vlsub) VLC extension to download subtitles from opensubtitles.org
+-   [irc.p2p-network.net](https://p2p-network.net/) - P2P file sharing network
+-   [Orpheus](https://orpheus.network/) - Formerly known as Apollo
+-   [p2p-network.net channel list](https://search.mibbit.com/channels/p2p-network) - List of all channels on the p2p-network.net IRC network.
+
+| Name                         | IRC Address                                                                              | description                                                                       |
+| ---------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Beast-XDCC                   | [`irc://irc.abjects.net/BEAST-XDCC` ](irc://irc.abjects.net/BEAST-XDCC)                  | One more XDCC source.                                                             |
+| IRCHighway - ebooks          | [`irc://irc.irchighway.net/ebooks` ](irc://irc.irchighway.net/ebooks)                    | A nice, friendly irc channel for trading ebooks.                                  |
+| Undernet - bookz             | [`irc://irc.undernet.org/bookz` ](irc://irc.undernet.org/bookz)                          | For downloading ebooks (use `@search <book name>` for a list of available ebooks) |
+| Abandoned IRC - ZOMBIE WAREZ | [`irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ`](irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ) | Zombie Warez channel for various software.                                        |
+| Moviegods                    | [`irc://irc.abjects.net/MOVIEGODS` ](irc://irc.abjects.net/MOVIEGODS)                    | XDCC file sharing network, join #mg-chat to continue downloading                  |
+| The Source                   | [`irc://irc.scenep2p.net/THE.SOURCE` ](irc://irc.scenep2p.net/THE.SOURCE)                | Another XDCC source                                                               |
+
+### IRC Search Engines
+
+-   [ixIRC](https://ixirc.com/) - ixIRC lets you search through 17 IRC networks, 32 channels, and over 189915 user supplied XDCC packs.
+-   [SunXDCC](http://sunxdcc.com/) - Another XDCC file search engine
+-   [xdcc.eu](http://www.xdcc.eu/) - XDCC search engine indexing packets from a large number of networks
+-   [xWeasel](http://xweasel.org) - xWeasel is a free stand-alone Download Client based on IRC technology including a multifunctional XDCC Search Engine.
+
+## DC++
+
+-   [LinuxDC++](https://launchpad.net/linuxdcpp) Utilizing the latest DC++ core, LinuxDC++ offers similar functionality to the Windows client like segmented downloading, TTH based file integrity, etc. with a GTK+ user interface.
+-   [Tankafett](http://tankafett.biz/?do=hublist) List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
+-   [AirDC++](https://www.airdcpp.net/) - Windows GUI and Linux Web DC++ client in active development, with ADC, IPv6 and DHT support.
+-   [DC++](https://en.wikipedia.org/wiki/DC%2B%2B) - Wikipedia page describing DC++
+-   [Direct Connect (protocol)](<https://en.wikipedia.org/wiki/Direct_Connect_(protocol)>) - Wikipedia page describing Direct Connect.
+-   [EiskaltDC++](https://github.com/eiskaltdcpp/eiskaltdcpp) - Windows/Linux/macOS DC++ client, with ADC and DHT support
+-   [FlylinkDC++](http://www.flylinkdc.com/) - Windows DC++ and BitTorrent client in active development, with ADC and DHT support.
+-   [Linux DC++](https://launchpad.net/linuxdcpp) - Easy to configure and use DC++ client.
+
+## Telegram
+
+-   [Nekogram](https://github.com/Nekogram/Nekogram) - Telegram is a messaging app with a focus on speed and security. It’s superfast, simple and free.
+-   [Raymond's Piracy Group](https://t.me/raymondfreesoftware) A group of 5000+ pirates chatting on Telegram. This group replaces the now-defunct piracy group which suicideboy used to run.
+-   [Piracy Links Portal](https://t.me/PiracyLinks) Official invite links portal for piracy groups & channels.
+-   [piratebazaar](https://t.me/piratebazaar) Curated list of piracy-related links.
+-   [@itorrentsearchbot](https://t.me/itorrentsearchbot) Search bot for finding torrent and magnet links on 1337x.to by keyword search
+-   [@vkmusic_bot](https://telegram.me/vkmusic_bot) Find and download pretty much any song
+-   [@RickyChristanto](https://t.me/RickyChristanto) Channel for movie releases, usually from YTS in MKV format.
+-   [iMediaShare channel](https://t.me/iMediaShare) Movies, TV shows, apps, and more
+-   [@movies_inc](https://t.me/movies_inc) Another Telegram channel for downloading movies
+-   [@Qualitymovies](https://t.me/Qualitymovies) Lots of 720p Blu-Ray movie releases
+-   [@MusicHuntersBot](https://t.me/MusicHuntersBot) Another music downloader bot
+-   [@DeezerMusicBot](https://t.me/DeezerMusicBot) Music bot which downloads tracks from Deezer
+-   [SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) Telegram community for SMLoadr
+-   [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
+-   [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
+
+### Telegram Tools & Scripts
+
+-   [Be careful using bots on telegram](http://www.wired.com/story/telegram-bots-tls-encryption/) - Wired article about Telegram Bots and encryption.
+-   [Manybot](http://manybot.io/) - Create your own telegram bot without coding skills.
+-   [Overview of Telegram Bots](http://www.qwasap.com/en/bots.php) - There are many Telegram bots, but here are only the best.
+-   [TelegramBotsList](http://danyspin97.github.io/TelegramBotsList/) - A list of Telegram bots with open source code in alphabetical order.
+-   [Telegram XP Bot](http://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
+-   [Telegram CrackWatch tracker Bot](http://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
+
+### Telegram Piracy Discussion Channels
+
+-   [Telegram Channels](https://telegramchannels.me/channels) - A telegram channel indexer with over 1500 channels.
+-   [@piratebazaar](https://t.me/piratebazaar) - Telegram Channel to request warez information, lists, software & more.
+-   [Piracy • Main Discussion](https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion at Raymond's Piracy Group, but very inactive - use this group for that instance.
+-   [Piracy • Off Topic Discussion](https://t.me/joinchat/Djvt9BVVrrjQ_D_6L9XZxQ) - Off Topic chat for Raymond's Piracy Telegram group.
+-   [original313](hhttps://t.me/original313) - Gaming and Software based accounts for sale.
+-   [evileaks](https://t.me/evileaks) - Evilleaks.su official Telegram channel.
+-   [丂ㄥ乃ㄖㄒ丂 ✪ 丂乇乇 ᗪ 乃ㄖ乂](https://t.me/joinchat/IbIIb0Yga4pKYCOu7LajYg) - Seedbox fans have a home here.
+-   [slbotsbugs](https://t.me/slbotsbugs) - TeamDrive, Bot discussion place.
+
+#### Telegram channel for Login data
+
+-   [@piratechannel](https://t.me/piratechannel) - Free Netflix, Spotify & Other Premium Accounts, Window & Other Software License Keys.
+-   [esetkey_everyday](https://t.me/esetkey_everyday) - Get fresh Nod keys almost everyday.
+-   [keysnod32](https://t.me/keysnod32) - Free Eset Nod32 keys daily.
+-   [radwan1998](https://t.me/radwan1998) - VPN and login data.
+-   [vpnusername](https://t.me/vpnusername) - Free NordVPN leech account logins. Sometimes other VPN services too.
+
+#### Telegram Cracking Channels
+
+-   [Keygen Fortress](https://t.me/keygen_fortress) - Keygens and cracks only.
+-   [King_of_cracking](https://t.me/king_0f_cracking) - Free daily cracking tools, proxies and more.
+-   [The404Cracking](https://t.me/The404Cracking) - Claims to be the best cracking channel on Telegram.
+
+#### Telegram channel for courses ant tutorials
+
+-   [@udemyfree4u](https://ttttt.me/udemyfree4u) - This Is The No. 1 Biggest Channel In Telegram Which Provides Paid Udemy Courses For Free, daily updated.
+-   [Free Udemy Courses](https://t.me/Freecoursefinder) - We provide paid premium online courses for free!
+-   [@freexonlinexcourse](https://t.me/freexonlinexcourse) - Free udemy courses.
+-   [Free Udemy Courses](https://t.me/joinchat/AAAAAEOVydKcDYcTQPbvYg)
+-   [Udemy deals](https://telegram.me/udemydeals) - Free udemy courses!!
+-   [Tech_You](https://t.me/udemydeals) - Tutorials, Logins, Course and other stuff via Mega links.
+
+#### Telegram channel for APK's
+
+-   [@ModdedCentral](https://t.me/ModdedCentral) - Patched & modded android apps, updated regularly, 50+ shared daily. Request group currently closed.
+-   [APK4free](https://t.me/Apk4Free) - Cracked Android apps.
+-   [APKs Apps](https://t.me/DroidApks) - Patched & modded android apps, updated daily.
+-   [dastras](https://t.me/dastras) - (IR) - Modded Android apks.
+-   [InstaMod](https://t.me/instagram_mod) - Regularly updated & feature rich modified Instagram app (Android only).
+-   [Premium APKs Only](https://t.me/apkpremiumonly) - Patched / modded android apps, updated daily.
+
+#### Telegram channels for VPNs
+
+-   [wbnet](https://t.me/wbnet) - Provide VPN logins, proxy logins and more.
+-   [@vpnusername](https://t.me/vpnusername) - Free NordVPN leech account logins. Sometimes posts other VPN services too.
+
+#### Telegram channels for Music
+
+-   [@DeezerMusicBot](https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
+-   [@flacaudio](https://t.me/flacaudio) - `AR` - Arabish flac music.
+-   [@flacmu5ic](https://t.me/flacmu5ic) - This channel is maded 4 listening the best music from whole world.
+-   [@flacmusicalbumfree](https://t.me/flacmusicalbumfree) - FLAC Music and Albums for Free.
+-   [@flacmusics](https://t.me/flacmusics) - FLAC Music (Lossless) (Hi-Res).
+-   [@FLACSong](https://t.me/FLACSong) - Lossless music, various albums, songs and artists.
+-   [@Flacssongss](https://t.me/flacsongss) - Other Than Indian Language Songs Will Be Posted here.
+-   [@HDaudio](hhttps://t.me/hdaudio) - High Definition Audio, 24 bit 48 kHz and up.
+-   [@highreschannell](https://t.me/highreschannell) - High resolution music!
+-   [@indianflacsongs](https://t.me/indianflacsongs) - `HI` - Flac Songs Of Telugu, Malayalam, Hindi, Kannada & Many Other Languages Will Be Posted Here.
+-   [@JioDLBot](https://t.me/JioDLBot) - Search and Download Music inside Telegram.
+-   [@lastfmrobot](https://t.me/lastfmrobot) - Share lastFM scrobbles, artist collage and music compatibility scores.
+-   [@losslessaudio](https://t.me/losslessaudio) - Lossless Audio (FLAC, ALAC, APE).
+-   [@LosslessHive](https://t.me/LosslessHive) - Collection of various Hi-Res Audio Files in FLAC Format. Use the Search Feature to look up for your favorite songs. Also you will find multiple versions of a single song- that means download the largest file to get better Quality (Vinyls).
+-   [@losslessmusicmenu](https://t.me/losslessmusicmenu) - `RU` - Russian music channel for quality music.
+-   [@MusicHuntersBot](https://t.me/MusicHuntersBot) - Another large music downloader bot for Telegram.
+-   [@musicshark](https://t.me/musicshark) - `RU` - Russian and other Flac Music.
+-   [@SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) - Telegram community for SMLoadr.
+-   [@The_Trimmer_bot](https://t.me/The_Trimmer_bot) - Send th bot a streamable link or telegram video and he cuts it.
+-   [@vkmusic_bot](https://t.me/vkmusic_bot) - Find and download pretty much any song (uses vkmusic search engine).
+-   [Full Music Albums](https://t.me/joinchat/AAAAAFkG6jV0RNRuY8eDnw) - A large collection of music albums, directly downloadable in Telegram, updated daily!
+-   [Melodic Musics](https://t.me/MelodicMusics) - A large collection of music, downloadable within Telegram.
+-   [Music Archive](https://t.me/MArchive) - A large collection of music, downloadable within Telegram.
+
+#### Telegram channels for Movies & TV shows
+
+-   [@beyondHD](https://t.me/beyondHD) - HD movies shared from the community to the community.
+-   [@iMediaShare](https://t.me/iMediaShare) - Provides links to Movies, TV shows, apps & and more.
+-   [@intermedia](https://t.me/intermedia) - Channel for movies.
+-   [@Moviezworldz](https://t.me/Moviezworldz) - Official Moviezworldz channel.
+-   [@offstream_media](https://t.me/offstream_media) - TV Shows, Movies and more!
+-   [@Qualitymovies](https://t.me/Qualitymovies) - Lots of 720p Blu-Ray movie releases.
+-   [@RickyChristanto](https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
+-   [Antrips](hhttps://t.me/antrips) - Anthrapper's Encoding Library.
+-   [gdrivemovielink](https://t.me/gdrivemovielink) - Google drive movies linked into Telegram.
+-   [hamil_movies](hhttps://t.me/hamil_movies) - CT movies Family provides links to movies directly in Telegram.
+-   [TV Updates](https://telegram.me/joinchat/ACzuljvGFUjzJf4ambpzTA) - A large collection of TV shows, downloadable in Telegram, updated daily!
+
+#### Telegram channels for Software
+
+-   [@piracylinks](https://t.me/piracylinks) - A link sharing community.
+-   [Adobe CRack channel](tg://resolve?domain=adobecracks&post=17) - A channel for all Adobe cracks.
+-   [AIOSetup](https://t.me/aiosetup) - Wide range of pre-cracked software, downloadable in Telegram.
+-   [arezbank](https://t.me/piracylinks) - Channel for Windows software.
+-   [candroidsoftware](https://t.me/candroidsoftware) - Freee APK's and software.
+-   [CGPersia Downloads](https://t.me/CGPERS) - Free ripped courses from Udemy, Skillshare and other educational websites.
+-   [crackedpcsoftwares](https://t.me/crackedpcsoftwares) - PC, mobile and other applications sharing.
+-   [Crackwatch tracker](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - CrackWatch trackers Telegram channels for CrachWatch.com games & cracks provided by `/u/SHADOWSLIFER`.
+-   [Keygen Fortress](https://t.me/keygen_fortress) - Wide range of keygens for various apps, downloadable in Telegram.
+-   [Piracy Main](https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion, but very inactive - use this group for that instead.
+-   [Raymond's Piracy Group](https://t.me/raymondfreesoftware) - A group of 7000+ pirates chatting.
+-   [Windows_Software](https://tele.me/telegram/groups/windows_softwares) - Windows software, cracked.
+
+#### Telegram channels for Books and Magazines
+
+-   [@BookCafe](http://t.me/eBookCafe)
+-   [@BooksBag](http://t.me/BooksBag)
+-   [@BooksFree4U](http://t.me/BooksFree4U)
+-   [@BooksLog](http://t.me/BooksLog)
+-   [@booksmania](http://t.me/booksmania)
+-   [@booksnow](http://t.me/booksnow)
+-   [@bookz4u](http://t.me/bookz4u)
+-   [@mfmixebooks](hhttp://t.me/mfmixebooks)
+-   [@OxfordBookworms](http://t.me/OxfordBookworms)
+-   [best_bookshelf](http://t.me/best_bookshelf)
+-   [BOOK_HOUSE_INTERNATIONAL](http://t.me/BOOK_HOUSE_INTERNATIONAL)
+-   [Books N All](https://t.me/joinchat/EG43XkPhHFup2w7kTl44AA) - Request eBooks and audio books, as well as reviews in this group with ~3.5k members & generally a fast response time.
+-   [BookThief](http://t.me/BooksThief)
+-   [eBooks English](http://t.me/EbooksEnglish)
+-   [Ebooks254](hhttp://t.me/Ebooks254)
+-   [List of eBook websites, channels & bots](https://t.me/raymondfreesoftware/166702) - Large collection of websites, bots and channels with a wide range of eBooks.
+-   [SciHub](http://t.me/scihubot) - Similar to the original Sci-Hub website, sharing is caring!
+-   [The Hindu](https://t.me/The_Hindu1) - PDFs of every Indian newspaper every day.
+
+### Telegram Bots
+
+-   [Botlist](hhttps://botlist.co/) - A botlist for various messenger (including Telegram).
+-   [@BotListBot](https://t.me/BotListBot) - The official bot for botlist.co to list bots in Telegram.
+-   [telegram-list](https://github.com/goq/telegram-list/) - `RU` - GitHub overview list of useful Telgram Bots.
+-   [@fakemailbot](https://t.me/fakemailbot) - Get fake emails as soon as new ones arrive.
+-   [@Proytdlbot](https://t.me/Proytdlbot) - Simple bot to download YouTube Videos. You can't invite the bot into groups.
+-   [Torrent Drive](https://t.me/torrentdrive_bot?do=open_link) - Gives you Google Drive link for the torrent files you send.
+-   [@ToEmailBot](https://t.me/ToEmailBot) - Redirect all pictures and files to email. Send me one and get it to inbox 💌.
+-   [@apkdl_bot](https://t.me/apkdl_bot) - Download latest version of any free android apps and games from apkdl.in.
+-   [Telegram to Discord Bridge](https://github.com/TediCross/TediCross) - Self-hosted bot to forward your Telegram messages to Discord.
+-   [@Calstars_Bot](https://t.me/Calstars_Bot) - A Token Tipping Bot.
+-   [@filetobot](https://t.me/filetobot) - Stores your private files and arranges them by category. Send any file to the bot and it will be immediately added.
+-   [@itorrentsearchbot](https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
+-   [@LinkForFilebot](https://t.me/LinkForFilebot) - Link your audio, video or media files to a specific channel or group.
+-   [@multi_purposebot](https://t.me/multi_purposebot) - Rename, get media links, and upload files. The bot has lots of features.
+-   [@sltzbot](https://t.me/sltzbot) - A bot to seed torrents.
+-   [@sluploadbot](https://t.me/sluploadbot) - Upload Files To Telegram and generate Links To Telegram Files.
+-   [@teletransferxbot](https://t.me/teletransferxbot) - TeleTransferX (_currently not working due to lack of support from the community_) down/uploader and search bot.
+-   [@TeleWarez_Bot](https://t.me/TeleWarez_Bot) - Official bot from Warez-IR.com to share and get files.
+-   [@UploadBots](https://t.me/UploadBots) - A bot which uploads your telegram file to a sharehoster.
+-   [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
+
+#### Telegram Music downloader Bot
+
+-   [@spotdlrobot](https://t.me/spotdlrobot) - Simple bot to download Spotify Songs in High quality (_no FLAC!_). You can't invite the bot into Groups.
+-   [ppmusicbot - Spotify playlist bot](https://github.com/kimmobrunfeldt/ppmusicbot) - Telegram bot which adds all linked Spotify track links to a shared playlist.
+-   [@DeezloaderAn0n_bot](https://github.com/An0nimia/DeezloaderAn0n_bot) - Download songs from Deezer and if they are now avbl. in Deezer it downloads it from YouTube.
+-   [@Soundclouddownloadbot](https://t.me/Soundclouddownloadbot) - Download SoundCloud files (music, no playlists) from within Telegram. You can't invite the Bot into Groups.
+
+#### Telegram Movies and TV Shows Bot
+
+-   [@utubebot](hhttps://t.me/utubebot) - Video Downloader with MP3 Conversion support.
+-   [@imdb](https://t.me/scsht_bot) - This bot automatically works in all your chats and groups, no need to add it anywhere. Simply type @imdb in any chat.
+-   [@piracy_bot](https://t.me/piracy_bot) - A simple bot which will give you subtitles from various Streaming sites e.g. Zee5.com and Jiocinema.com.
+-   [@JaredMovieRuBot](https://t.me/JaredMovieRuBot) - Monitor and get notified about upcoming movies and tv series.
+
+#### Telegram Google Drive Bots
+
+-   [@botxupdates](https://t.me/botxupdates) - Uploads files to your Google Drive. Just send file or direct download link.
+-   [@gdriveupme_bot](https://github.com/aryanvikash/Google-Drive-Uploader)
+-   [@GdriveXbot](https://t.me/GdriveXbot) - Uploads files to your Google Drive. Just send file or direct download link.
+-   [@gduploadbot](https://t.me/gduploadbot) - Remote uploads a link/file and mirrors it to you.
+
+#### Telegram Moderation Bot
+
+-   [@Combot](https://combot.org/) - Moderation, analytics, anti-spam, the best trigger system in Telegram and more.
+-   [@Controller](https://t.me/ControllerBot) - ControllerBot is a feature-rich bot for Telegram channel (not group!) owners.
+-   [@GroupHelpBot](https://t.me/GroupHelpBot) - This is the most complete Bot to help you manage your groups easily and safely!
+-   [@IFTTT](https://t.me/IFTTT) - Similar like webhooks your can create own script based snippets which you can use in your channel or group.
+-   [@Miss Rose](https://missrose.org/guide/getting-started/adding-rose/) - Manage your group easily with the Rose bot.
+-   [@Protectron](https://www.protectronbot.com/) - Telegram anti-spam and group management bot.
+-   [@Shieldy](https://t.me/shieldy_bot) - A zero-config Telegram bot that fights spam in chats.
