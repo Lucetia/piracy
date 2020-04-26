@@ -22,6 +22,7 @@
 
 -   [Major US ISPs Refuse to Discuss Repeat Infringer Policies](https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/)
 -   [British ISPs throw in the towel, give up sending out toothless copyright infringement warnings](https://www.theregister.co.uk/2019/07/20/creative_content_piracy/)
+-   [How to start your own ISP](https://startyourownisp.com/) - Start your own ISP, lists tools which you need and lots of background information.
 
 ### ISPs you should avoid
 
