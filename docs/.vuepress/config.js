@@ -21,5 +21,4 @@ module.exports = {
         editLinkText: "Help us improve this page!",
         smoothScroll: false,
     },
-    plugins: ["@vuepress/back-to-top"],
 };

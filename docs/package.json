@@ -1,8 +1,6 @@
 {
     "name": "piracy",
-    "version": "1.0.0",
-    "description": "A curated list of aarrrr!",
-    "main": "index.js",
+    "description": "Awesome Piracy Website",
     "scripts": {
         "dev": "vuepress dev",
         "build": "vuepress build"
@@ -11,7 +9,6 @@
         "type": "git",
         "url": "git+https://github.com/maximousblk/piracy.git"
     },
-    "keywords": [],
     "author": "Maximous Black",
     "license": "CC0-1.0",
     "bugs": {
@@ -19,8 +16,6 @@
     },
     "homepage": "https://piracy.now.sh/",
     "devDependencies": {
-        "@vuepress/plugin-back-to-top": "^1.4.1",
         "vuepress": "^1.4.1"
-    },
-    "dependencies": {}
+    }
 }
