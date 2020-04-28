@@ -7,23 +7,56 @@ metaTitle: Piracy
 
 -   [r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
     -   [r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
-    -   [The r/AnimePiracy Index](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/A1) - A Google Docs sheet for Anime websites including background information if page x contains ads, anti-adblock & more.
+    -   [r/AnimePiracy Index](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/A1) - A Google Docs sheet for Anime websites including background information if page x contains ads, anti-adblock & more.
+-   [Nyaa.si](https://nyaa.si/) - Anime torrent search engine with many fansub/fandub groups actively sharing torrents. No ads, no malware, nothing but clean.
+-   [Nyaa Pantsu](https://nyaa.net/) - No ads. Very similar to nyaa website.
+    -   [Nyaa Pantsu Mirror](https://nyaa.pt/) - No ads. Very similar to nyaa website.
 -   [AnYme](https://github.com/zunjae/anYme) - Unofficial Anime App for MyAnimeList.
 -   [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
 -   [r/KissCommunitySupport](https://old.reddit.com/r/KissCommunitySupport) - Official Kiss Community subreddit.
--   [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac](https://kissanime.ac/) Large cartoon collection that uses RapidVideo/Openload
--   [KissAnime.nz](http://kissanime.nz/) - One of the best places for Animes.
--   [KissAsian](http://kissasian.ch/) - Yet another website for Animes.
--   [KissAnime.ru](http://kissanime.ru/) - (`RU`) - Official russian KissAnime community.
 -   [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
 -   [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
 -   [r/AnimePiracy BCSE Search](https://ui.customsearch.ai/hosted-page?customconfig=12619b8a-0cac-4a38-b20b-04c79ddb616d&version=latest&market=en-US&q=) - A custom search engine for Anime content.
+-   [HakuNeko](https://github.com/manga-download/hakuneko) - A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, folder with images, epub).
+-   [YMP4](https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.
+-   [animetosho](https://animetosho.org/) - AnimeTosho (AT) is an automated service that mirrors torrents posted on Tokyo Tosho and Nyaa Torrents AniDex onto various file hosting services.
+-   [Hi10Anime](https://hi10anime.com/) - High Quality 10-bit Animes.
+-   [Anime Kaizoku](https://animekaizoku.com/) - Onclick pop-up ads (NSFW), banner ads, no torrents, GDrive as download source (encodes for donators), has torrent version on nyaa.si tagged as `[AnimeKaizoku]`.
+-   [Shana Project](https://www.anirena.com/) - Anime torrent side, no ads.
+
+### Cantoons and Anime streaming
+
+-   [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
+-   [4anime](https://4anime.to/) A relatively new site, clean interface, Subs and dubs, many ads, many player alternatives.
+-   [Anime8](https://anime8.me/) - Watch & download online in high quality.
+-   [GoGoAnime.io](https://www18.gogoanime.io/) - Subs and dubs, many ads, many player alternatives.
+    -   [GoGoAnime.video](https://www2.gogoanime.video/) Popular website for watching anime
+-   [AniLinkz](https://anilinkz.to/) Large database of streaming anime episodes.
+-   [KissCartoon.info](https://kisscartoon.info) - Another site for streaming cartoons with a huge catalog
+    -   [KissCartoon.ac](https://kisscartoon.ac/) Popular cartoon streaming site
+-   [KissAnime.nz](http://kissanime.nz/) - One of the best places for Animes.
+    -   [KissAnime.ru](http://kissanime.ru/) - (`RU`) - Official russian KissAnime community.
+    -   [Kissanime.ac](https://kissanime.ac/) Large cartoon collection that uses RapidVideo/Openload
+-   [KissAsian](http://kissasian.ch/) - Yet another website for Animes.
+-   [watchcartoononline.com](https://www.watchcartoononline.com/) - Cartoons, dubbed/subbed anime streaming site.
+    -   [watchcartoononline.io](https://www.watchcartoononline.io/) Outdated site layout, still active and Openload.
+    -   [WatchCartoonsOnline.la](https://watchcartoonsonline.la/)
+-   [Toonova](http://www.toonova.net/) - Another site for streaming cartoons.
+-   [AnimePahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
+-   [AnimeRam](https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
+-   [AnimeSeries](https://animeseries.co/) - Yet another anime streaming provider website.
+-   [AniméGlare](https://animeglare.xyz/) - watch ANIME not ADVERTISEMENTS
+-   [AniméVibe](http://animevibe.tv/) - Watch Anime Online Stream Ad-Free
+-   [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
+-   [animetoon](http://www.animetoon.org/) - Lots of streaming via premium hosts for cartoons.
+-   [WatchAnime.info](https://www9.watchanime.info/) - Subs and dubs, banner and pop-up ads, multiple sources.
+-   [WatchSeries 2.0](https://watch-series.io/)
 -   [Anime Kisa](https://animekisa.tv/) - Subs and dubs, no ads, funded by donations, self-hosted.
 -   [Anime Simple](https://ww1.animesimple.com/) - Subs and dubs, banner ads, multiple sources.
 -   [Anime Streams](https://www.anime2you.de/streams/) - Sub and dub, banner ads.
 -   [Anime Take](https://animetake.tv/) - Subs and sometimes dubs, banner and pre-roll ads, one source.
 -   [AnimeBam.net](https://www.animebam.net/) - Subs only, banner ads, only one source.
--   [animebam.se](https://www.animebam.se/) - Subs only, banner ads, only one source.
+    -   [animebam.se](https://www.animebam.se/) - Subs only, banner ads, only one source.
 -   [AnimeBorn](http://www.animereborn.io/) - Subs only, banner ads, pop-ins, pop-ups, videos hosted by Google (proxy), only 1 source, downloadable.
 -   [AnimeBoys](https://animeboys.net/) - Sometimes offline - Subs and sometimes dubs, banner and pre-roll ads, one source.
 -   [Kaze Online](https://www.kaze-online.de/) - (Ger) - Subs and dubs, banner and pop-up ads, multiple sources.
@@ -37,9 +70,9 @@ metaTitle: Piracy
 -   [Animelon](https://animelon.com/) - Subs only, multilingual, no ads, funded by donations, only one source, videos hosted by Google, aimed for Japanese learners.
 -   [AnimeRush](https://www.animerush.tv/genres/) - Subs only, pop-ins, one source.
 -   [AnimeTV](https://animetv.ge/) - Subs and dubs, banner ads, many player alternatives.
--   [AnimeTV](https://www3.animeseries.io/) - Subs and dubs, banner ads, many player alternatives.
--   [animeultima](https://animeultima.eu/) - Subs and dubs, banner and pop-up ads, multiple sources.
--   [animeultima](https://twitter.com/animeultimav2?lang=en) - Subs and dubs, banner and pop-up ads, multiple sources.
+-   [animeultima.eu](https://animeultima.eu/) - Subs and dubs, banner and pop-up ads, multiple sources.
+    -   [animeultima.to](https://www1.animeultima.to/) - Yet another good place for Animes.
+    -   [animeultima twitter](https://twitter.com/animeultimav2?lang=en) - For latest updates.
 -   [AnimeWatch](https://aniwatch.me/) - We are Aniwatch and here you will find an anime haven, including the best user experience you will ever have.
 -   [AnimeWorldBD](https://animeworldbd.com/) - Banner ads, some videos can only be downloaded, small list.
 -   [Aniwatcher](https://aniwatcher.com/) - Subs and dubs, pop-up ads on video player, downloadable, multiple sources.
@@ -48,67 +81,27 @@ metaTitle: Piracy
 -   [CartoonWire](https://cartoonwire.to/)
 -   [Chia-anime](https://www2.chia-anime.cc/)
 -   [DaiWEEB](https://www.daiweeb.org/) - Subs only (EN and JP), no ads, only one source, self-hosted, aimed for Japanese learners.
--   [DarkAnime.stream](https://darkanime.stream/) - Subs, no ads, downloadable, some sources.
--   [DubbedAnime](https://dubbedanime.biz/) - Dubbed animes, large collecction.
--   [DubbedAnime](https://ww5.dubbedanime.net/) - Subs and dubs, banner and pop-up ads, multiple sources.
--   [EyeOnAnime](http://eyeonanime.tv/) - Subs and dubs, banner ads, uses multiple uploaders/players.
+-   [DubbedAnime.net](https://ww5.dubbedanime.net/) - Subs and dubs, banner and pop-up ads, multiple sources.
+    -   [DubbedAnime.biz](https://dubbedanime.biz/) - Dubbed animes, large collecction.
 -   [EyeOnAnime](https://eyeonanime.tv/) - Subs and dubs, banner ads, uses multiple uploaders/players.
--   [GoGoAnime](https://www1.gogoanime.sh/) - Subs and dubs, many ads, many player alternatives.
--   [HakuNeko](https://github.com/manga-download/hakuneko) - A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, folder with images, epub).
--   [HotAnime](http://hotanime.me/) - Subs and dubs, lots of banner ads, pop-ins, possibly self-hosted videos, downloadable (via OpenLoad).Banner ads, multiple sources, eng & german subs, captcha.
--   [JustDubs](http://justdubs.org/) - Dubs only, popup ads, not enough sources, downloadable.
 -   [Kawaiifu](https://kawaiifu.com/) - Videos hosted by Google, only one source, style similar to niconico, missing multiple anime.
--   [KickAssAnime.rs](https://www.kickassanime.rs/) - (`RU`)
--   [KickAssAnime](https://www11.kickassanime.io/) - Subs and dubs, banner ads, some sources.
+-   [KickAssAnime.io](https://www11.kickassanime.io/) - Subs and dubs, banner ads, some sources.
+    -   [KickAssAnime.rs](https://www.kickassanime.rs/) - (`RU`)
 -   [MoviesEver](https://moviesever.com/)
 -   [NineAnime](https://www.nineanime.com/)
--   [OtakuStream](https://otakustream.unblocker.cc/) - Subs only, banner and pop-up ads, downloadable, multiple sources.
 -   [Randaris Anime](http://randaris.app) - (`Ger`) - Banner ads, multiple sources, eng & german subs, captcha.
 -   [RyuAnime](https://www4.ryuanime.com/) - Dubbed animes.
 -   [Serienjunkies](http://serienjunkies.org/) - (GER) - Provides german tv episodes.
 -   [SGAnime](https://sganime.org/) - Subs only, no ads, few sources.
--   [TVBox](https://tvbox.unblocked.gdn/)
--   [TVRaven](https://www.onetvraven.pro/)
--   [Your-Anime](https://www.your-anime.com/) - (`AR`) - Arabish animes dubbed.
--   [YMP4](https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.
--   [animeultima](https://www1.animeultima.to/) - Yet another good place for Animes.
 -   [NovelPlanet](http://novelplanet.com/)
 -   [Tokyo Tosho](https://www.tokyotosho.info/) - Referral banner ads.
--   [Nyaa Pantsu](https://nyaa.net/) - No ads. Very similar to nyaa website.
--   [animetosho](https://animetosho.org/) - AnimeTosho (AT) is an automated service that mirrors torrents posted on Tokyo Tosho and Nyaa Torrents AniDex onto various file hosting services.
--   [Hi10Anime](https://hi10anime.com/) - High Quality 10-bit Animes.
--   [Anime Kaizoku](https://animekaizoku.com/) - Onclick pop-up ads (NSFW), banner ads, no torrents, GDrive as download source (encodes for donators), has torrent version on nyaa.si tagged as `[AnimeKaizoku]`.
--   [Shana Project](https://www.anirena.com/) - Anime torrent side, no ads.
--   [iHaveNoTv](https://ihavenotv.com/) - Community managed documentary collection
+-   [TVBox](https://tvbox.unblocked.gdn/)
+-   [Your-Anime](https://www.your-anime.com/) - (`AR`) - Arabish animes dubbed.
 -   [KimCartoon](https://kimcartoon.co/) - Large cartoon collection, primarily Openload.
-
-### Cantoons and Anime streaming
-
--   [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
--   [GoGo Anime](https://www3.gogoanime.in/) Popular website for watching anime
--   [AniLinkz](https://anilinkz.to/) Large database of streaming anime episodes.
--   [KissCartoon.info](https://kisscartoon.info) - Another site for streaming cartoons with a huge catalog
--   [KissCartoon.ac](https://kisscartoon.ac/) Popular cartoon streaming site
--   [watchcartoononline.com](https://www.watchcartoononline.com/) + ([Mirror](https://www.watchcartoononline.io)) - Cartoons, dubbed/subbed anime streaming site.
--   [watchcartoononline.io](https://www.watchcartoononline.io/) Outdated site layout, still active and Openload.
--   [WatchCartoonsOnline.la](https://watchcartoonsonline.la/)
--   [Toonova](http://www.toonova.net/) - Another site for streaming cartoons.
--   [AnimePahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
--   [AnimeRam](https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
--   [AnimeSeries](https://animeseries.co/) - Yet another anime streaming provider website.
--   [AniméGlare](https://animeglare.xyz/) - watch ANIME not ADVERTISEMENTS
--   [AniméVibe](http://animevibe.tv/) - Watch Anime Online Stream Ad-Free
--   [4anime](https://4anime.to/) A relatively new site, clean interface, Subs and dubs, many ads, many player alternatives.
--   [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
--   [animetoon](http://www.animetoon.org/) - Lots of streaming via premium hosts for cartoons.
--   [Anime8](https://anime8.me/) - Watch & download online in high quality.
--   [WatchAnime.info](https://www9.watchanime.info/) - Subs and dubs, banner and pop-up ads, multiple sources.
--   [WatchSeries 2.0](https://watch-series.io/)
 
 ### Cantoons and Anime downloading
 
 -   [Crunchyroll Downloader/Scraper (Windows/Linux)](https://github.com/ThePBone/CrunchyrollDownloader#crunchyroll-scraper) - Crunchyroll Downloader written (from scratch) in C++ for Windows and Linux, it uses FFmpeg to download/convert MP4 files and a US proxy to bypass GeoIP blocks.
--   [Nyaa.si](https://nyaa.si/) - Anime torrent search engine with many fansub/fandub groups actively sharing torrents. No ads, no malware, nothing but clean.
 -   [Hi10 Anime](https://hi10anime.com/) High-Quality 10-bit Anime Encodes
 -   [Anime Kaizoku](https://animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
 -   [Anime Kayo](https://animekayo.com/) Up to 1080p DDL links, mostly Google Drive
@@ -119,6 +112,7 @@ metaTitle: Piracy
 -   [HorribleSubs](https://horriblesubs.info/) Download anime via torrent files, magnet links, XDCC, and premium link hosts.
 -   [AniDex](https://anidex.info/) - Another anime torrent search engine. No ads/popups.
 -   [AnimeVibe](https://animevibe.xyz/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
+-   [DarkAnime.stream](https://darkanime.stream/) - Subs, no ads, downloadable, some sources.
 
 ## Comics, Manga and Light novels
 
@@ -350,6 +344,7 @@ metaTitle: Piracy
 -   [DocuWiki-net](http://docuwiki.net/index.php?title=Main_Page) - DocuWiki.net serves as an index of documentary films on the Edonkey Network.
 -   [MVGroup](http://forums.mvgroup.org/) - A forum which shares documentaries via P2P.
 -   [whatwhat888 big list of documentary sites (streaming and download)](https://www.removeddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) - An old post by /u/whatwhat888 that may still be useful.
+-   [iHaveNoTv](https://ihavenotv.com/) - Community managed documentary collection
 
 ## Audiobooks
 
@@ -777,7 +772,6 @@ metaTitle: Piracy
 -   [BS.to](https://bs.to/) - (GER) - German Video-on-Demand-Website for TV-Shows, Cartoons & Movies.
 -   [CafeHulu](http://cafehulu.com/) - Best Place To Watch FREE Tv Series And Cartoons.
 -   [dokujunkies](https://dokujunkies.org) - Provides several documentations, movies etc. Links are shared via uploaded.
--   [EZTV (EZTV.AG)](https://eztv.io/) - Well known group for movies and series.
 -   [FreeMoviez](https://freemoviesz.online/) - Watch free movies online.
 -   [Los-Movies](http://los-movies.com/) - You can stream High Quality movies and cinema films without any redirection.
 -   [M4UFree.TV](http://m4ufree.tv/) - Unique design, HD server with backup and additional hosts
@@ -1172,22 +1166,18 @@ metaTitle: Piracy
 -   [Xatab Repacks](https://xatab-repack.net) Russian game repacker, primarily torrents
 -   [ElAmigos Games](https://www.elamigos-games.com/) Premium links to cracked games
 -   [qoob.name](http://qoob.name/) Repacker site
--   [Nicoblog](https://nicoblog.org/) Plenty of ISOs, ROMs, and repacks
--   [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
 -   [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
 -   ["A simple script for easily downloading emulator.games ROMs"](https://www.removeddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
 -   [BlackBox](http://www.blackboxrepack.com/) - A well known forum/site for game repacks.
--   [Dark Umbra](https://darkumbra.net/) - A forum for sourcing games.
 -   [DODI](http://dodi-repacks.site/) - Similar like fit-girl repacks, known and trusted by thousend of peoples around the world.
 -   [ElAmigos Games](https://www.elamigos-games.com/) - Premium links to cracked PC games.
 -   [Emulator.Games](https://emulator.games/) - Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
 -   [FitGirl Repacks](http://fitgirl-repacks.site/) - Popular DDL and torrent site for game repacks.
 -   [Kaoskrew](http://kaoskrew.org/) Repacks from popular repacker SKIDROW, CPY, Razor1911, PLAZA etc.
 -   [Kapital Sin](http://www.kapitalsin.com/forum/)
--   [Nicoblog](https://nicoblog.org/) - Plenty of ISOs, ROMs & repacks.
+-   [NitroBlog](https://nblog.org/) - Plenty of ISOs, ROMs & repacks.
 -   [qoob.name](http://qoob.name/) - Repacker site of popular cracker teams like CPY, PLEX etc.
 -   [R.G Mechanics](https://rg-mechanics.org/) - Various repacks.
--   [Revolt Group](https://revolt.group/) - Official Revolt website.
 -   [Skidrow Repacks](https://skidrowrepacks.com/) - Repacks from popular repacker SKIDROW. Lots of anime stuff too!
 -   [Tapochek](http://tapochek.net/) - Official R.G Mechanics repacks can be found here.
 -   [Xatab Repacks](https://xatab-repack.net) - (RU) - Russian game repacker, provides primarily torrents.
@@ -1211,7 +1201,6 @@ metaTitle: Piracy
 -   [3DSISO](http://www.3dsiso.com/) - A community based ROM database.
 -   [ByAlvRo's Collection - 1Fichier Mirror (132 TB various)](https://pastebin.com/79q1mdZm) via [reddit](https://old.reddit.com/r/DataHoarder/comments/bi4u7e/byalvro_is_retiring_so_his_entire_playstation/)
 -   [CoolRom](http://coolrom.com/) - Your #1 emulation choice.
--   [Darkumbra](https://darkumbra.net/forums/forum/192-3ds-cia-games/) - Nintendo 3ds CIA files.
 -   [Digiex](https://digiex.net/forums/) - A forum to share and talk about ROMs, Games & other console games.
 -   [Doperoms](https://www.doperoms.com/) - A huge collection with over 170,000 ROM files.
 -   [Emulanium](http://www.emulanium.com/) - Emulators, cheats & roms.
@@ -2257,6 +2246,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Torrent9](https://www.torrent9.ph/) - French torrent search engine.
 -   [TorrentFunk](https://www.torrentfunk.com/) - TorrentFunk is a torrent site providing verified torrents for all kinds of content.
 -   [TorrentGalaxy](https://torrentgalaxy.org/) - Public tracker with a clean UI.
+    -   [torrentgalaxy.io](http://torrentgalaxy.io/) - (`GeoIP block, ISP Block`) - TorrentGalaxy is a popular torrent directory.
 -   [TorrentInvites](http://torrentinvites.org) - #1 to buy, trade, sell or find free Tracker Invites!
 -   [TorrentKing](https://torrentking.io/) - Torrentking is a popular movie torrent site.
 -   [Torrentz2](https://torrentz2.is/) - [(mirror)](https://torrentz2.eu/) - A good replacement of the defunct Torrentz.eu.
@@ -2271,12 +2261,11 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [monova.to](https://monova.to/)
 -   [PaHe.me](https://pahe.me/) - HQ Movies at Affordable Size.
 -   [rutor.info](http://rutor.info/) - (`RU`) - Largest Russian language torrent website.
--   [torrentgalaxy.io](http://torrentgalaxy.io/) - (`GeoIP block, ISP Block`) - TorrentGalaxy is a popular torrent directory.
 -   [ilcorsaronero.info](https://ilcorsaronero.xyz/) (`It`) - Popular Italian torrent directory.
 -   [yggtorrent.se](https://yggtorrent.se/) - (`FR`) - Popular French torrent directory.
 -   [Torrents9](https://vww.torrentz9.fr/) - (`FR`) - Yet another popular French torrent directory.
 -   [Zone Annuaire](http://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
--   [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
+-   [EZTV](https://eztv.io/) EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
 -   [YTS](https://yts.am/) Small-size HD movies from YIFY
 -   [trackerslist](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
 -   [metal-tracker.com](http://en.metal-tracker.com/) Heavy metal music tracker

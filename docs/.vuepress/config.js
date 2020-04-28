@@ -1,6 +1,6 @@
 module.exports = {
     title: "Piracy",
-    description: "A curated list of aarrrr!",
+    description: "A curated list of arrrrr!",
     dest: "dist",
     head: [["link", { rel: "icon", href: "/favicon.ico" }]],
     themeConfig: {
@@ -10,15 +10,12 @@ module.exports = {
             { text: "Security", link: "/security/" },
             { text: "Laws", link: "/laws/" },
             { text: "About", link: "/about/" },
-            { text: "DMCA", link: "/dmca/" },
         ],
         sidebar: "auto",
-        searchPlaceholder: "Search",
         lastUpdated: true,
         repo: "maximousblk/piracy",
         repoLabel: "GitHub",
         editLinks: true,
-        editLinkText: "Help us improve this page!",
-        smoothScroll: false,
+        editLinkText: "Help improve this page!",
     },
 };
