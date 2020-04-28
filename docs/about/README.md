@@ -13,7 +13,7 @@ For discussion, feedback or if you come across dead links please head over to [i
 
 ## Why?
 
-Research purposes. :wink:
+Research purposes... :wink:
 
 ## Disclaimer
 
@@ -23,6 +23,6 @@ If you believe that your work is accessible on this list in a way that constitut
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![GitHub license](https://img.shields.io/github/license/maximousblk/piracy?style=for-the-badge)](https://github.com/maximousblk/piracy/blob/master/LICENSE)
 
 To the extent possible under law, [Maximous Black](https://maximousblk.github.io/) has waived all copyright and related or neighboring rights to this project.

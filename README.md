@@ -41,14 +41,21 @@ If you believe that your work is accessible on this list in a way that constitut
 
 ## Frequently asked questions?
 
+#### Why was this even created?
+
+Research purposes... :wink:
+
 #### Is this a biased list?
 
-Somewhat. I do not know everything about Digital piracy and can be a little resistive while adding new links.
+Somewhat. I do not know everything about digital piracy and can be a little resistive while adding new links.
 
-#### Why can I only search for headers onthe website?
+#### Why can I only search for headers on the website?
 
 A full-text search function is planned.
-The website vuepress for easy maintainance and deployment. Vuepress currently only supports header search and algolia pluggin. I don't know how to integrate algolia in the current deployment cycle. Any help regarding this will be much appreciated.
+The website uses vuepress for easy maintainance and deployment.
+Vuepress currently only supports header search and algolia pluggin.
+I don't know how to integrate algolia in the current deployment cycle.
+Any help regarding this will be much appreciated.
 Untill then you will have to search via `Ctrl` + `F` or `Cmd` + `F`.
 
 ## Contribute
@@ -57,7 +64,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![GitHub license](https://img.shields.io/github/license/maximousblk/piracy?style=for-the-badge)](https://github.com/maximousblk/piracy/blob/master/LICENSE)
 
 To the extent possible under law, [Maximous Black](https://maximousblk.github.io/) has waived all copyright and related or neighboring rights to this project.
 
