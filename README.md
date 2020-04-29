@@ -2,7 +2,7 @@
   <a href="https://piracy.now.sh"><img width="200" src="https://piracy.now.sh/logo.svg" alt="arrrr!"></a>
 </p>
 
-# [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Piracy
+# [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) Piracy
 
 This list is an attempt to add structure to the resources you need to get started on your pirate voyage.
 
@@ -64,7 +64,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![GitHub license](https://img.shields.io/github/license/maximousblk/piracy?style=for-the-badge)](https://github.com/maximousblk/piracy/blob/master/LICENSE)
+![License](https://img.shields.io/github/license/maximousblk/piracy?style=for-the-badge)
 
 To the extent possible under law, [Maximous Black](https://maximousblk.github.io/) has waived all copyright and related or neighboring rights to this project.
 

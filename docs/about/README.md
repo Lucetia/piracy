@@ -23,6 +23,6 @@ If you believe that your work is accessible on this list in a way that constitut
 
 ## License
 
-[![GitHub license](https://img.shields.io/github/license/maximousblk/piracy?style=for-the-badge)](https://github.com/maximousblk/piracy/blob/master/LICENSE)
+![License](https://img.shields.io/github/license/maximousblk/piracy?style=for-the-badge)
 
 To the extent possible under law, [Maximous Black](https://maximousblk.github.io/) has waived all copyright and related or neighboring rights to this project.
