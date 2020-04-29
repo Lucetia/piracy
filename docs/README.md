@@ -1,6 +1,6 @@
 ---
 title: Home
-metaTitle: Piracy
+metaTitle: Piracy - It's illegal cuz they can't tax you!
 ---
 
 ## Cartoons and Anime

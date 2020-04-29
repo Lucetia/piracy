@@ -1,6 +1,6 @@
 module.exports = {
     title: "Piracy",
-    description: "A curated list of arrrrr!",
+    description: "It's illegal cuz they can't tax you!",
     dest: "dist",
     head: [["link", { rel: "icon", href: "/favicon.ico" }]],
     themeConfig: {

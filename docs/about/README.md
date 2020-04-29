@@ -2,9 +2,10 @@
 home: true
 heroImage: /logo.svg
 heroText: Piracy
-tagline: A curated list of arrrrr!!!
+tagline: It's illegal cuz they can't tax you!
 actionText: Get Started →
 actionLink: /
+footer: PIRACY. IS. STEALING.
 ---
 
 This list is an attempt to add structure to the resources you need to get started on your pirate voyage.
@@ -23,6 +24,6 @@ If you believe that your work is accessible on this list in a way that constitut
 
 ## License
 
-![License](https://img.shields.io/github/license/maximousblk/piracy?style=for-the-badge)
+[![LICENSE](https://img.shields.io/github/license/maximousblk/piracy?style=for-the-badge)](https://github.com/maximousblk/piracy/blob/master/LICENSE)
 
 To the extent possible under law, [Maximous Black](https://maximousblk.github.io/) has waived all copyright and related or neighboring rights to this project.

@@ -6,8 +6,7 @@ Ensure your pull request adheres to the following guidelines:
 -   If you're adding a new header, ensure you give it a unique name.
 -   Do NOT add direct links to copyright protected material.
 -   Links to Dead of Malware containing websites are unacceptable.
--   [Explicit content](https://help.github.com/en/github/site-policy/github-terms-of-service).
--   List of links, specially Onion links, should be fomated as code. e.g. DuckDuckGo - [`http://3g2upl4pq6kufc4m.onion/`](http://3g2upl4pq6kufc4m.onion/)
+-   [Explicit content](https://help.github.com/en/github/site-policy/github-terms-of-service) is not accepted.
 
 ## Updating your PR
 

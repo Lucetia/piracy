@@ -1,9 +1,9 @@
 {
     "name": "piracy",
-    "description": "Awesome Piracy Website",
+    "description": "It's illegal cuz they can't tax you!",
     "scripts": {
-        "dev": "vuepress dev",
-        "build": "vuepress build"
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs"
     },
     "repository": {
         "type": "git",
