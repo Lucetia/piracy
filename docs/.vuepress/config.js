@@ -6,7 +6,6 @@ module.exports = {
         ["link", { rel: "icon", href: "/favicon.ico" }],
         ["meta", { name: "theme-color", content: "#3eaf7c" }],
         ["meta", { property: "theme-color", content: "#3eaf7c" }],
-
         ["meta", { property: "og:type", content: "website" }],
         ["meta", { property: "og:url", content: "https://piracy.now.sh/" }],
         ["meta", { property: "og:title", content: "Piracy" }],
@@ -17,8 +16,7 @@ module.exports = {
                 content: "It's illegal cuz they can't tax you!",
             },
         ],
-        ["meta", { property: "og:image", content: "/image.png" }],
-
+        ["meta", { property: "og:image", content: "/banner.png" }],
         ["meta", { property: "twitter:card", content: "summary_large_image" }],
         [
             "meta",
@@ -32,7 +30,7 @@ module.exports = {
                 content: "It's illegal cuz they can't tax you!",
             },
         ],
-        ["meta", { property: "twitter:image", content: "/image.png" }],
+        ["meta", { property: "twitter:image", content: "/banner.png" }],
         [
             "meta",
             {
