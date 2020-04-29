@@ -5,7 +5,7 @@ heroText: Piracy
 tagline: It's illegal cuz they can't tax you!
 actionText: Get Started →
 actionLink: /
-footer: PIRACY. IS. STEALING.
+footer: PIRACY IS STEALING
 ---
 
 This list is an attempt to add structure to the resources you need to get started on your pirate voyage.
