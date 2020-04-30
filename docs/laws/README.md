@@ -1,3 +1,5 @@
+<!--lint disable list-item-indent match-punctuation emphasis-marker list-item-indent-->
+
 # Laws
 
 ## Liability for Contents
